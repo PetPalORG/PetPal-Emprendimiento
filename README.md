@@ -20,9 +20,13 @@ Startup: PetPal
 
 Producto: PetPal
 
-|           Integrantes            |   Código   |
-| :------------------------------: | :--------: |
-|   Francis Daniel Mamani Silva    | u202219315 |
+|            Integrantes              |   Código   |
+| :---------------------------------: | :--------: |
+|    Francis Daniel Mamani Silva      | u202219315 |
+|        Ian Macavilca Quispe         | u202121325 |
+|  Frank Junion Salazar Saldarriaga   | u20181h103 |
+| Paolo Del Carmen Martines Villanueva| u202010039 |
+|   Michael Stefano Carmelino Dueñas  | u202212760 |
 
 </div>
 
