@@ -178,3 +178,30 @@ PetPal es una aplicación dedicada al cuidado de nuestras mascotas diseñada par
 
 El cuidado de las mascotas es una preocupación latente en cada uno de los propietarios, pero una gran cantidad enfrenta dificultad para gestionar la información importante sobre nuestras mascotas, como la dieta o sus vacunas de manera eficiente. Por otro lado, encontrar consejos de personas expertas y recursos para el cuidado de nuestras mascotas puede ser un desafío en un mundo de información en las cuales se contradicen unas con otras.
 
+**1.2.1 Antecedentes y problemática**
+
+**What?**
+
+PetPal es una aplicación la cual fue diseñada para volver más sencillo el cuidado de nuestras mascotas, de esta manera haciendo posible a los dueños el gestionar y llevar a la mano aspectos con mucha importancia como citas veterinarias, la dieta y el acceso a una opinión experta para el cuidado de nuestros engreídos.
+
+
+**Why?**
+
+Porque la preocupación por la salud de nuestras mascotas y la escasez de herramientas óptimas para gestionar su cuidado va en crecimiento. La existencia de una brecha en el mercado para las soluciones confiables derivadas de la opinión de un experto, lo que lleva a tomar decisiones apresuradas afectando la calidad de vida de nuestras mascotas.
+
+**Where?** 
+
+El problema surge en las familias de todo el país las cuales consideran a sus mascotas como miembros importantes de la familia. Además, se puede visualizar a nivel mundial, ya que la importancia que actualmente se le brinda a nuestras mascotas y la preocupación por ellas es universal.
+
+**When?** 
+
+La necesidad se va dando a medida que nuestra sociedad va reconociendo la importancia del bienestar de nuestra mascota y la necesidad de brindarles la mejor atención con herramientas óptimas para la gestión del cuidado de nuestros compañeros peludos.
+
+**Who?**
+
+Los dueños de estas mascotas son principalmente los afectos, ya que estos tienen que superar desafíos para una correcta gestión en el cuidado de sus mascotas. Además, las mascotas mismas también tienen un problema cuando no pueden recibir un correcto cuidado.
+
+**How?**
+
+PetPal aborda esta problemática proporcionando una plataforma integral que permite a los propietarios de mascotas gestionar fácilmente el cuidado de sus amigos peludos, desde el seguimiento de la dieta y las citas veterinarias hasta el acceso a consejos de expertos en cuidado de mascotas, todo a través de una interfaz intuitiva y centralizada.
+
