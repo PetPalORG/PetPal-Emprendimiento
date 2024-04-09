@@ -205,3 +205,14 @@ Los dueños de estas mascotas son principalmente los afectos, ya que estos tiene
 
 PetPal aborda esta problemática proporcionando una plataforma integral que permite a los propietarios de mascotas gestionar fácilmente el cuidado de sus amigos peludos, desde el seguimiento de la dieta y las citas veterinarias hasta el acceso a consejos de expertos en cuidado de mascotas, todo a través de una interfaz intuitiva y centralizada.
 
+
+**1.2.2 Lean UX Process.**
+
+**1.2.2.1. Lean UX Problem Statements.**
+
+Propietarios de mascota:
+
+Existe la dificultad entre los propietarios para mantener un registro correcto de información importante sobre nuestras mascotas, tales como dieta o citas veterinarias. Además, existen problemas al momento de intentar conseguir recursos y consejos para el cuidado de nuestras mascotas, debido a la información contrariada que existe.
+
+¿Cómo podemos ayudar a los propietarios a llevar una correcta gestión de la información de sus mascotas, y poder conseguir información confiable para conseguir recursos y consejos sobre el cuidado de nuestra mascota.
+
