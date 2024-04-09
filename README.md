@@ -570,7 +570,9 @@ Class soporteTecnico
 |fecha|datetime|Fecha en la que se contactó con el soporte técnico|
 |mensaje|str|Mensaje que se envió al soporte técnico|
 
-4\.8. Database Design
+4\.8. Database Design.
+
+Para el proyecto PetPal, se ha optado por utilizar MySQL como motor de base de datos. Se ha tomado esta decisión debido a que MySQL es una plataforma escalable y cuenta con una interfaz intuitiva y fácil de usar. Además, el equipo tiene experiencia previa con el motor de Microsoft SQL Server, lo que facilita la transición. MySQL permite expandir los recursos utilizados en la base de datos según las necesidades y requisitos del negocio, lo que lo hace una elección adecuada para nuestro proyecto.
 
 4\.8.1. Database Diagram
 
