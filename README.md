@@ -435,15 +435,30 @@ Este perfil proporciona una visión detallada de PetPal, incluyendo la descripci
 
 4\.5. Web Applications Prototyping
 
-4\.6. Domain-Driven Software Architecture.
+4\.6. **Domain-Driven Software Architecture.** 
 
-4\.6.1. Software Architecture Context Diagram
+4\.6.1. Software Architecture Context Diagram.
 
-4\.6.2. Software Architecture Container Diagram
+![image](https://github.com/PetPalORG/PetPal-Emprendimiento/assets/164519824/0cdfe015-2cb4-4708-b654-dfba64532c4c)
 
-4\.6.3. Software Architecture Components Diagram
 
-4\.7. Software Object-Oriented Design.
+4\.6.2. Software Architecture Container Diagrams.
+
+Usuarios
+
+![image](https://github.com/PetPalORG/PetPal-Emprendimiento/assets/164519824/389f944a-1715-4753-b2bf-3fc392293578)
+
+
+Administrador
+
+![image](https://github.com/PetPalORG/PetPal-Emprendimiento/assets/164519824/47f85cbf-dd8c-4d33-8b61-66d34b1e5b24)
+
+
+
+4\.6.3. Software Architecture Components Diagrams.
+
+![image](https://github.com/PetPalORG/PetPal-Emprendimiento/assets/164519824/874ae73b-30b7-448e-b083-98f459db87b7)
+
 
 4\.7.1. Class Diagrams
 
