@@ -244,3 +244,8 @@ Existe la dificultad entre los propietarios para mantener un registro correcto d
 
 **Sabremos que hemos tenido éxito** cuando seamos la aplicación para los cuidados de nuestras mascotas con más descargas.
 
+**1.2.2.4. Lean UX Canvas.**
+
+
+![Lean UX Canvas Template](https://github.com/PetPalORG/PetPal-Emprendimiento/assets/102317309/3e04f774-c29e-40e7-b844-66e6dc3e0e4d)
+
