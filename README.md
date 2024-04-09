@@ -174,3 +174,7 @@ PetPal es una aplicación dedicada al cuidado de nuestras mascotas diseñada par
 |<p>**Integrante 4**</p><p>**Ian Macavilca Quispe (U202121325)**</p><p><br></p>|Como estudiante de Ingeniería de Software, mi destreza en el pensamiento lógico me habilita para abordar desafíos de manera eficaz, optimizar procesos, diseñar software robusto, comunicar de manera clara, ser resiliente ante obstáculos y colaborar efectivamente en equipos, con lo que pienso aportar al éxito y eficiencia de la startup.|
 |<p>**Integrante 5**</p><p>**Paolo Del Carmen Martinez Villanueva (U202010039)**</p><p></p>|Mi nombre es Paolo Del Carmen Martinez Villanueva, soy estudiante del 6to ciclo de la carrera de Ingeniería de Software con conocimientos de programación intermedios. Me considero una persona responsable, ordenada y trabajadora. Por ello, pongo en disposición mis conocimientos y mi forma de trabajar y me comprometo a apoyar a mi equipo y a adquirir nuevos conocimientos para poder aportar todo lo que sea necesario para el trabajo.|
 
+**1.2. Solution Profile**
+
+El cuidado de las mascotas es una preocupación latente en cada uno de los propietarios, pero una gran cantidad enfrenta dificultad para gestionar la información importante sobre nuestras mascotas, como la dieta o sus vacunas de manera eficiente. Por otro lado, encontrar consejos de personas expertas y recursos para el cuidado de nuestras mascotas puede ser un desafío en un mundo de información en las cuales se contradicen unas con otras.
+
