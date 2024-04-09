@@ -152,10 +152,10 @@ URL Project Report (Github): https://github.com/AgriSage/Informe
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
  
-# **Capítulo I: Introducción**
+# **Capítulo I: Introducción** 
 
-  1.1  Startup Profile.
-   
-En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+**1.1. Startup Profile** 
 
-   **1.1.1. Descripción del startup.**
+Actualmente, las mascotas ya no son consideradas simplemente animales domésticos a los cuales mantenemos en casa, estos ahora son considerados miembros importantes de la familia en muchos hogares, y el desarrollo de tecnologías que faciliten y mejoren su cuidado está en aumento.
+
+Según datos recientes, se tiene estimado que el 67% de los hogares en el país tienen como mínimo una mascota, y esta cifra no ha dejado de crecer con el pasar de los años. Sin embargo, a pesar de la importancia que le damos a nuestras mascotas, aún se tiene la necesidad de herramientas que gestionen de manera óptima el cuidado de los engreídos del hogar. 
