@@ -260,7 +260,7 @@ Personas interesadas en obtener consejos y recursos confiables sobre el cuidado 
 Este perfil proporciona una visión detallada de PetPal, incluyendo la descripción de la startup, los perfiles del equipo, el contexto del problema, el proceso Lean UX y los segmentos objetivo.
 
 
-**Capítulo II: Requirements Elicitation & Analysis**
+# **Capítulo II: Requirements Elicitation & Analysis**
 
 2\.1. Competidores
 
@@ -289,7 +289,7 @@ Este perfil proporciona una visión detallada de PetPal, incluyendo la descripci
 2\.3.5. As-is Scenario Mapping.
 
 
-**Capitulo III: Requirements Specification**
+# **Capitulo III: Requirements Specification**
 
 3\.1. To-Be Scenario Mapping.
 
@@ -300,7 +300,7 @@ Este perfil proporciona una visión detallada de PetPal, incluyendo la descripci
 3\.4. Product Backlog.
 
 
-**Capítulo IV: Product Design**
+# **Capítulo IV: Product Design**
 
 4\.1. Style Guidelines
 
@@ -357,7 +357,7 @@ Este perfil proporciona una visión detallada de PetPal, incluyendo la descripci
 4\.8.1. Database Diagram
 
 
-**Capítulo V: Product Implementation, Validation & Deployment.** 
+# **Capítulo V: Product Implementation, Validation & Deployment.** 
 
 5\.1. Software Configuration Management. 
 
