@@ -467,6 +467,109 @@ Administrador
 
 4\.7.2. Class Dictionary.
 
+Class Usuario
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|id|int|Identificador del usuario|
+|nombre|str|Nombre del usuario|
+|correoElectronico|str|Correo electrónico del usuario|
+|contrasenia|str|Contraseña del usuario|
+|fechaRegistro|datetime|Fecha en la que el usuario se registró en la aplicación|
+
+Class Mascota
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|id|int|Identificador de la mascota|
+|nombre|str|Nombre de la mascota|
+|especie|str|Especie de la mascota|
+|raza|str|Raza de la mascota|
+|fechaNacimiento|datetime|Fecha de nacimiento de la mascota|
+|dieta|str|Alimento preferido de la mascota|
+|vacunas|vacuna|Lista de vacunas de la mascota|
+|citasVeterinario|cita|Citas veterinarias de la mascota|
+
+Class Cita
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|motivo|str|Motivo de la cita|
+|fecha|datetime|Fecha de la cita|
+
+Class Vacuna
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|tipoVacuna|str|Tipo de vacuna|
+|fecha|datetime|Fecha en la que se aplicó la vacuna|
+
+Class Dieta
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|alimento|str|Alimento que consumió la mascota|
+|fecha|datetime|Fecha en la que se alimentó a la mascota|
+
+Class HistorialMedico
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|citas|cita|Citas médicas de la mascota|
+
+Class Medicamento
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|nombre|str|Nombre de la vacuna|
+|dosis|str|Dosis de la vacuna|
+|frecuencia|str|Frecuencia de aplicación de la vacuna|
+|duracion|str|Duración total de la aplicación de la vacuna|
+
+Class Tratamiento
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|id|int|Identificador del tratamiento|
+|motivo|str|Motivo del tratamiento|
+|medicamentos|medicamento|Medicamentos a aplicar en el tratamiento|
+|fechaInicio|datetime|Fecha en la que se inició el tratamiento|
+|fechaFin|datetime|Fecha en la que terminó el tratamiento|
+
+Class Consejo
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|id|int|Identificador del consejo|
+|contenido|str|Contenido del consejo|
+|fechaPublicacion|datetime|Fecha de publicación del consejo|
+
+Class Notificacion
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|motivo|str|Motivo de la notificación|
+|hora|datetime|Hora de activación de la notificación|
+|fecha|datetime|Fecha de activación de la notificación|
+
+Class Feedback
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|id|int|Identificador del feedback|
+|idUsuario|int|Identificador del usuario que envió el feedback|
+|fechaFeedback|datetime|Fecha en la que se envió el feedback|
+|mensaje|str|Mensaje que contiene el feedback|
+
+Class soporteTecnico
+
+|Atributo|Variable|Descripción|
+| :-: | :-: | :-: |
+|id|int|Identificador del soporte técnico|
+|idUsuario|int|Identificador del usuario que contactó al soporte técnico|
+|fecha|datetime|Fecha en la que se contactó con el soporte técnico|
+|mensaje|str|Mensaje que se envió al soporte técnico|
+
 4\.8. Database Design
 
 4\.8.1. Database Diagram
