@@ -2,9 +2,6 @@
   <img src="images/Upclo.png" alt="Logo de UPC" width="100%">
 </p>
 
-asd
-
-
 # Universidad Peruana de Ciencias Aplicadas
 
 ## Carrera de Ingeniería de Software
