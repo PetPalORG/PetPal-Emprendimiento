@@ -353,7 +353,48 @@ Este perfil proporciona una visión detallada de PetPal, incluyendo la descripci
 
 3\.3. Impact Mapping.
 
-3\.4. Product Backlog.
+3\.4. **Product Backlog**
+
+|**# Orden**|**User Story ID**|**Título**|**Descripción**|**Story Points (1 / 2 / 3 / 5 / 8)**|
+| :- | :- | :- | :- | :- |
+|1|**US07**|Visualización de perfil de mascota|<p>**Como** usuario</p><p>**Quiero** poder ver el perfil completo de cada una de mis mascotas</p><p>**Para** acceder a su información detallada y necesidades individuales</p>|<p></p><p>3</p>|
+|2|**US08**|Edición del perfil de mascota|<p>**Como** usuario</p><p>**Quiero** poder editar la información de mi mascota en su perfil</p><p>**Para** mantenerla actualizada</p>|<p></p><p>3</p>|
+|3|**US09**|Eliminación del perfil de mascota|<p>**Como** usuario</p><p>**Quiero** quiero poder eliminar un perfil de mascota</p><p>**Para** actualizar mis perfiles si es necesario</p>|<p></p><p>3</p>|
+|4|**US10**|Registro de dieta diaria|<p>**Como** usuario</p><p>**Quiero** poder registrar la dieta diaria de mis mascotas</p><p>**Para** asegurarme que reciben la nutrición adecuada</p>|<p></p><p>8</p>|
+|5|**US11**|Seguimiento de peso|<p>**Como** usuario</p><p>**Quiero** registrar el peso de mis mascotas</p><p>**Para** monitorizar su salud y bienestar</p>|<p></p><p>5</p>|
+|6|**US12**|Recordatorios de alimentación|<p>**Como** usuario</p><p>**Quiero** establecer recordatorios para las comidas de mis mascotas</p><p>**Para** asegurarme que sigan una rutina de alimentación regular</p>|<p></p><p>5</p>|
+|7|**US13**|Programación de cita veterinaria|<p>**Como** usuario</p><p>**Quiero** programar una cita veterinaria para mi mascota</p><p>**Para** garantizar su salud y bienestar</p>|<p></p><p>8</p>|
+|8|**US14**|Historial de citas veterinarias|<p>**Como** usuario</p><p>**Quiero** ver el historial completo de citas veterinarias de mis mascotas</p><p>**Para** tener un registro de su atención médica</p>|<p></p><p>5</p>|
+|9|**US15**|Cancelación de cita veterinaria|<p>**Como** usuario</p><p>**Quiero** cancelar una cita veterinaria</p><p>**Para** actualizar si es necesario</p>|<p></p><p>5</p>|
+|10|**US16**|Visualización de consejos|<p>**Como** usuario</p><p>**Quiero** acceder a una sección de consejos de cuidado de mascotas</p><p>**Para** mejorar el cuidado de mis mascotas</p>|<p></p><p>5</p>|
+|11|**US17**|Búsqueda de consejos específicos|<p>**Como** usuario</p><p>**Quiero** buscar consejos específicos</p><p>**Para** encontrar información más rápidamente</p>|<p></p><p>5</p>|
+|12|**US18**|Agregar foto de perfil a la mascota|<p>**Como** usuario</p><p>**Quiero** poder agregar una foto al perfil de mi mascota</p><p>**Para** personalizarlo y hacerlo más identificable</p>|<p></p><p>3</p>|
+|13|**US19**|Agregar descripción de mascota|<p>**Como** usuario</p><p>**Quiero** agregar una descripción de mi mascota</p><p>**Para** registrarla como información relevante de mi mascota</p>|<p></p><p>3</p>|
+|14|**US20**|Registro de tratamientos|<p>**Como** usuario</p><p>**Quiero** registrar los tratamientos administrados a mi mascota</p><p>**Para** garantizar que recibe el cuidado necesario</p>|<p></p><p>8</p>|
+|15|**US21**|Recordatorio de medicamentos|<p>**Como** usuario</p><p>**Quiero** recibir recordatorios para la administración de medicamentos</p><p>**Para** asegurarme que mi mascota siga su tratamiento correctamente</p>|<p></p><p>5</p>|
+|16|**US22**|Historial médico|<p>**Como** usuario</p><p>**Quiero** ver el historial médico de mi mascota</p><p>**Para** tener un registro detallado de su salud</p>|<p></p><p>5</p>|
+|17|**US06**|Suscripción a membresía premium|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|<p></p><p>1</p>|
+|18|**US25**|Visualizar una landing page atractiva|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una landing page clara y atractiva</p><p>**Para** entender el propósito de la aplicación</p>|<p></p><p>3</p>|
+|19|**US26**|Sección “Servicios”|<p>**Como** visitante del landing page</p><p>**Quiero** conocer sobre los servicios que brinda la aplicación</p><p>**Para** informarme sobre su uso</p>|<p></p><p>3</p>|
+|20|**US27**|Sección “Recursos”|<p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la sección “Recursos”</p><p>**Para** obtener información sobre los recursos que brinda PetPal</p>|<p></p><p>3</p>|
+|21|**US28**|Sección “Comunidad”|<p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la sección “Comunidad”</p><p>**Para** conocer a la comunidad de PetPal</p>|<p></p><p>3</p>|
+|22|**US29**|Sección “Nosotros”|<p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la sección “Nosotros”</p><p>**Para** conocer al equipo de PetPal</p>|<p></p><p>3</p>|
+|23|**US23**|Contactar al soporte|<p>**Como** usuario</p><p>**Quiero** poder contactar al equipo de soporte de la aplicación</p><p>**Para** obtener ayuda con problemas técnicos</p>|<p></p><p>3</p>|
+|24|**US01**|Registro de usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en PetPal</p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|<p></p><p>1</p>|
+|25|**US02**|Inicio de sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|<p></p><p>1</p>|
+|26|**US03**|Recuperación de contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|<p></p><p>1</p>|
+|27|**US04**|Cambiar dirección de correo electrónico|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|<p></p><p>1</p>|
+|28|**US05**|Eliminar cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p>|<p></p><p>1</p>|
+|29|**TS01**|**Post User**|<p>**Como** desarrollador que trabaja en la aplicación de PetPal</p><p>**Quiero** registrar a un nuevo usuario mediante una API</p><p>**Para** que esté disponible para crear funcionalidades en mi aplicación</p>|<p></p><p>3</p>|
+|30|**TS02**|**Get User**|<p>**Como** desarrollador que trabaja en la aplicación de PetPal</p><p>**Quiero** obtener la información de un usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+|31|**TS03**|**Post Pet**|<p>**Como** desarrollador que trabaja en la aplicación de PetPal</p><p>**Quiero** registrar una nueva mascota mediante una API</p><p>**Para** que esté disponible para crear funcionalidades en mi aplicación</p>|<p></p><p>5</p>|
+|32|**TS04**|**Get Pet**|<p>**Como** desarrollador que trabaja en la aplicación de PetPal</p><p>**Quiero** obtener la información de una mascota mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>5</p>|
+|33|**TS05**|**Post Food**|<p>**Como** desarrollador que trabaja en la aplicación de PetPal</p><p>**Quiero** registrar la alimentación de una mascota mediante una API</p><p>**Para** que esté disponible para crear funcionalidades en mi aplicación</p>|<p></p><p>5</p>|
+|34|**TS06**|**Get Food by Pet**|<p>**Como** desarrollador que trabaja en la aplicación de PetPal</p><p>**Quiero** obtener la información de la alimentación por mascota mediante una API</p><p>**Para** mostrarla en la aplicación en caso se solicite</p>|<p></p><p>5</p>|
+|35|**TS07**|**Post Vet Appointment**|<p>**Como** desarrollador que trabaja en la aplicación de PetPal</p><p>**Quiero** registrar citas al veterinario por mascota mediante una API</p><p>**Para** que esté disponible para crear funcionalidades en mi aplicación</p>|<p></p><p>5</p>|
+|36|**TS08**|**Get Vet Appointment**|<p>**Como** desarrollador que trabaja en la aplicación de PetPal</p><p>**Quiero** obtener la información sobre las citas al veterinario por mascota mediante una API</p><p>**Para** mostrarla en la aplicación en caso se solicite</p>|<p></p><p>5</p>|
+|37|**TS09**|**Get Advice**|<p>**Como** desarrollador que trabaja en la aplicación de PetPal</p><p>**Quiero** obtener la información de consejos para mascotas mediante una API</p><p>**Para** mostrarla en la aplicación en caso se solicite</p>|<p></p><p>5</p>|
+
 
 
 # **Capítulo IV: Product Design**
