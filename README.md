@@ -216,3 +216,20 @@ Existe la dificultad entre los propietarios para mantener un registro correcto d
 
 ¿Cómo podemos ayudar a los propietarios a llevar una correcta gestión de la información de sus mascotas, y poder conseguir información confiable para conseguir recursos y consejos sobre el cuidado de nuestra mascota.
 
+**1.2.2.2. Lean UX Assumptions.**
+
+
+- **User Assumptions**
+
+**¿Quién es el usuario?** Personas que consideran a sus mascotas como parte esencial de la familia.
+
+**¿Dónde encaja nuestro producto, en su trabajo o en su vida?** En su vida
+
+**¿Qué problema resuelve nuestro producto?** Mejora la calidad de vida de las mascotas de los clientes.
+
+**¿Cuándo y cómo se utiliza nuestro producto?** Siempre que necesiten registrar información sobre su mascota o conseguir consejos de expertos para su cuidado, todo esto posible ingresando a la app.
+
+**¿Qué características son importantes?** El registro de información importante de nuestra mascota y el poder conseguir información sobre dónde conseguir recursos, y consejos para el cuidado de nuestras mascotas.
+
+**¿Cómo debe verse y comportarse nuestro producto?** Funcional, eficaz y minimalista, donde el usuario pueda registrar la información de sus mascotas de forma sencilla y realizar la búsqueda de información para el cuidado de sus mascotas.
+
