@@ -249,3 +249,13 @@ Existe la dificultad entre los propietarios para mantener un registro correcto d
 
 ![Lean UX Canvas Template](https://github.com/PetPalORG/PetPal-Emprendimiento/assets/102317309/3e04f774-c29e-40e7-b844-66e6dc3e0e4d)
 
+
+
+**1.3. Segmentos objetivo.**
+
+Propietarios de mascotas que buscan una solución conveniente para gestionar la salud y el bienestar de sus animales de compañía.
+
+Personas interesadas en obtener consejos y recursos confiables sobre el cuidado de mascotas en una sola plataforma.
+
+Este perfil proporciona una visión detallada de PetPal, incluyendo la descripción de la startup, los perfiles del equipo, el contexto del problema, el proceso Lean UX y los segmentos objetivo.
+
