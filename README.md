@@ -460,7 +460,10 @@ Administrador
 ![image](https://github.com/PetPalORG/PetPal-Emprendimiento/assets/164519824/874ae73b-30b7-448e-b083-98f459db87b7)
 
 
-4\.7.1. Class Diagrams
+4\.7.1. Class Diagrams.
+
+![image](https://github.com/PetPalORG/PetPal-Emprendimiento/assets/164519824/3a32ef84-b1ff-4d03-8123-8e1d45e20152)
+
 
 4\.7.2. Class Dictionary.
 
