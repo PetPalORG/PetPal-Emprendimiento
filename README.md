@@ -233,3 +233,14 @@ Existe la dificultad entre los propietarios para mantener un registro correcto d
 
 **¿Cómo debe verse y comportarse nuestro producto?** Funcional, eficaz y minimalista, donde el usuario pueda registrar la información de sus mascotas de forma sencilla y realizar la búsqueda de información para el cuidado de sus mascotas.
 
+**1.2.2.3. Lean UX Hypothesis Statements.**
+
+
+- Usuario cliente
+
+**Creemos que** al ofrecer una aplicación móvil para el cuidado de mascotas con funcionalidades de seguimiento y acceso a consejos de confianza
+
+**Lograremos** mejorar la experiencia de los dueños de mascotas y aumentaremos su satisfacción.
+
+**Sabremos que hemos tenido éxito** cuando seamos la aplicación para los cuidados de nuestras mascotas con más descargas.
+
