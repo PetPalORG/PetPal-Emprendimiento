@@ -159,3 +159,8 @@ URL Project Report (Github): https://github.com/AgriSage/Informe
 Actualmente, las mascotas ya no son consideradas simplemente animales domésticos a los cuales mantenemos en casa, estos ahora son considerados miembros importantes de la familia en muchos hogares, y el desarrollo de tecnologías que faciliten y mejoren su cuidado está en aumento.
 
 Según datos recientes, se tiene estimado que el 67% de los hogares en el país tienen como mínimo una mascota, y esta cifra no ha dejado de crecer con el pasar de los años. Sin embargo, a pesar de la importancia que le damos a nuestras mascotas, aún se tiene la necesidad de herramientas que gestionen de manera óptima el cuidado de los engreídos del hogar. 
+
+**1.1.1. Descripción de la Startup** 
+
+PetPal es una aplicación dedicada al cuidado de nuestras mascotas diseñada para hacer más sencillo a los clientes la gestión y seguimiento de la salud y bienestar de nuestras mascotas. Nos brinda una plataforma intuitiva la cual permite a los usuarios la creación de perfiles personalizados para cada uno de nuestros engreídos, donde puedes registrar información esencial como la dieta, las vacunas, las citas a la veterinaria y otros aspectos importantes en el cuidado de nuestras mascotas. Además, Petpal nos ofrece acceso a recursos y consejos de expertos en el cuidado de mascotas, para de esta manera ayudar a los dueños a tomar decisiones de manera responsable sobre la salud y el bienestar de nuestros engreídos.
+
