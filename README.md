@@ -32,30 +32,22 @@ Producto: PetPal
 
 # **Registro de Versiones**
 
-<table>
-  <thead>
-    <tr>
-        <th>Versión</th>
-        <th>Descripción de modificación</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-      <td><strong>TB1</strong></td>
-      <td>
-        Se han incluído los siguientes capítulos:
-        <ul>
-          <li>Capítulo I: Introducción</li>
-          <li>Capítulo II: Requirements Elicitation & Analysis</li>
-          <li>Capítulo III: Requirements Specification</li>
-          <li>Capítulo IV: Product Design</li>
-          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
-          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
-        </ul>
-      </td>
-  </tr>
-  </tbody>
-</table>
+| Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
+|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
+| 1.0       |  2024/03/18    | | Creación del documento de trabajo en formato markdown. | Completado  |
+| 1.1       |  2024/03/18    | | Agregar la plantilla del reporte en markdown | Completado  |
+| 1.2       |  2024/03/18    | |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
+| 1.3       |  2024/03/18    | |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Pendiente |
+| 1.4       |  2024/03/18    | |Elaboración de user personas, user task matrix, user journey mapping, empathy mapping, as-is   | Pendiente |
+| 1.5       |  2024/03/18    | |Elaboración de to-be, impact mapping   | Pendiente |
+| 1.6       |  2024/03/18    | Martinez Villanueva, Paolo Del Carmen |Elaboración de user stories, product backlog | Completado |
+| 1.7       |  2024/03/18    | |Elaboración de prototipos de wireframes y mockups  | Pendiente |
+| 1.8       |  2024/03/18    | |Redacción de style guidelines e information architecture| Pendiente |
+| 1.9       |  2024/03/29    | Martinez Villanueva, Paolo Del Carmen |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
+| 2.0       |  2024/03/18    | |Registro de evidencias del Sprint 1 | Pendiente |
+| 2.1       |  2024/03/18    | |Rediseño de mockups. Elaboración de wireflows y user-flows| Pendiente |
+| 2.2       |  2024/04/04    | Martinez Villanueva, Paolo Del Carmen | Redacción de software configuration management, sprint planning 1, sprint backlog 1 | Completado |
+| 2.3       |  2024/03/18    | |Redacción de Collaboration Insights | Pendiente |
 
 # **Project Report Collaboration Insights**
 
