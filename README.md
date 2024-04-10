@@ -51,7 +51,7 @@ Producto: PetPal
 
 # **Project Report Collaboration Insights**
 
-URL Project Report (Github): https://github.com/AgriSage/Informe
+URL Project Report (Github): https://github.com/PetPalORG/PetPal-Informe
 
 # **Tabla de Contenido**
 
