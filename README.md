@@ -912,6 +912,129 @@ Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario c
 
 5\.2.1.4. Testing Suite Evidence for Sprint Review. 
 
+```gherkin
+Feature: US-21: Acceder desde cualquier dispositivo a la landing page
+
+    Como visitante del landing page
+    Quiero que sea accesible desde diferentes dispositivos
+    Para poder ingresar al sitio web desde cualquier dispositivo
+
+  Scenario: Accesibilidad desde diferentes dispositivos
+    Given el usuario es un visitante del landing page
+    When acceda al sitio web desde un dispositivo diferente (móvil, tablet, PC)
+    Then debería poder visualizar la página correctamente en cualquier dispositivo
+
+  Scenario: Acceso fácil desde cualquier lugar
+    Given el usuario es un visitante del landing page
+    When intente acceder al sitio web desde mi dispositivo habitual
+    Then debería poder ingresar a la página de PetPal desde cualquier lugar y dispositivo
+
+
+Feature: US-22: Sección “Servicios”
+
+    Como visitante del landing page
+    Quiero conocer sobre los servicios que brinda la aplicación
+    Para informarme sobre su uso  
+
+  Scenario: Visualización de los features
+    Given el usuario se encuentra en el landing page 
+    When acceda a la sección “Servicios”
+    Then podrá visualizar los servicios que brinda la aplicación
+
+  Scenario: Sección no atractiva
+    Given que el usuario está ingresando a la página de inicio desde otro dispositivo
+    When revise la información y la encuentre desordenada y desagradable a la vista
+    Then cierra nuestra página de inicio y continúa navegando por internet
+
+
+Feature: US-23: Sección “Recursos”
+
+    Como visitante del landing page
+    Quiero poder acceder a la sección “Recursos”
+    Para obtener información sobre los recursos que brinda PetPal
+
+  Scenario: Acceso a la sección “Recursos”
+    Given el usuario está explorando el landing page 
+    When acceda a la sección “Recursos”
+    Then podrá leer sobre los recursos que brinda la aplicación
+
+  Scenario: Sección no atractiva
+    Given que el usuario está ingresando a la página de inicio desde otro dispositivo
+    When revise la información y la encuentre desordenada y desagradable a la vista
+    Then cierra nuestra página y continúa navegando por internet
+
+
+Feature: US-24: Sección “Testimonios”
+
+    Como visitante del landing page
+    Quiero poder acceder a la sección “Testimonios”
+    Para leer opiniones sobre usuarios de PetPal
+
+  Scenario: Acceso a la sección “Testimonios”
+    Given el usuario está explorando el landing page 
+    When acceda a la sección “Testimonios”
+    Then podrá leer testimonios de usuarios de PetPal
+
+  Scenario: Sección no atractiva
+    Given que el usuario está ingresando a la página de inicio desde otro dispositivo
+    When revise la información y la encuentre desordenada y desagradable a la vista
+    Then cierra nuestra página y continúa navegando por internet
+
+
+Feature: US-25: Sección "Nosotros"
+
+    Como visitante del landing page
+    Quiero poder acceder a la sección “Nosotros”
+    Para conocer al equipo de PetPal
+
+  Scenario: Acceso a la sección "Nosotros"
+    Given el usuario está explorando el landing page 
+    When acceda a la sección “Nosotros”
+    Then podrá conocer y leer acerca del equipo de PetPal
+
+  Scenario: Sección no atractiva
+    Given que el usuario está ingresando a la página de inicio desde otro dispositivo
+    When revise la información y la encuentre desordenada y desagradable a la vista
+    Then cierra nuestra página y continúa navegando por internet    
+
+ ```
+
+En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
+
+
+
+**1. Utilización de Live Server de Microsoft Visual Studio Code** 
+
+Propósito:
+- Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
+
+Descripción:
+- Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
+
+
+
+**2. Firefox Developer para Pruebas de Dimensiones Móviles** 
+
+Propósito:
+- Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
+
+Descripción:
+- Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
+
+
+
+**3. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 
+
+Propósito:
+- Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
+
+Descripción:
+- Se exploraron las capacidades de inspección de elementos del navegador para ajustar y optimizar el diseño de la landing page, especialmente en lo que respecta al uso de CSS Grid. Además, se utilizaron las herramientas de depuración del navegador para identificar y corregir cualquier problema de diseño responsivo.
+
+
+
+Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional. 
+
 5\.2.1.5. Execution Evidence for Sprint Review. 
 
 5\.2.1.6. Services Documentation Evidence for Sprint Review. 
