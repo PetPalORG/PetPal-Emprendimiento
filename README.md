@@ -487,6 +487,23 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
   <img src="images/as-is.png" width="100%">
 </p>
 
+  2\2.4. Ubiquitous Language.
+
+**Dominio del cuidado de mascotas:**
+
+1. **Mascota:** Se refiere a cualquier animal doméstico, como perros, gatos, aves, etc., que vive con un propietario humano y recibe cuidados y atención.
+2. **Propietario:** Persona responsable del cuidado y bienestar de una o varias mascotas.
+3. **Cuidado de mascotas:** Todas las actividades y responsabilidades relacionadas con mantener la salud, seguridad y felicidad de una mascota, incluyendo alimentación, ejercicio, higiene y atención médica.
+4. **Salud de la mascota:** Estado físico y mental de una mascota, incluyendo la prevención y tratamiento de enfermedades, alergias y lesiones.
+5. **Alimentación:** Proceso de proporcionar comida y agua adecuadas a una mascota para mantener su nutrición y salud.
+6. **Ejercicio:** Actividades físicas y recreativas que promueven la salud y el bienestar de una mascota, como caminatas, juegos y entrenamiento.
+7. **Citas veterinarias:** Consultas programadas con un veterinario para chequeos de salud, vacunas, tratamientos médicos y consejos sobre el cuidado de la mascota.
+8. **Aplicación de cuidado de mascotas:** Una herramienta digital diseñada para ayudar a los propietarios a gestionar y organizar la información relacionada con sus mascotas, proporcionar consejos de cuidado, recordatorios de citas veterinarias y compartir experiencias con otros usuarios.
+9. **Registro de salud:** Documentación detallada de la salud y el historial médico de una mascota, incluyendo medicamentos administrados, alergias, vacunas y tratamientos.
+10. **Consejos de cuidado:** Información y orientación proporcionada a los propietarios sobre cómo cuidar mejor a sus mascotas, incluyendo nutrición, higiene, entrenamiento y prevención de enfermedades.
+11. **Privacidad y seguridad:** Protección de la información personal y de las mascotas de los propietarios en una aplicación de cuidado de mascotas, garantizando que los datos estén seguros y solo sean accesibles por los usuarios autorizados.
+
+
 # **Capitulo III: Requirements Specification**
 
 3\.1. To-Be Scenario Mapping.
