@@ -483,6 +483,9 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
   
   2\.3.5. As-is Scenario Mapping.
 
+<p align="center">
+  <img src="images/as-is.png" width="100%">
+</p>
 
 # **Capitulo III: Requirements Specification**
 
