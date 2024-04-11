@@ -473,6 +473,13 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 </p>
 
   2\.3.4. Empathy Mapping.
+
+
+**Personas dueñas de mascotas:**
+
+<p align="center">
+  <img src="images/empathymaping.png" width="100%">
+</p>
   
   2\.3.5. As-is Scenario Mapping.
 
