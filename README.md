@@ -24,7 +24,7 @@ Producto: PetPal
 | :---------------------------------: | :--------: |
 |    Francis Daniel Mamani Silva      | u202219315 |
 |        Ian Macavilca Quispe         | u202121325 |
-|  Frank Junion Salazar Saldarriaga   | u20181h103 |
+|  Frank Junior Salazar Saldarriaga   | u20181h103 |
 | Paolo Del Carmen Martines Villanueva| u202010039 |
 |   Michael Stefano Carmelino Dueñas  | u202212760 |
 
@@ -1043,7 +1043,27 @@ Estas estrategias de prueba garantizaron la funcionalidad, la estética y la ada
 
 5\.2.1.8. Team Collaboration Insights during Sprint.
 
+- 5.2.X.8. Team Collaboration Insights during Sprint
+  
+| Alumno                              | Actividad                                                  |
+|-------------------------------------|------------------------------------------------------------|
+| Francis Daniel Mamani Silva   | xxx     |
+| Ian Macavilca Quispe       | xxx   |
+| Frank Junior Salazar Saldarriaga      | xxx      |
+| Paolo Del Carmen Martines Villanueva 	| xxx           |
+| Michael Stefano Carmelino Dueñas | xxx       |
+ 
+Hemos desarrollado en conjunto un total de xxx commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
+ 
+Tabla para poder identificarnos:
 
+| Username (Github)                           | Nombre                                                  |
+|-------------------------------------|------------------------------------------------------------|
+| danieln3m0  | Francis Daniel Mamani Silva      |
+| IanMQ       | Ian Macavilca Quispe  |
+| AnkSaldarriaga      | Frank Junior Salazar Saldarriaga      |
+| paolomv02 	| Martinez Villanueva, Paolo Del Carmen           |
+| stxfxno | Michael Stefano Carmelino Dueñas    |
 
 **Conclusiones** 
 
