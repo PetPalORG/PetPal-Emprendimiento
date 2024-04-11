@@ -523,7 +523,7 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 |**EP07**|Personalización de perfiles|<p>**Como** usuario</p><p>**Quiero** personalizar el perfil de mis mascotas</p><p>**Para** tener un registro completo de cada mascota</p>|<p>US14 - Agregar foto de perfil a la mascota</p><p></p><p>US15 - Agregar descripción de mascota</p>|
 |**EP08**|Gestión de tratamientos|<p>**Como** usuario</p><p>**Quiero** registrar y administrar tratamientos para mis mascotas</p><p>**Para** garantizar que reciban el cuidado necesario de su salud en caso de enfermedad</p>|<p>US16 - Registro de tratamientos</p><p></p><p>US17 - Recordatorio de tratamientos</p><p></p><p>US18 - Historial médico</p>|
 |**EP09**|Contacto|<p>**Como** visitante del landing page</p><p>**Quiero** contar con una sección que me permita contactar con los desarrolladores de la aplicación</p><p>**Para** resolver algún problema o dar mi opinión sobre la aplicación** </p>|<p>US19 - Contactar al soporte</p><p></p><p>US20 - Dar feedback</p><p></p>|
-|**EP10**|Optimización de la experiencia del usuario|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una presentación atractiva</p><p>**Para** conocer los servicios y características que ofrece TripMate</p>|<p>US21 - Visualizar una landing page atractiva </p><p></p><p>US22 - Sección “Servicios”</p><p></p><p>US23 - Sección “Recursos”</p><p></p><p>US24 - Sección “Testimonios”</p><p></p><p>US25 - Sección “Nosotros”</p>|
+|**EP10**|Optimización de la experiencia del usuario|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una presentación atractiva</p><p>**Para** conocer los servicios y características que ofrece PetPal</p>|<p>US21 - Visualizar una landing page atractiva </p><p></p><p>US22 - Sección “Servicios”</p><p></p><p>US23 - Sección “Recursos”</p><p></p><p>US24 - Sección “Testimonios”</p><p></p><p>US25 - Sección “Nosotros”</p>|
 
 **User Stories**
 
@@ -879,6 +879,21 @@ Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario c
 5\.2.1. Sprint 1 
 
 5\.2.1.1. Sprint Planning 1. 
+
+| **Sprint #** | **Sprint 1** |
+| :- | :- |
+| **Sprint Planning Background** | |
+| Date | 30/03/2024 |
+| Time | 8:00 PM - 11:00 PM |
+| Location | Discord |
+| **Prepared By** | Adrián Enrique Jesús Palma Obispo  |
+| Attendees | - Michael Stefano Carmelino Dueñas (u202212760)<br>- Frank Junior Salazar Saldarriaga (u20181h103)<br>- Francis Daniel Mamani Silva (u202219315)<br>- Ian Macavilca Quispe (u202121325)<br>- Paolo Del Carmen Martinez Villanueva (u202010039) |
+| **Sprint 0 Review Summary** | Diseño y desarrollo del Landing Page |
+| **Sprint 0 Retrospective Summary** | Completar los diseños y estandarizar el lenguaje usado en el desarrollo y presentación del landing page |
+| **Sprint Goal & User Stories** | |
+| **Sprint 1 Goal** | Elaborar, diseñar y desplegar una Landing Page atractiva e informativa para la aplicación PetPal |
+| **Sprint 1 Velocity** | 15 |
+| **Sum of Story Points** | 15 |
 
 5\.2.1.2. Sprint Backlog 1. 
 
