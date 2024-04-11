@@ -440,7 +440,28 @@ Las entrevistas revelan una serie de necesidades comunes entre los propietarios 
 </p>
   
   2\.3.2. User Task Matrix.
-  
+
+|Personas dueñas de mascotas|||
+| :-: | :- | :- |
+|Task|Frequency|Importance|
+|Buscar información sobre cuidado de mascotas|Sometimes|Medium|
+|Organizar información sobre las mascotas|Never|Medium|
+|Registrar la dieta de las mascotas|Always|High|
+|Gestionar citas veterinarias|Always|High|
+|Recibir consejos y asistencia rápida|Always|High|
+|Compartir información y experiencias|Sometimes|Medium|
+|Monitorear la salud de las mascotas|Always|High|
+|Controlar el ejercicio de las mascotas|Always|High|
+|Administrar medicamentos y tratamientos|Always|High|
+|Mantener registros de vacunación y desparasitación|Always|Medium|
+|Evaluar y corregir problemas de comportamiento|Sometimes|Medium|
+|Mantener limpio el entorno de las mascotas|Sometimes|High|
+|Proporcionar entretenimiento y enriquecimiento|Sometimes|High|
+|Establecer rutinas y horarios|Never|High|
+|Supervisar el desarrollo físico y mental|Always|High|
+
+Las tareas que tienen mayor frecuencia son aquellas que realizan los dueños de mascotas, ya que deben estar constantemente atentos al cuidado y bienestar de sus compañeros animales. Tienen que buscar información, organizar registros, gestionar citas veterinarias y proporcionar atención y cuidados diarios para garantizar que sus mascotas estén saludables y felices. Además, deben estar atentos a cualquier cambio en el comportamiento o la salud de sus mascotas y tomar medidas correctivas según sea necesario. Por otro lado, hay tareas que realizan con menos frecuencia, como evaluar y corregir problemas de comportamiento o realizar cambios en la dieta y el régimen de ejercicio de las mascotas para mejorar su calidad de vida a largo plazo.
+
   2\.3.3. User Journey Mapping.
   
   2\.3.4. Empathy Mapping.
