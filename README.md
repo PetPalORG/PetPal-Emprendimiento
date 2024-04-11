@@ -1043,17 +1043,21 @@ Estas estrategias de prueba garantizaron la funcionalidad, la estética y la ada
 
 5\.2.1.8. Team Collaboration Insights during Sprint.
 
-5\.3. Validation Interviews.
 
-5\.3.1. Diseño de Entrevistas.
 
-5\.3.2. Registro de Entrevistas.
+**Conclusiones** 
 
-5\.3.3. Evaluaciones según heurísticas.
 
-5\.4. Video About-the-Product.
+**Bibliografía** 
 
-Avance de Conclusiones, Bibliografía y Anexos.
+
+**Anexos**
+
+- Repositorio GitHub Informe: [Ver enlace](https://github.com/PetPalORG/PetPal-Informe)
+- Figma: [Diseño en Figma](https://www.figma.com/file/vrwbSYk9W1tMcE8bqqXL8V/PET-PAL-base-design?type=design&node-id=27%3A1&mode=design&t=flDp1gAEf6ifHTXC-1)
+- Vertabelo: [Database Diagram](https://my.vertabelo.com/public-model-view/lvw8l43FtPK4CEWrIX6kDnL6XkXJErzaTKOFmJgAOLxccyWz0VqNTsJV1BrOe8rR?x=2402&y=2640&zoom=0.4028)
+- PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2701000)
+    
   
 
 
