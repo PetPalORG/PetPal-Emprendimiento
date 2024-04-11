@@ -432,15 +432,20 @@ Las entrevistas revelan una serie de necesidades comunes entre los propietarios 
 
 2\.3. Needfinding.
 
-2\.3.1. User Personas.
+  2\.3.1. User Personas.
+- **User Persona de un dueño con mascotas**
 
-2\.3.2. User Task Matrix.
-
-2\.3.3. User Journey Mapping.
-
-2\.3.4. Empathy Mapping.
-
-2\.3.5. As-is Scenario Mapping.
+<p align="center">
+  <img src="images/userpersona.png" width="100%">
+</p>
+  
+  2\.3.2. User Task Matrix.
+  
+  2\.3.3. User Journey Mapping.
+  
+  2\.3.4. Empathy Mapping.
+  
+  2\.3.5. As-is Scenario Mapping.
 
 
 # **Capitulo III: Requirements Specification**
