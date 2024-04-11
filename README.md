@@ -279,6 +279,76 @@ El examen de la competencia es fundamental para la toma de decisiones estratégi
 
 2\.1.2. Estrategias y tácticas frente a competidores
 
+Gracias al análisis exhaustivo de la competencia realizado previamente, pudimos identificar con precisión las fortalezas, debilidades, oportunidades y amenazas más relevantes de nuestros competidores. Este conocimiento es esencial para desarrollar estrategias y tácticas efectivas que nos permitan superar a la competencia una vez que nuestro servicio se lance al mercado de manera rentable. A continuación, se presentarán una serie de estrategias y tácticas delineadas para alcanzar este objetivo.
+
+**Afrontando las fortalezas de nuestros competidores:**
+
+**Comprendemos que nuestras fortalezas son:**
+
+- Interfaz intuitiva y completa para el seguimiento de la salud de las mascotas.
+- Servicios de asistencia en línea y recursos educativos variados.
+
+**Estrategias:**
+
+- Diferenciación: Resaltar la facilidad de uso y la amplitud de nuestros servicios en comparación con los competidores.
+- Marketing centrado en la experiencia del usuario: Destacar la conveniencia y la utilidad de nuestros recursos educativos y servicios de asistencia en línea.
+
+**Tácticas:**
+
+- Campañas de marketing digital que resalten la accesibilidad y la utilidad de nuestra plataforma.
+- Creación de contenido educativo relevante y de alta calidad para atraer y retener a los usuarios.
+
+**Afrontando las debilidades de nuestros competidores:**
+
+**Comprendemos que nuestras debilidades son:**
+
+- Dependencia de la conectividad a Internet.
+- Competencia fuerte en el mercado de aplicaciones de cuidado de mascotas.
+
+**Estrategias:**
+
+- Mejora de la accesibilidad: Buscar formas de optimizar la aplicación para funcionar mejor en condiciones de conectividad limitada.
+- Diferenciación a través de la innovación: Introducir características únicas y útiles que nuestros competidores no ofrecen.
+
+**Tácticas:**
+
+- Desarrollo de una versión offline de la aplicación para usuarios con conectividad limitada.
+- Investigación y desarrollo continuo para identificar nuevas características y funcionalidades que diferencien a PetPal de sus competidores.
+
+**Afrontando las oportunidades de nuestros competidores:**
+
+**Comprendemos que nuestras oportunidades son:**
+
+- Crecimiento del mercado de cuidado de mascotas.
+- Potencial para expandir los servicios ofrecidos.
+
+**Estrategias:**
+
+- Expansión del mercado: Identificar y llegar a nuevos segmentos de usuarios interesados en el cuidado de mascotas.
+- Diversificación de servicios: Explorar nuevas áreas de servicio, como la venta de productos relacionados con mascotas o la colaboración con veterinarios locales.
+
+**Tácticas:**
+
+- Desarrollo de campañas de marketing dirigidas a nuevos segmentos de usuarios, como propietarios de mascotas mayores o dueños de mascotas exóticas.
+- Investigación de mercado para identificar las necesidades y demandas de los usuarios que podrían llevar a la expansión de servicios.
+
+**Afrontando las amenazas de nuestros competidores:**
+
+**Comprendemos que nuestras amenazas son:**
+
+- Cambios rápidos en la tecnología.
+- Posibles cambios en regulaciones y cumplimiento.
+
+**Estrategias:**
+
+- Adaptación continua: Mantenernos ágiles y estar preparados para ajustar nuestra estrategia en respuesta a cambios tecnológicos y regulatorios.
+- Cumplimiento y transparencia: Asegurar que nuestras operaciones cumplan con todas las regulaciones relevantes y mantener una comunicación abierta y transparente con nuestros usuarios.
+
+**Tácticas:**
+
+- Estar al tanto de las últimas tendencias tecnológicas y adaptar nuestra plataforma en consecuencia.
+- Mantener una estrecha colaboración con expertos legales y reguladores para garantizar el cumplimiento normativo en todo momento.
+
 2\.2. Entrevistas.
 
 2\.2.1. Diseño de entrevistas
