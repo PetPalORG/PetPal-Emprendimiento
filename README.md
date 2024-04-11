@@ -797,8 +797,40 @@ Para el proyecto PetPal, se ha optado por utilizar MySQL como motor de base de d
 5\.1. Software Configuration Management. 
     **Requirements Management**
     
-    1. **Miro:** Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo, y más. En este caso, utilizamos Miro para la     elaboración de As-Is y To-Be Scenarios Mapping.
-    
+**Miro:** Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo, y más. En este caso, utilizamos Miro para la     elaboración de As-Is y To-Be Scenarios Mapping.
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/9fc60cda-5fa4-45da-b5d7-bd0aa47aee86)   
+   
+**UXPressia:** Herramienta especializada en la creación de mapas de impacto de experiencia de usuario (UX). En este caso, utilizamos UXPressia para la elaboración del Impact Mapping para cada segmento objetivo.
+   
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/cef2d255-8c1b-4e7d-aa07-87e6206ea44f)
+   
+**Figma:** Herramienta de diseño de interfaces de usuario (UI) y prototipado colaborativo basada en la nube. En este caso, utilizamos Figma para la elaboración del prototipo de la aplicación.
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/8b6ef292-3604-4aab-8b15-5ddf66c7284b)   
+   
+**PivotalTracker**: Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos PivotalTracker para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+   
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/0de165de-f5e8-4ff8-b297-d24d0513270d)
+
+
+  **Software Development**
+
+**Visual Studio Code:** Editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funcionalidades para programadores. En este caso, utilizamos Visual Studio Code como nuestro entorno de desarrollo integrado principal para escribir, editar y depurar el código HTML y CSS de nuestro proyecto.
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/8d5da883-03b2-49f2-af7e-31780e7d4d42)
+
+**HTML:** HTML (Hypertext Markup Language) es el lenguaje estándar utilizado para crear y diseñar páginas web. En este caso, utilizamos el lenguaje HTML para la creación y presentación de nuestra página web.
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/26b76663-654c-4828-aafd-a7a5eb492805)
+
+**CSS:** CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para estilizar la presentación de documentos HTML.
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/273e106c-46ef-4800-9546-269b05e7ab4c)
+
+**GitHub:** Plataforma de desarrollo colaborativo basada en la nube que utiliza el sistema de control de versiones Git. Permite a los desarrolladores alojar, revisar y colaborar en proyectos de software. En este caso, utilizamos GitHub como un repositorio remoto para almacenar y gestionar el código fuente de nuestro proyecto.
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/f3d939b6-a477-48ac-9242-5ce59680f75e)
 
 
 5\.1.1. Software Development Environment Configuration. 
