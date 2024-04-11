@@ -463,7 +463,15 @@ Las entrevistas revelan una serie de necesidades comunes entre los propietarios 
 Las tareas que tienen mayor frecuencia son aquellas que realizan los dueños de mascotas, ya que deben estar constantemente atentos al cuidado y bienestar de sus compañeros animales. Tienen que buscar información, organizar registros, gestionar citas veterinarias y proporcionar atención y cuidados diarios para garantizar que sus mascotas estén saludables y felices. Además, deben estar atentos a cualquier cambio en el comportamiento o la salud de sus mascotas y tomar medidas correctivas según sea necesario. Por otro lado, hay tareas que realizan con menos frecuencia, como evaluar y corregir problemas de comportamiento o realizar cambios en la dieta y el régimen de ejercicio de las mascotas para mejorar su calidad de vida a largo plazo.
 
   2\.3.3. User Journey Mapping.
-  
+
+En esta sección, se presenta el recorrido completo de extremo a extremo de la aplicación para el cuidado de mascotas para los segmentos objetivos de los dueños de mascotas. El mapeo del viaje del usuario comienza desde el momento en que el cliente se familiariza con la aplicación, pasando por el proceso de decisión de utilizarla, registrarse, hacer uso de sus funciones y, finalmente, la posibilidad de dejar de utilizarla.
+
+**Personas dueñas de mascotas:**  
+
+<p align="center">
+  <img src="images/userjour.png" width="100%">
+</p>
+
   2\.3.4. Empathy Mapping.
   
   2\.3.5. As-is Scenario Mapping.
