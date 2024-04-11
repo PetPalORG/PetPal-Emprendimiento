@@ -351,7 +351,31 @@ Gracias al análisis exhaustivo de la competencia realizado previamente, pudimos
 
 2\.2. Entrevistas.
 
+Esta sección se centra en el procedimiento de identificar nuestros grupos demográficos clave a través de la recopilación de datos obtenidos mediante entrevistas en profundidad. Durante este proceso, buscamos comprender a fondo las necesidades, preferencias y comportamientos de nuestros clientes potenciales para poder ofrecer productos y servicios que satisfagan sus demandas de manera efectiva.
+
 2\.2.1. Diseño de entrevistas
+
+- **Preguntas principales:**
+  - ¿Con qué frecuencia buscas información sobre el cuidado de tus mascotas?
+  - ¿Qué tipo de mascotas tienes en tu hogar?
+  - ¿Qué aspectos del cuidado de tus mascotas consideras más importantes?
+  - ¿Cómo gestionas actualmente las citas veterinarias de tus mascotas?
+  - ¿Qué te gustaría poder registrar sobre la dieta de tus mascotas para mejorar su salud?
+  - ¿Qué dificultades encuentras al organizar la información relacionada con el cuidado de tus mascotas?
+  - ¿Cómo te gustaría que una aplicación te ayudara a seguir la dieta de tus mascotas?
+  - ¿Qué tan importante es para ti el acceso rápido a consejos de cuidado de mascotas?
+  - ¿Qué funcionalidades esperarías de una aplicación de cuidado de mascotas?
+  - ¿Qué te motiva a utilizar una aplicación para el cuidado de mascotas en lugar de métodos tradicionales?
+  - ¿Qué características específicas de una mascota consideras importante registrar en una aplicación?
+  - ¿Cuál es tu mayor preocupación en términos de salud para tus mascotas?
+  - ¿Te gustaría recibir recordatorios para citas veterinarias y otros eventos importantes relacionados con tus mascotas?
+  - ¿Qué tipo de información sobre la salud de tus mascotas te gustaría poder compartir con tu veterinario?
+  - ¿Qué nivel de personalización esperarías en un perfil de mascota dentro de una aplicación?
+  - ¿Qué te parece más conveniente, poder acceder a la aplicación desde tu dispositivo móvil o desde una computadora?
+  - ¿Cómo prefieres recibir notificaciones sobre el estado de salud y recordatorios de tus mascotas?
+  - ¿Considerarías compartir información sobre el cuidado de tus mascotas con otros usuarios de la aplicación?
+  - ¿Qué medidas de seguridad esperarías que una aplicación de cuidado de mascotas implemente para proteger la información de tus mascotas?
+  - ¿Cuál sería el factor decisivo para elegir una aplicación de cuidado de mascotas sobre otra?
 
 2\.2.2. Registro de entrevistas
 
