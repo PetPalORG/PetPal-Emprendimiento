@@ -796,6 +796,8 @@ Para el proyecto PetPal, se ha optado por utilizar MySQL como motor de base de d
 
 5\.1. Software Configuration Management. 
 
+5\.1.1. Software Development Environment Configuration. 
+
   **Requirements Management**
     
 **Miro:** Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo, y más. En este caso, utilizamos Miro para la     elaboración de As-Is y To-Be Scenarios Mapping.
@@ -833,8 +835,6 @@ Para el proyecto PetPal, se ha optado por utilizar MySQL como motor de base de d
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/f3d939b6-a477-48ac-9242-5ce59680f75e)
 
-
-5\.1.1. Software Development Environment Configuration. 
 
 5\.1.2. Source Code Management. 
 
