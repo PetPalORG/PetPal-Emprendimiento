@@ -1042,8 +1042,6 @@ Estas estrategias de prueba garantizaron la funcionalidad, la estética y la ada
 5\.2.1.7. Software Deployment Evidence for Sprint Review. 
 
 5\.2.1.8. Team Collaboration Insights during Sprint.
-
-- 5.2.X.8. Team Collaboration Insights during Sprint
   
 | Alumno                              | Actividad                                                  |
 |-------------------------------------|------------------------------------------------------------|
