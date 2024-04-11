@@ -795,6 +795,11 @@ Para el proyecto PetPal, se ha optado por utilizar MySQL como motor de base de d
 # **Capítulo V: Product Implementation, Validation & Deployment.** 
 
 5\.1. Software Configuration Management. 
+    **Requirements Management**
+    
+    1. **Miro:** Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo, y más. En este caso, utilizamos Miro para la     elaboración de As-Is y To-Be Scenarios Mapping.
+    
+
 
 5\.1.1. Software Development Environment Configuration. 
 
