@@ -416,6 +416,20 @@ Esta sección se centra en el procedimiento de identificar nuestros grupos demog
 
 2\.2.3. Análisis de entrevistas.
 
+**Analisis del segmento de propietarios con mascotas:**
+
+Las entrevistas proporcionan una visión general de las necesidades y preferencias de los propietarios de mascotas en cuanto al cuidado de sus animales. Aquí hay un análisis general de los temas comunes encontrados en las entrevistas:
+
+1. **Preocupación por la salud y el bienestar de las mascotas**: Todos los entrevistados expresan una gran preocupación por la salud y el bienestar de sus mascotas. Esto incluye aspectos como la dieta adecuada, el cuidado del pelaje, las alergias y la gestión de citas veterinarias.
+2. **Búsqueda de información y asesoramiento**: Los propietarios buscan activamente información sobre el cuidado de sus mascotas, especialmente en línea. Sin embargo, la confiabilidad de la información encontrada puede ser una preocupación, ya que se menciona que a veces es difícil discernir la veracidad de la información.
+3. **Organización de la información**: Todos los entrevistados expresan la necesidad de tener una manera más organizada de mantener la información relacionada con sus mascotas. Esto incluye detalles sobre la salud, la dieta y los medicamentos administrados.
+4. **Acceso a consejos y ayuda rápida**: Existe una clara preferencia por recibir consejos y ayuda rápida sobre el cuidado de las mascotas, especialmente en momentos de emergencia. La disponibilidad de una aplicación que brinde información y asistencia instantánea es valorada positivamente.
+5. **Facilidad de uso y accesibilidad**: La mayoría de los entrevistados prefieren una aplicación móvil que sea fácil de usar y accesible desde sus dispositivos cotidianos. La conveniencia de acceder a la información en cualquier momento es fundamental.
+6. **Compartir información**: Existe interés en la posibilidad de compartir información y experiencias con otros propietarios de mascotas. Esto se ve como una forma de obtener consejos útiles y contribuir al bienestar de otras mascotas.
+7. **Seguridad y privacidad de los datos**: La seguridad y la privacidad de la información personal y de las mascotas son preocupaciones importantes. Los propietarios desean asegurarse de que sus datos estén protegidos al utilizar una aplicación de cuidado de mascotas.
+
+Las entrevistas revelan una serie de necesidades comunes entre los propietarios de mascotas, incluida la búsqueda de información confiable y el deseo de una herramienta digital que facilite el cuidado y la organización de la información relacionada con sus animales. Una aplicación de cuidado de mascotas que sea fácil de usar, brinde asesoramiento rápido y confiable, y garantice la seguridad de los datos sería altamente valorada por este grupo demográfico.
+
 2\.3. Needfinding.
 
 2\.3.1. User Personas.
