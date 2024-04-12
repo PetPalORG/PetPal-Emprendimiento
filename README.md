@@ -1244,11 +1244,11 @@ Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario c
 | :- | :- | :- | :- | :- | :- | :- | :- |
 | User Story | Work-Item / Task | | | | | | |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
-| US21 | Acceder desde cualquier dispositivo a la landing page | W-05 | Accesibilidad | <p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p> | 3 hours | **xxx** | Done |
-| US22 | Sección “Servicios” | W-02 | Sección “Servicios**”** | <p>**Como** visitante del landing page</p><p>**Quiero** conocer sobre los servicios que brinda la aplicación</p><p>**Para** informarme sobre su uso</p> | 3 hours | **xxx** | Done |
-| US23 | Sección “Recursos” | W-03 | Sección “Recursos” | <p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la sección “Recursos”</p><p>**Para** obtener información sobre los recursos que brinda PetPal</p> | 3 hours | **xxx** | Done |
-| US24 | Sección “Testimonios” | W-04 | Sección “Testimonios” | <p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la sección “Comunidad”</p><p>**Para** conocer a la comunidad de PetPal</p> | 3 hours | **xxx** | Done |
-| US25 | Sección “Nosotros” | W-04 | Sección “Nosotros” | <p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la sección “Nosotros”</p><p>**Para** conocer al equipo de PetPal</p> | 3 hours | **xxx** | Done |
+| US21 | Acceder desde cualquier dispositivo a la landing page | W-05 | Accesibilidad | <p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p> | 3 hours | **Frank Junior Salazar Saldarriaga** | Done |
+| US22 | Sección “Servicios” | W-02 | Sección “Servicios**”** | <p>**Como** visitante del landing page</p><p>**Quiero** conocer sobre los servicios que brinda la aplicación</p><p>**Para** informarme sobre su uso</p> | 3 hours | **Francis Daniel Mamani Silva** | Done |
+| US23 | Sección “Recursos” | W-03 | Sección “Recursos” | <p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la sección “Recursos”</p><p>**Para** obtener información sobre los recursos que brinda PetPal</p> | 3 hours | **Ian Macavilca Quispe** | Done |
+| US24 | Sección “Testimonios” | W-04 | Sección “Testimonios” | <p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la sección “Comunidad”</p><p>**Para** conocer a la comunidad de PetPal</p> | 3 hours | **Paolo Del Carmen Martines Villanueva** | Done |
+| US25 | Sección “Nosotros” | W-04 | Sección “Nosotros” | <p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la sección “Nosotros”</p><p>**Para** conocer al equipo de PetPal</p> | 3 hours | **Michael Stefano Carmelino Dueñas** | Done |
 
 
 5\.2.1.3. Development Evidence for Sprint Review. 
@@ -1388,11 +1388,11 @@ Estas estrategias de prueba garantizaron la funcionalidad, la estética y la ada
   
 | Alumno                              | Actividad                                                  |
 |-------------------------------------|------------------------------------------------------------|
-| Francis Daniel Mamani Silva   | xxx     |
-| Ian Macavilca Quispe       | xxx   |
-| Frank Junior Salazar Saldarriaga      | xxx      |
-| Paolo Del Carmen Martines Villanueva 	| xxx           |
-| Michael Stefano Carmelino Dueñas | xxx       |
+| Francis Daniel Mamani Silva   | Implementación de la sección "Servicios"     |
+| Ian Macavilca Quispe    | Implementación de la sección "Recursos"   |
+| Frank Junior Salazar Saldarriaga      | Implementación del navbar, footer y hero|
+| Paolo Del Carmen Martines Villanueva 	| Implementación de la sección "Testimonios" |
+| Michael Stefano Carmelino Dueñas | Implementación de la sección "Nosotros" |
  
 Hemos desarrollado en conjunto un total de xxx commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
  
