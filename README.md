@@ -649,8 +649,50 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
   
 4\.2.2. Labeling Systems
 
+  En la sección de Labeling Systems, nos aseguraremos de representar los datos de manera clara y concisa, minimizando la confusión para nuestros visitantes y usuarios. Utilizaremos etiquetas simples y directas para representar conjuntos de información y sus asociaciones. 
+
+  <img src="./images/labeling.png">
+
+  Nos aseguramos de poder asegurar la visualización de las características de la aplicación; esta experiencia nos brindará un menú desplegable donde finalmente visualizamos las secciones que ofrece nuestro sistema de perfiles. 
+
+  <img src="./images/labeling2.png">
+  
 4\.2.3. SEO Tags and Meta Tags
 
+  Para garantizar una adecuada optimización de motores de búsqueda (SEO) y una mayor visibilidad en línea, hemos implementado cuidadosamente los SEO Tags y Meta Tags en nuestras principales páginas web. A continuación, se detallan los valores asignados para cada uno de los elementos mínimos requeridos:
+
+  **Landing Page (Página de Inicio):**
+
+Título: "Bienvenido al Mundo del Cuidado de Mascotas - PetPal"
+
+Descripción : "Descubre los mejores recursos de cuidado de mascotas, consejos de salud, entrenamiento y más en PetPal. Nuestro equipo dedicado está aquí para cuidar a tus queridas mascotas."
+
+Palabras Clave : "cuidado de mascotas, veterinario, entrenamiento de perros, alimentación de gatos, consejos de mascotas"
+
+Autor: PetPal
+
+**Página de Búsqueda:**
+
+Título: "Explora Nuestros Recursos para el Bienestar de tus Mascotas - PetPal"
+
+Descripción: "Descubre nuestros recursos completos de cuidado de mascotas, que incluyen consultas veterinarias, entrenamiento personalizado, cuidado de día y mucho más en PetPal. Tu mascota merece lo mejor, y nosotros estamos aquí para proporcionarlo."
+
+Palabras Clave: "recursos de cuidado de mascotas,entrenamiento de perros, cuidado de día para mascotas"
+
+Autor: PetPal
+
+**Página "Perfiles":**
+
+Título: "Perfiles - PetPal"
+
+Descripción: "Lleva un registro de las cosas importantes de tu mascota con PetPal."
+
+Palabras Clave: "sobre mascotas,dietas,"
+
+Autor: PetPal
+
+Estos valores de SEO Tags y Meta Tags han sido cuidadosamente seleccionados para reflejar la esencia de nuestro negocio y optimizar la visibilidad de nuestra landing page en los motores de búsqueda.
+  
 4\.2.4. Searching Systems
 
 4\.2.5. Navigation Systems.
