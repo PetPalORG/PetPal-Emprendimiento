@@ -613,9 +613,16 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 # **Capítulo IV: Product Design**
 
 4\.1. Style Guidelines
-  **Branding:** Nuestro logo se expresa mediante una huella de pata de perro, símbolo de cuidado y compañerismo con nuestras mascotas. Esta huella transmite la idea de protección y afecto hacia los animales, lo que refleja la esencia de nuestro negocio centrado en el cuidado de mascotas. La forma de la huella se presenta de manera simple y sólida, con líneas definidas que sugieren confianza y seguridad. El color predominante es el morado, que se asocia con la creatividad, la nobleza y la espiritualidad, transmitiendo así la dedicación y el compromiso que tenemos hacia el bienestar de los animales. El nombre de nuestra empresa se encuentra integrado de manera armoniosa junto a la huella, reforzando nuestra identidad y facilitando su reconocimiento por parte de nuestros clientes y público objetivo.
-4\.1.1. General Style Guidelines.
 
+4\.1.1. General Style Guidelines.
+    **Branding:** Nuestro logo se expresa mediante una huella de pata de perro, símbolo de cuidado y compañerismo con nuestras mascotas. Esta huella transmite la idea de protección y afecto hacia los animales, lo que refleja la esencia de nuestro negocio centrado en el cuidado de mascotas. La forma de la huella se presenta de manera simple y sólida, con líneas definidas que sugieren confianza y seguridad. El color predominante es el morado, que se asocia con la creatividad, la nobleza y la espiritualidad, transmitiendo así la dedicación y el compromiso que tenemos hacia el bienestar de los animales. El nombre de nuestra empresa se encuentra integrado de manera armoniosa junto a la huella, reforzando nuestra identidad y facilitando su reconocimiento por parte de nuestros clientes y público objetivo.
+
+  <img src="./images/branding.png">
+
+  **Typography:** Para la tipografía, hemos seleccionado los estilos "Roboto" y "Rubik" por su versatilidad y legibilidad. Estas fuentes ofrecen una apariencia moderna y limpia, lo que garantiza que nuestros usuarios puedan leer con facilidad toda la información presentada en nuestra aplicación. Tanto Roboto como Rubik son tipos de letra ampliamente reconocidos por su excelente legibilidad en pantallas digitales, lo que asegura una experiencia de usuario agradable y sin dificultades al interactuar con nuestra plataforma. La combinación de estas dos fuentes proporciona un equilibrio perfecto entre claridad y estilo, reforzando así la identidad visual de nuestra marca y asegurando una comunicación efectiva con nuestros usuarios.
+  
+  <img src="./images/typography.png">
+  
 4\.1.2. Web Style Guidelines
 
 4\.2. Information Architecture
