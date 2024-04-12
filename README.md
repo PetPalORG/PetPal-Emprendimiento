@@ -143,6 +143,17 @@ URL Project Report (Github): https://github.com/PetPalORG/PetPal-Informe
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
+
+### Student Outcome  
+El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 5
+Criterio: ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+
+| Criterio específico | Acciones Realizadas | Conclusiones |
+|---------------------|----------------------|--------------|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| |<b>TB1</b><br> Como conclusión para esta primera entrega del proyecto, hemos confirmado que la comunicación oral grupal desde el inicio del proyecto es fundamental para un buen inicio de trabajo. No solo nos ha permitido conocernos entre nosotros, sino que también ha servido como plataforma para expresar nuestras ideas, dudas y consultas de manera efectiva, lo cual ha contribuido significativamente a la organización y la claridad en el desarrollo del proyecto. Al participar activamente en las llamadas grupales, hemos establecido una base sólida de comprensión mutua y confianza, lo que facilita la asignación de tareas y la colaboración en equipo. Además, estas interacciones nos han permitido identificar áreas clave que requieren atención y enfoque, asegurando que abordemos los desafíos de manera proactiva y eficiente. En resumen, la comunicación oral grupal no solo es esencial para compartir información, sino que también es fundamental para construir relaciones sólidas y establecer una estructura organizativa efectiva que guiará nuestro progreso en las siguientes etapas del proyecto.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería..| |<b>TB1</b><br>La comunicación escrita desempeña un papel insustituible en nuestro equipo, actuando como un medio vital para mantenernos informados de manera constante sobre los progresos y las inquietudes que surgen en el transcurso del proyecto. A través de la documentación escrita, no solo consolidamos y compartimos nuestras investigaciones y aprendizajes, sino que también creamos un registro detallado y accesible de nuestro trabajo. Esta transcripción minuciosa no solo refleja nuestro compromiso con la transparencia y la organización interna, sino que también se erige como un recurso invaluable para cualquier individuo interesado en comprender los detalles y las razones detrás de nuestras decisiones y acciones. En última instancia, esta práctica no solo fortalece la cohesión y la eficacia de nuestro equipo, sino que también garantiza que nuestro proyecto sea accesible y comprensible para una audiencia más amplia, lo que amplifica su impacto y su alcance potencial.|
  
 # **Capítulo I: Introducción** 
 
