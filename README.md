@@ -834,6 +834,25 @@ Estas acciones y técnicas trabajarán en conjunto para facilitar el recorrido d
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-19.png )
 
 
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-20.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-21.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-22.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-23.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-24.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-25.jpg )
+
+
+
 
 4\.4.2. Web Applications Wireflow Diagrams
 
