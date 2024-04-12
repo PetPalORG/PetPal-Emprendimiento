@@ -852,11 +852,108 @@ Estas acciones y técnicas trabajarán en conjunto para facilitar el recorrido d
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-25.jpg )
 
 
-
-
 4\.4.2. Web Applications Wireflow Diagrams
 
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-1.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-2.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-3.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-4.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-5.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-6.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-7.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-8.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-9.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-10.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-9.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-10.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-11.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-12.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-13.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-14.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-15.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-16.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-17.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-18.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-19.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-20.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-21.png )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-22.png )
+
+
+
 4\.4.3. Web Applications Mock-ups.
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-1.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-2.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-3.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-4.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-5.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-6.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-7.jpg )
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-8.jpg )
+
 
 4\.4.4. Web Applications User Flow Diagrams
 
