@@ -613,7 +613,7 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 # **Capítulo IV: Product Design**
 
 4\.1. Style Guidelines
-
+  **Branding:** Nuestro logo se expresa mediante una huella de pata de perro, símbolo de cuidado y compañerismo con nuestras mascotas. Esta huella transmite la idea de protección y afecto hacia los animales, lo que refleja la esencia de nuestro negocio centrado en el cuidado de mascotas. La forma de la huella se presenta de manera simple y sólida, con líneas definidas que sugieren confianza y seguridad. El color predominante es el morado, que se asocia con la creatividad, la nobleza y la espiritualidad, transmitiendo así la dedicación y el compromiso que tenemos hacia el bienestar de los animales. El nombre de nuestra empresa se encuentra integrado de manera armoniosa junto a la huella, reforzando nuestra identidad y facilitando su reconocimiento por parte de nuestros clientes y público objetivo.
 4\.1.1. General Style Guidelines.
 
 4\.1.2. Web Style Guidelines
