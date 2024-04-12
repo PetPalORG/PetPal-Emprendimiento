@@ -633,10 +633,20 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
   
 4\.1.2. Web Style Guidelines
 
+  Para el Web Style hemos hecho gran uso del Spacing e imágenes para que el usuario no se sienta abrumado por la cantidad de información y también para que navegue con facilidad por la web al asociar las imágenes con los lugares donde se encuentran los diferentes tipos de datos.
+
+  <img src="./images/webstyle.png">
+  
 4\.2. Information Architecture
 
+  Para asegurar una experiencia sencilla y satisfactoria para nuestros visitantes interesados en el cuidado de mascotas, hemos diseñado una arquitectura de información cuidadosa. Nuestra estrategia se basa en las siguientes decisiones:
+  
 4\.2.1. Organization Systems
 
+  Hemos organizado nuestro contenido de manera lógica y coherente en varias secciones para facilitar la navegación y la comprensión. Estas secciones se organizan de la siguiente manera:
+
+  <img src="./images/organization.png">
+  
 4\.2.2. Labeling Systems
 
 4\.2.3. SEO Tags and Meta Tags
