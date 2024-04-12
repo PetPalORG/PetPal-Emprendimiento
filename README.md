@@ -748,6 +748,8 @@ Estas acciones y técnicas trabajarán en conjunto para facilitar el recorrido d
 4\.3. Landing Page UI Design.
 
 4\.3.1. Landing Page Wireframe.
+<img src="images/img431-1.png">
+
 
 4\.3.2. Landing Page Mock-up
 
