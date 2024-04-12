@@ -842,43 +842,35 @@ Web Application para Mobile Web Browser
 Agregar mascota
 
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-10.png )
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-12.png )
 
 
 Perfil de mascota
 
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-11.png )
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-13.png )
+
 
 
 Dieta
 
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-12.png )
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-14.png )
 
 
 Citas
 
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-13.png )
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-15.png )
 
 
 Tratamientos
 
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-14.png )
-
-
-Búsqueda de consejos
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-15.png )
-
-
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-16.png )
 
 
-Ajustes de cuenta
+Búsqueda de consejos
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-17.png )
@@ -887,8 +879,14 @@ Ajustes de cuenta
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-18.png )
 
 
+Ajustes de cuenta
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-19.png )
 
+
+
+4\.4.2. Web Applications Wireflow Diagrams
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-20.jpg )
 
@@ -908,8 +906,7 @@ Ajustes de cuenta
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-25.jpg )
 
 
-4\.4.2. Web Applications Wireflow Diagrams
-
+4\.4.3. Web Applications Mock-ups.
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-1.jpg )
 
@@ -965,6 +962,11 @@ Ajustes de cuenta
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-16.png )
 
 
+
+Web Applications Mobile Web Browser
+
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-17.png )
 
 
@@ -981,12 +983,6 @@ Ajustes de cuenta
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-22.png )
-
-
-
-4\.4.3. Web Applications Mock-ups.
-
-
 
 
 
