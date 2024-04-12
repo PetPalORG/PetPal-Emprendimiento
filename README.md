@@ -828,7 +828,6 @@ Dieta
 
 <img src="images/img441-14.png">
 
-
 Citas
 
 <img src="images/img441-15.png">
@@ -843,7 +842,7 @@ Búsqueda de consejos
 
 <img src="images/img441-18.png">
 
-Ajustes de cuenta
+Búsqueda de consejos
 
 <img src="images/img441-19.png">
 
