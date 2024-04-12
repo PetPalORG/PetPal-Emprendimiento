@@ -749,21 +749,18 @@ Estas acciones y técnicas trabajarán en conjunto para facilitar el recorrido d
 4\.3. Landing Page UI Design.
 4\.3.1. Landing Page Wireframe.
 
+<img src="images/img431-1.png">
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/52e2956a91e461a99a07d3f4f0260dda2fef2883/images/img431-1.png)
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/52e2956a91e461a99a07d3f4f0260dda2fef2883/images/img431-2.png)
-
+<img src="images/img431-2.png">
 
 4\.3.2. Landing Page Mock-up
 
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/9fe715f538426bb7bb2522b0db8986469c69355f/images/img432-1.png)
+<img src="images/img432-1.png">
 
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/9fe715f538426bb7bb2522b0db8986469c69355f/images/img432-2.png)
-
+<img src="images/img432-2.png">
 
 4\.4. Web Applications UX/UI Design
 
@@ -775,66 +772,44 @@ Web Application para Desktop Web Browser
 
 Registrarse
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/b912385574281641a6e223f2bbe82b919d03ffef/images/img441-1.png )
-
+<img src="images/img441-1.png">
 
 Inicio de sesión
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/b912385574281641a6e223f2bbe82b919d03ffef/images/img441-2.png )
-
+<img src="images/img441-2.png">
 
 Perfil de mascota
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-3.png )
-
+<img src="images/img441-3.png">
 
 Dieta
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-4.png )
-
+<img src="images/img441-4.png">
 
 Citas veterinarias
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-5.png )
-
+<img src="images/img441-5.png">
 
 Tratamientos
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-6.png )
-
+<img src="images/img441-6.png">
 
 Historial médico - citas
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-7.png )
-
+<img src="images/img441-7.png">
 
 Historial médico - tratamientos
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-8.png )
-
+<img src="images/img441-8.png">
 
 Búsqueda de consejos
 
+<img src="images/img441-9.png">
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-9.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-10.png )
-
+<img src="images/img441-10.png">
 
 Ajustes de cuenta
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-11.png )
-
+<img src="images/img441-11.png">
 
 Web Application para Mobile Web Browser
 
@@ -842,203 +817,171 @@ Web Application para Mobile Web Browser
 Agregar mascota
 
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-10.png )
+<img src="images/img441-12.png">
 
 
 Perfil de mascota
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-11.png )
-
+<img src="images/img441-13.png">
 
 Dieta
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-12.png )
+<img src="images/img441-14.png">
 
 
 Citas
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-13.png )
-
+<img src="images/img441-15.png">
 
 Tratamientos
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-14.png )
-
+<img src="images/img441-16.png">
 
 Búsqueda de consejos
 
+<img src="images/img441-17.png">
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-15.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-16.png )
-
+<img src="images/img441-18.png">
 
 Ajustes de cuenta
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-17.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-18.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-19.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-20.jpg )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-21.jpg )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-22.jpg )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-23.jpg )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-24.jpg )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-25.jpg )
-
+<img src="images/img441-19.png">
 
 4\.4.2. Web Applications Wireflow Diagrams
 
+User goal: Iniciar sesión
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-1.jpg )
+<img src="images/img441-20.jpg">
 
+User goal: Crear perfil de mascota
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-2.png )
+<img src="images/img441-21.jpg">
 
+User goal 3: Agregar comida
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-3.png )
+<img src="images/img441-22.jpg">
 
+User goal 4: Agregar cita veterinaria
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-4.png )
+<img src="images/img441-23.jpg">
 
+User goal 5: Agregar tratamiento
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-5.png )
+<img src="images/img441-24.jpg">
 
+User goal 6: Búsqueda de consejos 
 
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-6.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-7.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-8.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-9.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-10.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-9.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-10.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-11.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-12.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-13.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-14.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-15.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-16.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-17.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-18.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-19.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-20.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-21.png )
-
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img442-22.png )
-
-
+<img src="images/img441-25.jpg">
 
 4\.4.3. Web Applications Mock-ups.
 
+Web Applications Desktop Web Browser
 
+Iniciar sesión
 
+<img src="images/img442-1.jpg">
 
+Agregar mascota
+
+<img src="images/img442-2.png">
+
+<img src="images/img442-3.png">
+
+<img src="images/img442-4.png">
+
+Dieta
+
+<img src="images/img442-5.png">
+
+<img src="images/img442-6.png">
+
+Citas veterinarias
+
+<img src="images/img442-7.png">
+
+<img src="images/img442-8.png">
+
+Tratamientos
+
+<img src="images/img442-9.png">
+
+<img src="images/img442-10.png">
+
+Historial médico
+
+<img src="images/img442-11.png">
+
+<img src="images/img442-12.png">
+
+Búsqueda de consejos
+
+<img src="images/img442-13.png">
+
+<img src="images/img442-14.png">
+
+<img src="images/img442-15.png">
+
+Ajustes de cuenta
+
+<img src="images/img442-16.png">
+
+Web Applications Mobile Web Browser
+
+Agregar mascota
+
+<img src="images/img442-17.png">
+
+<img src="images/img442-18.png">
+
+Dieta
+
+<img src="images/img442-19.png">
+
+Citas veterinarias
+
+<img src="images/img442-20.png">
+
+Tratamientos
+
+<img src="images/img442-21.png">
+
+Ajustes de cuenta
+
+<img src="images/img442-22.png">
 
 4\.4.4. Web Applications User Flow Diagrams
 
 User goal: Iniciar sesión
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-1.jpg )
-
+<img src="images/img443-1.jpg">
 
 User goal: Crear perfil de mascota
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-2.jpg )
-
+<img src="images/img443-2.jpg">
 
 User goal: Agregar comida
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-3.jpg )
-
+<img src="images/img443-3.jpg">
 
 User goal: Agregar cita veterinaria
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-4.jpg )
-
+<img src="images/img443-4.jpg">
 
 User goal: Agregar tratamiento
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-5.jpg )
-
+<img src="images/img443-5.jpg">
 
 User goal: Ver historial médico
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-6.jpg )
-
+<img src="images/img443-6.jpg">
 
 User goal: Búsqueda de consejos
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-7.jpg )
-
+<img src="images/img443-7.jpg">
 
 User goal: Editar perfil
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-8.jpg )
-
+<img src="images/img443-8.jpg">
 
 4\.5. Web Applications Prototyping
 
@@ -1047,9 +990,7 @@ Figma Web Prototyping:
 
 https://www.figma.com/proto/vrwbSYk9W1tMcE8bqqXL8V/PET-PAL-base-design?type=design&node-id=154-176&t=fb1Xf1xzLO3NaP5Z-1&scaling=min-zoom&page-id=27%3A1&starting-point-node-id=154%3A176&show-proto-sidebar=1&mode=design 
 
-
-![image](https://github.com/PetPalORG/PetPal-Informe/blob/af2fed6e17786948fab0f67f743bda5fdc46b9ec/images/img45.png)
-
+<img src="images/img45.png">
 
 4\.6. **Domain-Driven Software Architecture.** 
 
