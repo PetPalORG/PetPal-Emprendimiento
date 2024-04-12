@@ -687,7 +687,7 @@ Título: "Perfiles - PetPal"
 
 Descripción: "Lleva un registro de las cosas importantes de tu mascota con PetPal."
 
-Palabras Clave: "sobre mascotas,dietas,"
+Palabras Clave: "sobre mascotas,dietas, historia médica, tratamiento"
 
 Autor: PetPal
 
