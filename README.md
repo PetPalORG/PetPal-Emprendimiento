@@ -771,28 +771,57 @@ Estas acciones y técnicas trabajarán en conjunto para facilitar el recorrido d
 4\.4.1. Web Applications Wireframes.
 
 
+Web Application para Desktop Web Browser
+
+Registrarse
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/b912385574281641a6e223f2bbe82b919d03ffef/images/img441-1.png )
+
+
+Inicio de sesión
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/b912385574281641a6e223f2bbe82b919d03ffef/images/img441-2.png )
 
 
+Perfil de mascota
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-3.png )
+
+
+Dieta
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-4.png )
 
 
+Citas veterinarias
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-5.png )
+
+
+Tratamientos
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-6.png )
 
 
+Historial médico - citas
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-7.png )
 
 
+Historial médico - tratamientos
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-8.png )
+
+
+Búsqueda de consejos
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-9.png )
@@ -801,28 +830,55 @@ Estas acciones y técnicas trabajarán en conjunto para facilitar el recorrido d
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-10.png )
 
 
+Ajustes de cuenta
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-11.png )
+
+
+Web Application para Mobile Web Browser
+
+
+Agregar mascota
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-10.png )
 
 
+Perfil de mascota
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-11.png )
+
+
+Dieta
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-12.png )
 
 
+Citas
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-13.png )
 
 
+Tratamientos
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-14.png )
+
+
+Búsqueda de consejos
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-15.png )
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-16.png )
+
+
+Ajustes de cuenta
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img441-17.png )
@@ -931,33 +987,69 @@ Estas acciones y técnicas trabajarán en conjunto para facilitar el recorrido d
 4\.4.3. Web Applications Mock-ups.
 
 
+
+
+
+4\.4.4. Web Applications User Flow Diagrams
+
+User goal: Iniciar sesión
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-1.jpg )
+
+
+User goal: Crear perfil de mascota
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-2.jpg )
 
 
+User goal: Agregar comida
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-3.jpg )
+
+
+User goal: Agregar cita veterinaria
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-4.jpg )
 
 
+User goal: Agregar tratamiento
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-5.jpg )
+
+
+User goal: Ver historial médico
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-6.jpg )
 
 
+User goal: Búsqueda de consejos
+
+
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-7.jpg )
+
+
+User goal: Editar perfil
 
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/blob/1e8e3d8517c4f98dc733026ff3223e434c3fde1a/images/img443-8.jpg )
 
 
-4\.4.4. Web Applications User Flow Diagrams
-
 4\.5. Web Applications Prototyping
+
+
+Figma Web Prototyping: 
+
+https://www.figma.com/proto/vrwbSYk9W1tMcE8bqqXL8V/PET-PAL-base-design?type=design&node-id=154-176&t=fb1Xf1xzLO3NaP5Z-1&scaling=min-zoom&page-id=27%3A1&starting-point-node-id=154%3A176&show-proto-sidebar=1&mode=design 
+
+
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/af2fed6e17786948fab0f67f743bda5fdc46b9ec/images/img45.png)
+
 
 4\.6. **Domain-Driven Software Architecture.** 
 
