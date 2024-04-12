@@ -748,7 +748,8 @@ Estas acciones y técnicas trabajarán en conjunto para facilitar el recorrido d
 4\.3. Landing Page UI Design.
 
 4\.3.1. Landing Page Wireframe.
-<img src="images/img431-1.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/52e2956a91e461a99a07d3f4f0260dda2fef2883/images/img431-1.png)
+![image](https://github.com/PetPalORG/PetPal-Informe/blob/52e2956a91e461a99a07d3f4f0260dda2fef2883/images/img431-2.png)
 
 
 4\.3.2. Landing Page Mock-up
