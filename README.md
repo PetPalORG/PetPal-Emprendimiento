@@ -1356,7 +1356,7 @@ Progreso en el Desarrollo
      
    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/133086f4-1bb6-4fee-a2d1-4a51c747aef6)
 
-8. **Footer":**
+8. **Footer:**
    - Se implementó una sección "Footer" con una sección para contactar con el equipo y enlaces a nuestras redes sociales.
    
    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/12541703-94fb-4534-90e0-377462107f8c)
