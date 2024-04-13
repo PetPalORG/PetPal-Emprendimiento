@@ -23,7 +23,7 @@ Producto: PetPal
 |    Francis Daniel Mamani Silva      | u202219315 |
 |        Ian Macavilca Quispe         | u202121325 |
 |  Frank Junior Salazar Saldarriaga   | u20181h103 |
-| Paolo Del Carmen Martines Villanueva| u202010039 |
+| Paolo Del Carmen Martinez Villanueva| u202010039 |
 |   Michael Stefano Carmelino Dueñas  | u202212760 |
 
 </div>
@@ -1386,7 +1386,7 @@ Para la entrega del Sprint N1, se desplego la primera versión de nuestra Landin
 | Francis Daniel Mamani Silva   | Implementación de la sección "Servicios"     |
 | Ian Macavilca Quispe    | Implementación de la sección "Recursos"   |
 | Frank Junior Salazar Saldarriaga      | Implementación del navbar, footer y hero|
-| Paolo Del Carmen Martines Villanueva 	| Implementación de la sección "Testimonios" |
+| Paolo Del Carmen Martinez Villanueva 	| Implementación de la sección "Testimonios" |
 | Michael Stefano Carmelino Dueñas | Implementación de la sección "Nosotros" |
  
 Hemos desarrollado en conjunto un total de xxx commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
@@ -1398,7 +1398,7 @@ Tabla para poder identificarnos:
 | danieln3m0  | Francis Daniel Mamani Silva      |
 | IanMQ       | Ian Macavilca Quispe  |
 | Ank222001      | Frank Junior Salazar Saldarriaga      |
-| paolomv02 	| Martinez Villanueva, Paolo Del Carmen           |
+| paolomv02 	| Paolo Del Carmen Martinez Villanueva           |
 | stxfxno | Michael Stefano Carmelino Dueñas    |
 
 # **Conclusiones** 
