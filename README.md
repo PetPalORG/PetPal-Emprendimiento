@@ -165,7 +165,7 @@ PetPal es una aplicación dedicada al cuidado de nuestras mascotas diseñada par
 
 |**Integrantes**|**Descripción del Perfil**|
 | :-: | :-: |
-|**Michael Stefano Carmelino Dueñas (U202212760)**|Estudiando la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos en C++, Python y Java. Soy una persona que le gusta el liderazgo y organización en equipo, coordinación y poder generar un buen entorno. Ayudo a quienes lo necesiten con lo máximo que pueda. De igual forma tengo conocimientos en los que son fundamentos en Ciencia de Datos.|
+|**Michael Stefano Carmelino Dueñas (U202212760)**<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/dc748c95-74e4-486f-963a-63cdf129e8b6" width="100"/>|Estudiando la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos en C++, Python y Java. Soy una persona que le gusta el liderazgo y organización en equipo, coordinación y poder generar un buen entorno. Ayudo a quienes lo necesiten con lo máximo que pueda. De igual forma tengo conocimientos en los que son fundamentos en Ciencia de Datos.|
 |<p>**Frank Junior Salazar Saldarriaga**</p><p>**(U20181H103)**</p><p></p>|Mi nombre es Frank Junior Salazar Saldarriaga, estudiante de la carrega de ingeniería de software de la UPC, tengo conocimientos en lenguajes como C++, Python, Java, C#, .net, Angular. Soy una persona proactiva y autodidacta.|
 |<p>**Integrante 3**</p><p>**Francis Daniel Mamani Silva(U202121325)**</p><p></p>|Mi nombre es Francis Daniel Mamani Silva, un estudiante de 19 años de origen peruano con una pasión desenfrenada por los videojuegos. Actualmente estoy inmerso en mi carrera de Ingeniería de Software, donde combino mi amor por la tecnología con mi fascinación por los juegos. Destacándome en mis estudios universitarios, aspiro a fusionar estos dos mundos para contribuir al desarrollo de experiencias interactivas innovadoras. Mi energía optimista, junto con mi creatividad y determinación, me posicionan como un futuro líder en la industria del desarrollo de software.|
 |<p>**Integrante 4**</p><p>**Ian Macavilca Quispe (U202121325)**</p><p><br></p>|Como estudiante de Ingeniería de Software, mi destreza en el pensamiento lógico me habilita para abordar desafíos de manera eficaz, optimizar procesos, diseñar software robusto, comunicar de manera clara, ser resiliente ante obstáculos y colaborar efectivamente en equipos, con lo que pienso aportar al éxito y eficiencia de la startup.|
@@ -384,35 +384,35 @@ Esta sección se centra en el procedimiento de identificar nuestros grupos demog
 
 2\.2.2. Registro de entrevistas
 
-|**Entevistado 1**|** Renzo Castañeda|
+|**Entrevistado 1**|** Renzo Castañeda|
 | :- | :- |
 |**Edad**|**20**|
 |**Distrito**|** San Juan de Lurigancho|
 |** |<p>** Durante la entrevista, se obtuvieron respuestas que destacan varios aspectos importantes relacionados con el cuidado de mascotas, específicamente de un perro de raza coque spanier. La frecuencia de búsqueda de información sobre el cuidado de mascotas es baja, centrada principalmente en cuestiones de salud. La gestión de citas veterinarias se realiza de forma virtual, preferiblemente a través de correo electrónico o WhatsApp. Se identificaron preocupaciones específicas sobre el cuidado del pelaje y las orejas del perro, así como el deseo de registrar su dieta para abordar problemas de sobrepeso.</p><p>El entrevistado expresó dificultades para organizar la información relacionada con el cuidado de sus mascotas de forma manual y desearían un sistema automático con consejos integrados. Se destacó la importancia del acceso rápido a consejos de cuidado de mascotas y se expresó el deseo de recibir ayuda veterinaria en línea en momentos de emergencia.</p><p>La decisión de utilizar una aplicación de cuidado de mascotas sobre otra se basaría en un interfaz simple y atractivo, fácil acceso y comprensión. Los usuarios prefieren acceder a la aplicación principalmente desde dispositivos móviles, aunque la disponibilidad en ambas plataformas (móvil y de escritorio) es ideal. Las notificaciones simples son preferidas para comunicar el estado de salud y recordatorios, y se considera compartir información sobre el cuidado de mascotas con otros usuarios si se ofrece un foro comunitario</p>|
 |Duración: 16 minutos|` `**URL:<https://youtu.be/5cA7uI0_67A>**|
 
-|**Entevistado 2**|** Marycielo Zeballos|
+|**Entrevistado 2**|** Marycielo Zeballos|
 | :- | :- |
 |**Edad**|**28 años**|
 |**Distrito**|San Martín De Porres|
 |** |<p>** Durante la entrevista, Marycielo nos contó sobre sus gatitos y perros que tiene, de los cuales sus perros son alérgicos a ciertos alimentos y sus gatitos tienen algunas enfermedades. Nos cuenta que la información sobre la salud de las mascotas es desactualizada y no siempre lo que encuentra es verdad porque en otra página o red social puede leer o ver algo distinto.</p><p>El entrevistado comentó que le gustaría poder tener más organizado la información de cada una de las mascotas que tiene ya que ella los considera uno más en su familia.</p><p>El nivel de seguridad sobre la información de sus mascotas no le preocupa mucho, con poner un patrón, números o una contraseña ya se sentiría segura de que nadie pueda acceder. Además que prefiere tener la app para dispositivo móvil debido a que es lo que usa en su día a día ya que muy pocas veces usa la computadora.</p><p>Le gustaría poder ver y compartir su información con otros usuarios ya que nos cuenta que una vez una persona desconocida le brindó una información muy buena que mejoró la salud de sus mascotas, y a ella le gustaría si tiene la oportunidad también ayudar a compartir información.</p>|
 |Duración: 14 minutos|` `**URL:<https://youtu.be/iny8H5ssbwE>** |
 
-|**Entevistado 3**|** Antonella Jauliz|
+|**Entrevistado 3**|** Antonella Jauliz|
 | :- | :- |
 |**Edad**|**24 años**|
 |**Distrito**|Breña|
 |** |<p>Durante el video  Antonella nos comenta que cuenta con una gata de edad avanzada, para la cual consulta constantemente información en internet sobre su cuidado. También nos menciona que el aspecto más importante en los cuidados de su mascota es su salud y es importante poder llevar una dieta balanceada con sus mascotas. </p><p>La entrevistada comentó que le gustaría poder organizar mejor la información de su mascota y que a la vez le sería de utilidad conseguir opiniones confiables para el cuidado de sus mascotas. Menciona también que sería muy útil no solo registrar las comidas de su mascota, sino los nutrientes que contienen estas. Le parece que el poder compartir información es importante, ya que puede ser útil para alguien más, y de la misma manera le interesa poder leer opiniones de otras personas.</p>|
 |Duración: 7 minutos|**URL:<https://www.youtube.com/watch?v=wWsmLXuN4GI>** |
 
-|**Entevistado 4**|** David Palti|
+|**Entrevistado 4**|** David Palti|
 | :- | :- |
 |**Edad**|**21 años**|
 |**Distrito**|San Juan de Miraflores|
 |** |Durante la entrevista David nos comenta que cuenta con un perro de mascota. Para él es importante poder acceder a información acerca del cuidado de sus mascotas sobre todo para informarse en cuanto a la correcta alimentación y qué hacer en caso su mascota tenga alergias o alguna indicación médica. Además, nos cuenta que él agenda citas al veterinario una vez al mes y que lo gestiona mediante el canal de Whatsapp de su veterinaria. Comenta que para él es muy importante que su mascota se encuentre bien tanto física como mentalmente. Le parece importante poder registrar los medicamentos que debe administrarle y qué alimentos debe proporcionarle a su mascota en caso se encuentre en tratamiento. Nos cuenta que le gustaría poder recibir consejos sobre su cuidado de manera rápida y sencilla para tenerlos a mano en caso los necesite, y que le gustaría poder contar con una aplicación que sea accesible desde su celular para que sea accesible poder visitarla las veces que él lo desee. Por último, nos comenta que espera que una aplicación de cuidado de mascotas brinde buena calidad y buena atención al cliente para poder decidir utilizarla frente a la competencia. |
 |Duración: 4 minutos|**URL:<https://youtu.be/OQK9fKMuDSE?si=Vyf3VKDv9LMOgNlz>** |
 
-|**Entevistado 5**|** Piero Alesandro|
+|**Entrevistado 5**|** Piero Alesandro|
 | :- | :- |
 |**Edad**|**20 años**|
 |**Distrito**|Chorrillos|
@@ -492,7 +492,7 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
   <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/937bcd95-6a6a-458f-9632-e970d075760e" width="100%">
 </p>
 
-  2\2.4. Ubiquitous Language.
+  2\.2.4. Ubiquitous Language.
 
 **Dominio del cuidado de mascotas:**
 
@@ -512,6 +512,8 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 # **Capitulo III: Requirements Specification**
 
 3\.1. To-Be Scenario Mapping.
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/6cc4261d-1ac2-4b93-a087-150d1641a028)
 
 **3.2. User Stories.**
 
@@ -574,6 +576,8 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 |**TS09**|**Get Advice**|<p>**Como** desarrollador que trabaja en la aplicación de PetPal</p><p>**Quiero** obtener la información de consejos para mascotas mediante una API</p><p>**Para** mostrarla en la aplicación en caso se solicite</p><p></p><p>**Escenario 1:** Obtener consejo</p><p></p><p>**Dado que** el endpoint “/consejos” está disponible</p><p>**Cuando** una get request es enviada con el identificador del consejo</p><p>**Entonces** una respuesta es recibida con status 201</p><p>**Y** se obtiene los datos del consejo</p><p></p><p>**Escenario 2:** Obtener consejo no disponible</p><p></p><p>**Dado** que el endpoint “/consejos” está disponible</p><p>**Cuando** una get request es enviada con el identificador del consejo</p><p>**Y** el identificador no exista</p><p>**Entonces** una respuesta es recibida con status 400</p><p>**Y** se mostrará un mensaje que dice “No existe un consejo con este identificador”</p>|
 
 3\.3. Impact Mapping.
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/ee74cbbf-f068-4a53-a052-31a8dbb38079)
 
 3\.4. **Product Backlog**
 
