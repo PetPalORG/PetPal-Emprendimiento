@@ -1,12 +1,10 @@
 <div align="center">
-  ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/55b272a3-26f7-4c8b-9da7-39b023ceaeb5)
-</div>
+  
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/55b272a3-26f7-4c8b-9da7-39b023ceaeb5)
 
 # Universidad Peruana de Ciencias Aplicadas
 
 ## Carrera de Ingeniería de Software
-
-<div align="center">
 
 Ciclo: 2024 - 1
 
@@ -29,6 +27,8 @@ Producto: PetPal
 |   Michael Stefano Carmelino Dueñas  | u202212760 |
 
 </div>
+
+<div align="justify">
 
 # **Registro de Versiones**
 
@@ -1347,6 +1347,6 @@ En las siguientes secciones, exploraremos en detalle las conclusiones extraídas
 - Vertabelo: [Database Diagram](https://my.vertabelo.com/public-model-view/lvw8l43FtPK4CEWrIX6kDnL6XkXJErzaTKOFmJgAOLxccyWz0VqNTsJV1BrOe8rR?x=2402&y=2640&zoom=0.4028)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2701000)
     
-  
+</div>
 
 
