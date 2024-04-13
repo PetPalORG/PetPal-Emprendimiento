@@ -156,9 +156,13 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 **1.1. Startup Profile** 
 
-Actualmente, las mascotas ya no son consideradas simplemente animales domésticos a los cuales mantenemos en casa, estos ahora son considerados miembros importantes de la familia en muchos hogares, y el desarrollo de tecnologías que faciliten y mejoren su cuidado está en aumento.
+Actualmente, las mascotas ya no son consideradas simplemente animales domésticos a los cuales mantenemos en casa, estos ahora son considerados miembros importantes de la familia en muchos hogares, y el desarrollo de tecnologías que faciliten y mejoren su cuidado está en aumento. El tamaño del mercado de cuidado de mascotas se estima en 20,02 mil millones de dólares en 2024 y se espera que alcance los 24,59 mil millones de dólares en 2029, creciendo a una tasa compuesta anual del 4,20% durante el período previsto (Mordor Intelligence).
 
-Según datos recientes, se tiene estimado que el 67% de los hogares en el país tienen como mínimo una mascota, y esta cifra no ha dejado de crecer con el pasar de los años. Sin embargo, a pesar de la importancia que le damos a nuestras mascotas, aún se tiene la necesidad de herramientas que gestionen de manera óptima el cuidado de los engreídos del hogar. 
+Según la Compañía Peruana de Estudios de Mercado y Opinión (CPI), se tiene estimado que el 67% de los hogares en el país tienen como mínimo una mascota, y esta cifra no ha dejado de crecer con el pasar de los años. Sin embargo, a pesar de la importancia que le damos a nuestras mascotas, aún se tiene la necesidad de herramientas que gestionen de manera óptima el cuidado de los engreídos del hogar. De acuerdo con World Animal Protection, el 95% de personas ven a sus mascotas como hijos o partes de la familia, por ello es importante que las personas sepan brindarles amor y el cuidado que se merecen. 
+
+<p align="center">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/7eb06844-00d7-41b1-afff-506c6f352e53" alt="image">
+</p>
 
 **1.1.1. Descripción de la Startup** 
 
@@ -1415,6 +1419,20 @@ En las siguientes secciones, exploraremos en detalle las conclusiones extraídas
 
 
 # **Bibliografía** 
+
+Gestión, R. (2023, July 21). Peruanos destinan hasta S/ 500 mensuales al cuidado de sus mascotas: ¿Cuáles son los gastos? Gestión. (https://gestion.pe/economia/mascotas-peruanos-destinan-hasta-s-300-al-mes-cuidando-a-sus-mascotas-cuales-son-los-gastos-perros-y-gatos-noticia)/
+
+World Animal Protection En Español (2023, October 6). Latinoamericanos: el 95% ven a sus mascotas como hijos o parte de sus familias. World Animal Protection (https://www.worldanimalprotection.cr/noticias-y-blogs/noticias/latinoamericanos-el-95-ven-sus-mascotas-como-hijos-o-parte-de-sus-familias)/
+
+Cuidando tu mascota. (n.d.). (https://www.cuidandotumascota.com/blog/posts/realmente-cuidas-a-tu-mascota-las-estadisticas-no-mienten)/
+
+BBVA.CH. (2021, October 21). Crecimiento de la industria del cuidado de las mascotas. BBVA.CH. (https://www.bbva.ch/noticia/crecimiento-de-la-industria-del-cuidado-de-las-mascotas)/
+
+Mercado de cuidado de mascotas Insights. (n.d.). (https://www.mordorintelligence.com/es/industry-reports/pet-care-market)/
+
+
+
+
 
 
 # **Anexos**
