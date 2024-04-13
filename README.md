@@ -1420,15 +1420,15 @@ En las siguientes secciones, exploraremos en detalle las conclusiones extraídas
 
 # **Bibliografía** 
 
-Gestión, R. (2023, July 21). Peruanos destinan hasta S/ 500 mensuales al cuidado de sus mascotas: ¿Cuáles son los gastos? Gestión. (https://gestion.pe/economia/mascotas-peruanos-destinan-hasta-s-300-al-mes-cuidando-a-sus-mascotas-cuales-son-los-gastos-perros-y-gatos-noticia)/
+Gestión, R. (2023, July 21). Peruanos destinan hasta S/ 500 mensuales al cuidado de sus mascotas: ¿Cuáles son los gastos? Gestión. https://gestion.pe/economia/mascotas-peruanos-destinan-hasta-s-300-al-mes-cuidando-a-sus-mascotas-cuales-son-los-gastos-perros-y-gatos-noticia/
 
-World Animal Protection En Español (2023, October 6). Latinoamericanos: el 95% ven a sus mascotas como hijos o parte de sus familias. World Animal Protection (https://www.worldanimalprotection.cr/noticias-y-blogs/noticias/latinoamericanos-el-95-ven-sus-mascotas-como-hijos-o-parte-de-sus-familias)/
+World Animal Protection En Español (2023, October 6). Latinoamericanos: el 95% ven a sus mascotas como hijos o parte de sus familias. World Animal Protection https://www.worldanimalprotection.cr/noticias-y-blogs/noticias/latinoamericanos-el-95-ven-sus-mascotas-como-hijos-o-parte-de-sus-familias/
 
-Cuidando tu mascota. (n.d.). (https://www.cuidandotumascota.com/blog/posts/realmente-cuidas-a-tu-mascota-las-estadisticas-no-mienten)/
+Cuidando tu mascota. (n.d.). https://www.cuidandotumascota.com/blog/posts/realmente-cuidas-a-tu-mascota-las-estadisticas-no-mienten/
 
-BBVA.CH. (2021, October 21). Crecimiento de la industria del cuidado de las mascotas. BBVA.CH. (https://www.bbva.ch/noticia/crecimiento-de-la-industria-del-cuidado-de-las-mascotas)/
+BBVA.CH. (2021, October 21). Crecimiento de la industria del cuidado de las mascotas. BBVA.CH. https://www.bbva.ch/noticia/crecimiento-de-la-industria-del-cuidado-de-las-mascotas/
 
-Mercado de cuidado de mascotas Insights. (n.d.). (https://www.mordorintelligence.com/es/industry-reports/pet-care-market)/
+Mercado de cuidado de mascotas Insights. (n.d.). https://www.mordorintelligence.com/es/industry-reports/pet-care-market/
 
 
 
