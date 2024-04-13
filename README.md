@@ -1272,7 +1272,7 @@ Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario c
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
 |danieln3m0/<br>PetPalORG<br>/AcceptanceTest|Main||feat: add US22|-|13/04/2024| 
-|IanMQ/<br>PetPalORG<br>/AcceptanceTest|Main||feat: US23|-|13/04/2024| 
+|IanMQ/<br>PetPalORG<br>/AcceptanceTest|Main||feat: add US23|-|13/04/2024| 
 |Ank222001/<br>PetPalORG<br>/AcceptanceTest|Main||feat: add US21|-|13/04/2024| 
 |paolomv02/<br>PetPalORG<br>/AcceptanceTest|Main||feat: add US24|-|13/04/2024| 
 |stxfxno/<br>PetPalORG<br>/AcceptanceTest|Main||feat: add US25|-|13/04/2024| 
@@ -1367,7 +1367,9 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 - Terminar de implementar la vista responsive de la landing page
 - Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
 
-5\.2.1.6. Services Documentation Evidence for Sprint Review. 
+5\.2.1.6. Services Documentation Evidence for Sprint Review.
+
+
 5\.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para la entrega del Sprint N1, se desplego la primera versión de nuestra LandingPage en GitHub, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug y error presentado en esta landing será adecuadamente corregido en futuras entregas.
