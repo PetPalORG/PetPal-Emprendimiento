@@ -1308,6 +1308,58 @@ Estas estrategias de prueba garantizaron la funcionalidad, la estética y la ada
 
 5\.2.1.5. Execution Evidence for Sprint Review. 
 
+**Sprint 1**
+
+Progreso en el Desarrollo
+- Durante el Sprint 1, se realizaron las siguientes implementaciones en la página de inicio:
+
+1. **Barra de Navegación (Navbar):**
+   - Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página
+     
+     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/99396730-cf37-4626-a281-2615c595af37)
+
+2. **Sección del Héroe:**
+   - Se diseñó y desarrolló la sección del héroe con un mensaje atractivo y convincente para los usuarios.
+     
+     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/01264846-b924-4acb-b1bf-b1b9347124b6)
+
+3. **Servicios:**
+   - Se agregaron cuatro características principales con iconos representativos y descripciones concisas.
+     
+     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/a76d1258-0e81-4153-a9e5-73df54e02756)
+
+4. **Sección "Recursos":**
+   - Se completó la sección "Recursos" con información útil sobre las mascotas.
+     
+    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e573548b-0e6e-479b-a78a-90137e99d2ce)
+     
+5. **Sección "App":**
+   - Se agregó una sección "App" con un botón que te redirije a la aplicación.
+          
+   ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/3d016fba-6969-43a7-91b2-e53053a966f0)
+
+6. **Sección de Testimonios:**
+   - Se implementó la sección de testimonios con comentarios positivos de usuarios.
+     
+   ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e6314a13-28f5-45f4-be55-11cff78ef85a)
+
+7. **Sección "Nosotros":**
+   - Se implementó una sección "Nosotros" con información sobre los miembros del equipo.
+     
+   ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/133086f4-1bb6-4fee-a2d1-4a51c747aef6)
+
+8. **Footer":**
+   - Se implementó una sección "Footer" con una sección para contactar con el equipo y enlaces a nuestras redes sociales.
+   
+   ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/12541703-94fb-4534-90e0-377462107f8c)
+
+### Trabajo Restante
+Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes para completar:
+
+- Terminar de implementar la vista responsive de la landing page
+- Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
+
+
 5\.2.1.6. Services Documentation Evidence for Sprint Review. 
 
 5\.2.1.7. Software Deployment Evidence for Sprint Review. 
