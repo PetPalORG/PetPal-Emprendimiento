@@ -85,7 +85,7 @@ URL Project Report (Github): https://github.com/PetPalORG/PetPal-Informe
     - 2.3.4. Empathy Mapping
     - 2.3.5. As-is Scenario Mapping
     - 2.4. Ubiquitous Language
-- [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification)
+- [Capítulo III: Requirements Specification](#capitulo-iii-requirements-specification)
   - 3.1. To-Be Scenario Mapping
   - 3.2. User Stories
   - 3.3. Impact Mapping
