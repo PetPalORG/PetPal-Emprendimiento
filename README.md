@@ -1267,7 +1267,15 @@ Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario c
 
 5\.2.1.3. Development Evidence for Sprint Review. 
 
-5\.2.1.4. Testing Suite Evidence for Sprint Review. 
+5\.2.1.4. Testing Suite Evidence for Sprint Review.
+
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|danieln3m0/<br>PetPalORG<br>/AcceptanceTest|Main||feat: add US22|-|13/04/2024| 
+|IanMQ/<br>PetPalORG<br>/AcceptanceTest|Main||feat: US23|-|13/04/2024| 
+|Ank222001/<br>PetPalORG<br>/AcceptanceTest|Main||feat: add US21|-|13/04/2024| 
+|paolomv02/<br>PetPalORG<br>/AcceptanceTest|Main||feat: add US24|-|13/04/2024| 
+|stxfxno/<br>PetPalORG<br>/AcceptanceTest|Main||feat: add US25|-|13/04/2024| 
 
 
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
@@ -1359,10 +1367,11 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 - Terminar de implementar la vista responsive de la landing page
 - Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
 
-
 5\.2.1.6. Services Documentation Evidence for Sprint Review. 
+5\.2.1.7. Software Deployment Evidence for Sprint Review.
 
-5\.2.1.7. Software Deployment Evidence for Sprint Review. 
+Para la entrega del Sprint N1, se desplego la primera versión de nuestra LandingPage en GitHub, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug y error presentado en esta landing será adecuadamente corregido en futuras entregas.
+      ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/4281f70b-8176-4275-911f-f9e39cd8ce14)
 
 5\.2.1.8. Team Collaboration Insights during Sprint.
   
@@ -1382,7 +1391,7 @@ Tabla para poder identificarnos:
 |-------------------------------------|------------------------------------------------------------|
 | danieln3m0  | Francis Daniel Mamani Silva      |
 | IanMQ       | Ian Macavilca Quispe  |
-| AnkSaldarriaga      | Frank Junior Salazar Saldarriaga      |
+| Ank222001      | Frank Junior Salazar Saldarriaga      |
 | paolomv02 	| Martinez Villanueva, Paolo Del Carmen           |
 | stxfxno | Michael Stefano Carmelino Dueñas    |
 
@@ -1407,8 +1416,9 @@ En las siguientes secciones, exploraremos en detalle las conclusiones extraídas
 
 
 **Anexos**
-
+- Enlace para acceder a la landing page: [Ver enlace](https://petpalorg.github.io/LandingPage/)
 - Repositorio GitHub Informe: [Ver enlace](https://github.com/PetPalORG/PetPal-Informe)
+- Repositorio GitHub LandingPage: [Ver enlace](https://github.com/PetPalORG/LandingPage)
 - Figma: [Diseño en Figma](https://www.figma.com/file/vrwbSYk9W1tMcE8bqqXL8V/PET-PAL-base-design?type=design&node-id=27%3A1&mode=design&t=flDp1gAEf6ifHTXC-1)
 - Vertabelo: [Database Diagram](https://my.vertabelo.com/public-model-view/lvw8l43FtPK4CEWrIX6kDnL6XkXJErzaTKOFmJgAOLxccyWz0VqNTsJV1BrOe8rR?x=2402&y=2640&zoom=0.4028)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2701000)
