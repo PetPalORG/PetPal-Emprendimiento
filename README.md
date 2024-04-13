@@ -16,7 +16,7 @@ Sección: SW55
 
 Profesor: Francisco José Cáceres Honores
 
-Startup: PetPal
+Startup: PetPalTeam
 
 Producto: PetPal
 
