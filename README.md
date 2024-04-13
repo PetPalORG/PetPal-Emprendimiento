@@ -448,7 +448,7 @@ Las entrevistas revelan una serie de necesidades comunes entre los propietarios 
 - **User Persona de un dueño con mascotas**
 
 <p align="center">
-  <img src="images/userpersona.png" width="100%">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/a115ddbd-4a40-4080-9a54-bbfe37d57f31" width="100%">
 </p>
   
   2\.3.2. User Task Matrix.
@@ -481,7 +481,7 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 **Personas dueñas de mascotas:**  
 
 <p align="center">
-  <img src="images/userjour.png" width="100%">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/3846d418-355e-4be8-a94a-a565c83fdd45" width="100%">
 </p>
 
   2\.3.4. Empathy Mapping.
@@ -490,13 +490,13 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 **Personas dueñas de mascotas:**
 
 <p align="center">
-  <img src="images/empathymaping.png" width="100%">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/5c5e97fc-4f93-43b6-8598-293e3843db95" width="100%">
 </p>
   
   2\.3.5. As-is Scenario Mapping.
 
 <p align="center">
-  <img src="images/as-is.png" width="100%">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/937bcd95-6a6a-458f-9632-e970d075760e" width="100%">
 </p>
 
   2\2.4. Ubiquitous Language.
@@ -629,15 +629,15 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 4\.1.1. General Style Guidelines.
     **Branding:** Nuestro logo se expresa mediante una huella de pata de perro, símbolo de cuidado y compañerismo con nuestras mascotas. Esta huella transmite la idea de protección y afecto hacia los animales, lo que refleja la esencia de nuestro negocio centrado en el cuidado de mascotas. La forma de la huella se presenta de manera simple y sólida, con líneas definidas que sugieren confianza y seguridad. El color predominante es el morado, que se asocia con la creatividad, la nobleza y la espiritualidad, transmitiendo así la dedicación y el compromiso que tenemos hacia el bienestar de los animales. El nombre de nuestra empresa se encuentra integrado de manera armoniosa junto a la huella, reforzando nuestra identidad y facilitando su reconocimiento por parte de nuestros clientes y público objetivo.
 
-  <img src="./images/branding.png">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/5097dafe-76a6-41ee-a078-42b4152f8c17">
 
   **Typography:** Para la tipografía, hemos seleccionado los estilos "Roboto" y "Rubik" por su versatilidad y legibilidad. Estas fuentes ofrecen una apariencia moderna y limpia, lo que garantiza que nuestros usuarios puedan leer con facilidad toda la información presentada en nuestra aplicación. Tanto Roboto como Rubik son tipos de letra ampliamente reconocidos por su excelente legibilidad en pantallas digitales, lo que asegura una experiencia de usuario agradable y sin dificultades al interactuar con nuestra plataforma. La combinación de estas dos fuentes proporciona un equilibrio perfecto entre claridad y estilo, reforzando así la identidad visual de nuestra marca y asegurando una comunicación efectiva con nuestros usuarios.
   
-  <img src="./images/typography.png">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/014fdeb5-d593-4e81-8e7a-716a5e0d03f1">
 
   **Colors:** Nuestros colores principales, que nos representarán en nuestra aplicación y página web, han sido cuidadosamente seleccionados por su combinación de elegancia y facilidad visual. El color principal que utilizamos es el #c66900, el cual aporta un tono cálido y vibrante a nuestra marca. A pesar de ser el color predominante, se utilizará con moderación para resaltar elementos clave en nuestra interfaz, complementando los tonos blancos y negros predominantes. Además, hemos incorporado el color #e28000, que aporta un toque de sofisticación y profundidad, así como el color #ff9800, que ofrece una sensación de frescura y tranquilidad. Por último, el color #ffc340 se utiliza para resaltar acciones positivas o mensajes importantes, añadiendo un toque de vitalidad y energía a nuestra paleta de colores. En conjunto, estos colores crean una experiencia visual armoniosa y atractiva para nuestros usuarios.
 
-  <img src="./images/colors.png">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/0697b0a9-0e54-4c79-b5d4-986bde0988a9">
 
   **Spacing:** En nuestra landing page de mascotas, el espaciado juega un papel crucial como divisor de la información proporcionada a nuestros usuarios. Es fundamental que los usuarios puedan navegar por nuestra aplicación o página web con facilidad, y para lograrlo, el manejo de nuestras interfaces debe ser intuitivo. Una forma de lograr esta intuitividad es presentar la información de manera separada y ordenada, utilizando el espaciado en blanco para distinguir entre secciones y elementos no relacionados entre sí. De esta manera, garantizamos que nuestros usuarios puedan asimilar la información de manera clara y sin confusiones, lo que contribuye a una experiencia de usuario satisfactoria y efectiva.
 
@@ -647,7 +647,7 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 
   Para el Web Style hemos hecho gran uso del Spacing e imágenes para que el usuario no se sienta abrumado por la cantidad de información y también para que navegue con facilidad por la web al asociar las imágenes con los lugares donde se encuentran los diferentes tipos de datos.
 
-  <img src="./images/webstyle.png">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/393ec092-65ee-4f43-9a6b-a6c38e915e37">
   
 4\.2. Information Architecture
 
@@ -657,17 +657,17 @@ En esta sección, se presenta el recorrido completo de extremo a extremo de la a
 
   Hemos organizado nuestro contenido de manera lógica y coherente en varias secciones para facilitar la navegación y la comprensión. Estas secciones se organizan de la siguiente manera:
 
-  <img src="./images/organization.png">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/efa2548e-e627-4617-819b-4c06a14a586a">
   
 4\.2.2. Labeling Systems
 
   En la sección de Labeling Systems, nos aseguraremos de representar los datos de manera clara y concisa, minimizando la confusión para nuestros visitantes y usuarios. Utilizaremos etiquetas simples y directas para representar conjuntos de información y sus asociaciones. 
 
-  <img src="./images/labeling.png">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/3ada3485-4257-47af-aad1-19f5bb78546d">
 
   Nos aseguramos de poder asegurar la visualización de las características de la aplicación; esta experiencia nos brindará un menú desplegable donde finalmente visualizamos las secciones que ofrece nuestro sistema de perfiles. 
 
-  <img src="./images/labeling2.png">
+  <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/0216bbbd-b8a5-48b3-82e3-d0482c6429a4">
   
 4\.2.3. SEO Tags and Meta Tags
 
@@ -749,18 +749,18 @@ Estas acciones y técnicas trabajarán en conjunto para facilitar el recorrido d
 4\.3. Landing Page UI Design.
 4\.3.1. Landing Page Wireframe.
 
-<img src="images/img431-1.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/5796f2bc-aef9-46a3-b93c-309ea8e8f421">
 
 
-<img src="images/img431-2.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/b2391e5a-58fd-44ea-8361-ec52625ede92">
 
 4\.3.2. Landing Page Mock-up
 
 
-<img src="images/img432-1.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/1207beda-4dcc-4183-883f-cb875fd93313">
 
 
-<img src="images/img432-2.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/7521bfe7-a0b8-4867-b3bc-1caf17d75516">
 
 4\.4. Web Applications UX/UI Design
 
@@ -772,44 +772,44 @@ Web Application para Desktop Web Browser
 
 Registrarse
 
-<img src="images/img441-1.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/04a117b6-4b04-41c1-b271-b7d2d2cbb299">
 
 Inicio de sesión
 
-<img src="images/img441-2.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/4e0b08b5-2912-43fc-89fc-c325c7fab30f">
 
 Perfil de mascota
-<img src="images/img441-3.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/916a5ccf-4e12-47ab-9197-5a72dd4a828a">
 
 Dieta
 
-<img src="images/img441-4.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/7ddc0492-383e-4eb0-a0dc-23db92b0536f">
 
 Citas veterinarias
 
-<img src="images/img441-5.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/3a90c020-5f72-455c-895e-7d4b36ae5c19">
 
 Tratamientos
 
-<img src="images/img441-6.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/7569f4f1-7391-4d84-a27a-fa4e44d7c7f9">
 
 Historial médico - citas
 
-<img src="images/img441-7.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/16263dbf-e5da-49a7-8534-71c3fa213bea">
 
 Historial médico - tratamientos
 
-<img src="images/img441-8.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/49822091-5b88-493e-bcde-473e4fd37c78">
 
 Búsqueda de consejos
 
-<img src="images/img441-9.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/6672c390-cde4-4ba8-84de-7d49a5f2d9aa">
 
-<img src="images/img441-10.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/a2593d51-280b-4f6e-8e96-7fd0528de758">
 
 Ajustes de cuenta
 
-<img src="images/img441-11.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/82471dd8-c83b-49ff-8f4c-3840e8f437f5">
 
 Web Application para Mobile Web Browser
 
@@ -817,60 +817,60 @@ Web Application para Mobile Web Browser
 Agregar mascota
 
 
-<img src="images/img441-12.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/5fd8d8c7-23b9-4696-8f3d-20dbb1277335">
 
 
 Perfil de mascota
 
-<img src="images/img441-13.png">
+<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/db45ef5a-1837-4338-ba35-110253b1c438">
 
 Dieta
 
-<img src="images/img441-14.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/ce6584fc-a1cf-4ad0-aca4-35b132814f44)
 
 Citas
 
-<img src="images/img441-15.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/3a1af4ec-5377-4cf7-a945-23fd2379e425)
 
 Tratamientos
 
-<img src="images/img441-16.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/7751cde0-eec1-475c-9a6d-c5e05159899c)
 
 Búsqueda de consejos
 
-<img src="images/img441-17.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/2579d7f5-7329-4215-9ddd-c3c6493b3f5b)
 
-<img src="images/img441-18.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/49b63f93-fc4e-443e-a1af-da511885c29a)
 
 Búsqueda de consejos
 
-<img src="images/img441-19.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/6cbf3333-3a96-4a0d-b4e0-42c4d3eab433)
 
 4\.4.2. Web Applications Wireflow Diagrams
 
 User goal: Iniciar sesión
 
-<img src="images/img441-20.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/fce255f6-6cc4-4734-a346-f43ad2fe4083)
 
 User goal: Crear perfil de mascota
 
-<img src="images/img441-21.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/87025d5f-d926-4361-b60d-f490e79dcdf5)
 
 User goal 3: Agregar comida
 
-<img src="images/img441-22.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/0af3ba82-6d3d-48e0-a237-6f3950d0daf3)
 
 User goal 4: Agregar cita veterinaria
 
-<img src="images/img441-23.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/2e8f978c-c645-4b58-9d39-4b7587f6aefc)
 
 User goal 5: Agregar tratamiento
 
-<img src="images/img441-24.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/3026a80d-d1d0-4041-b9c4-c0093c91332f)
 
 User goal 6: Búsqueda de consejos 
 
-<img src="images/img441-25.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/debb2e5c-7b85-4dfd-8de9-d324d6ae1a47)
 
 4\.4.3. Web Applications Mock-ups.
 
@@ -878,109 +878,109 @@ Web Applications Desktop Web Browser
 
 Iniciar sesión
 
-<img src="images/img442-1.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/81c651b3-ceb6-44a2-920e-26b4786376e5)
 
 Agregar mascota
 
-<img src="images/img442-2.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/3121e36b-5ed5-4b2d-a97c-8f1f8c895040)
 
-<img src="images/img442-3.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/f0ae2007-4043-4dbe-af3a-17d45fd7c6c9)
 
-<img src="images/img442-4.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/bd614fb1-ac54-4732-9972-c7a33cab5055)
 
 Dieta
 
-<img src="images/img442-5.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/9a8db9d2-76f3-4308-b159-ad1aa0cbbb40)
 
-<img src="images/img442-6.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/11e45bff-f395-457e-81f9-c12dce8c6dfc)
 
 Citas veterinarias
 
-<img src="images/img442-7.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/4a271796-f282-4ec2-88ca-8705a3140036)
 
-<img src="images/img442-8.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/784209ca-e99c-4d12-974d-619f90537e4e)
 
 Tratamientos
 
-<img src="images/img442-9.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/4a0da980-0f7f-45cb-974a-42144ba8a298)
 
-<img src="images/img442-10.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/642bbebc-5ee3-4e9d-a9ee-cf91e805f4fa)
 
 Historial médico
 
-<img src="images/img442-11.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/c69d5e11-dfcd-4b0e-a4ca-413285ca07bb)
 
-<img src="images/img442-12.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/b4a7c851-04dc-46bd-b600-0eba694948c6)
 
 Búsqueda de consejos
 
-<img src="images/img442-13.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/b099a5e8-2309-4f0c-a94d-b060907ec1f6)
 
-<img src="images/img442-14.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/afb594bc-06b4-4ba3-8c8f-658aad911019)
 
-<img src="images/img442-15.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/94693bb7-8f68-406c-81fe-4a7f6f362587)
 
 Ajustes de cuenta
 
-<img src="images/img442-16.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/b79e7ff9-fdc9-44cc-b57f-18b1df6071e7)
 
 Web Applications Mobile Web Browser
 
 Agregar mascota
 
-<img src="images/img442-17.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/acdadf0c-3d90-4a33-8b89-6c006666927f)
 
-<img src="images/img442-18.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/241e45e5-1974-4592-93d0-b68cdaa90a5e)
 
 Dieta
 
-<img src="images/img442-19.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/fb71af96-d357-481d-a0d1-7e37f8edb3a5)
 
 Citas veterinarias
 
-<img src="images/img442-20.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/5909ee13-4400-4e3f-90d1-976462c53ba3)
 
 Tratamientos
 
-<img src="images/img442-21.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/8f58161e-63d2-4a7a-a1e2-702e93a51130)
 
 Ajustes de cuenta
 
-<img src="images/img442-22.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/0d38c1c4-8e5a-495a-a5de-9f9eb8792610)
 
 4\.4.4. Web Applications User Flow Diagrams
 
 User goal: Iniciar sesión
 
-<img src="images/img443-1.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/96081836-3500-45e9-8e8a-da749fc7a802)
 
 User goal: Crear perfil de mascota
 
-<img src="images/img443-2.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/7655d4a3-1d11-48b3-967f-8f0ba4d74db5)
 
 User goal: Agregar comida
 
-<img src="images/img443-3.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/beb3a921-2f46-4a11-bc4d-a08c4fbf10b7)
 
 User goal: Agregar cita veterinaria
 
-<img src="images/img443-4.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/13acd7ea-9af1-4ad9-8ef9-f38cdbfef07c)
 
 User goal: Agregar tratamiento
 
-<img src="images/img443-5.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/bee2cc0e-5fab-4704-bb8a-6549db97974d)
 
 User goal: Ver historial médico
 
-<img src="images/img443-6.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/a9f19c8f-bdc2-434a-9e83-0adbfe774ba6)
 
 User goal: Búsqueda de consejos
 
-<img src="images/img443-7.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/df3e7fc9-fae2-43bf-a2fe-3b1e2ad5bb58)
 
 User goal: Editar perfil
 
-<img src="images/img443-8.jpg">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/97c9fdb8-c0dc-4a46-960d-bce15e9d0397)
 
 4\.5. Web Applications Prototyping
 
@@ -989,7 +989,7 @@ Figma Web Prototyping:
 
 https://www.figma.com/proto/vrwbSYk9W1tMcE8bqqXL8V/PET-PAL-base-design?type=design&node-id=154-176&t=fb1Xf1xzLO3NaP5Z-1&scaling=min-zoom&page-id=27%3A1&starting-point-node-id=154%3A176&show-proto-sidebar=1&mode=design 
 
-<img src="images/img45.png">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/0590e4c6-ea7c-4b8b-af9e-c2e21c03f2c0)
 
 4\.6. **Domain-Driven Software Architecture.** 
 
