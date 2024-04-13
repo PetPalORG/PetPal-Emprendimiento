@@ -39,18 +39,18 @@ Producto: PetPal
 | 1.2       |  2024/03/24    |Frank Junior Salazar Saldarriaga |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
 | 1.3       |  2024/03/27   |Francis Daniel Mamani Silva |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado |
 | 1.4       |  2024/03/30    |Francis Daniel Mamani Silva |Elaboración de user personas, user task matrix, user journey mapping, empathy mapping, as-is   | Completado |
-| 1.5       |  2024/03/29    |Ian Macavilca Quispe<br>Michael Stefano Carmelino Dueñas |Elaboración de to-be, impact mapping   | Completado |
+| 1.5       |  2024/03/29    |-Ian Macavilca Quispe<br>-Michael Stefano Carmelino Dueñas |Elaboración de to-be, impact mapping   | Completado |
 | 1.6       |  2024/03/29    | Paolo Del Carmen Martinez Villanueva |Elaboración de user stories, product backlog | Completado |
-| 1.7       |  2024/04/02    | Ian Macavilca Quispe<br>Paolo Del Carmen Martinez Villanueva<br>Michael Stefano Carmelino Dueñas|Elaboración de prototipos de wireframes y mockups  | Completado |
-| 1.8       |  2024/04/01    | Frank Junior Salazar Saldarriaga<br>Ian Macavilca Quispe|Redacción de style guidelines e information architecture| Completado |
-| 1.9       |  2024/04/03    | Martinez Villanueva, Paolo Del Carmen |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
+| 1.7       |  2024/04/02    | -Ian Macavilca Quispe<br>-Paolo Del Carmen Martinez Villanueva<br>-Michael Stefano Carmelino Dueñas|Elaboración de prototipos de wireframes y mockups  | Completado |
+| 1.8       |  2024/04/01    | -Frank Junior Salazar Saldarriaga<br>-Ian Macavilca Quispe|Redacción de style guidelines e information architecture| Completado |
+| 1.9       |  2024/04/03    | Paolo Del Carmen Martinez Villanueva |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
 | 2.0       |  2024/04/07    |Paolo Del Carmen Martinez Villanueva |Registro de evidencias del Sprint 1 | Completado |
-| 2.1       |  2024/04/04    |Ian Macavilca Quispe<br>Paolo Del Carmen Martinez Villanueva<br>Michael Stefano Carmelino Dueñas |Rediseño de mockups. Elaboración de wireflows y user-flows| Completado |
+| 2.1       |  2024/04/04    |-Ian Macavilca Quispe<br>-Paolo Del Carmen Martinez Villanueva<br>-Michael Stefano Carmelino Dueñas |Rediseño de mockups. Elaboración de wireflows y user-flows| Completado |
 | 2.2       |  2024/04/07    | Paolo Del Carmen Martinez Villanueva | Redacción de software configuration management, sprint planning 1, sprint backlog 1 | Completado |
 | 2.3       |  2024/04/13    | Paolo Del Carmen Martinez Villanueva |Redacción de Team Collaboration Insights | Completado |
 | 2.4       |  2024/04/13    | Paolo Del Carmen Martinez Villanueva |Redacción de Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review | Completado |
 | 2.5       |  2024/04/13    | Paolo Del Carmen Martinez Villanueva |Redacción de Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint | Completado |
-| 2.6       |  2024/04/12    | Francis Daniel Mamani Silva<br>Frank Junior Salazar Saldarriaga |Redacción de conclusiones, bibliografía, anexos | Completado |
+| 2.6       |  2024/04/12    | -Francis Daniel Mamani Silva<br>-Frank Junior Salazar Saldarriaga |Redacción de conclusiones, bibliografía, anexos | Completado |
 
 # **Project Report Collaboration Insights**
 
