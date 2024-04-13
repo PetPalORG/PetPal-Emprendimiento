@@ -1229,7 +1229,7 @@ Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario c
 | Date | 30/03/2024 |
 | Time | 8:00 PM - 11:00 PM |
 | Location | Discord |
-| **Prepared By** | Adrián Enrique Jesús Palma Obispo  |
+| **Prepared By** | Paolo Del Carmen Martinez Villanueva  |
 | Attendees | - Michael Stefano Carmelino Dueñas (u202212760)<br>- Frank Junior Salazar Saldarriaga (u20181h103)<br>- Francis Daniel Mamani Silva (u202219315)<br>- Ian Macavilca Quispe (u202121325)<br>- Paolo Del Carmen Martinez Villanueva (u202010039) |
 | **Sprint 0 Review Summary** | Diseño y desarrollo del Landing Page |
 | **Sprint 0 Retrospective Summary** | Completar los diseños y estandarizar el lenguaje usado en el desarrollo y presentación del landing page |
