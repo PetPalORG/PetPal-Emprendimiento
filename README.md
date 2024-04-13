@@ -991,7 +991,11 @@ User goal: Editar perfil
 
 Figma Web Prototyping: 
 
-https://www.figma.com/proto/vrwbSYk9W1tMcE8bqqXL8V/PET-PAL-base-design?type=design&node-id=154-176&t=fb1Xf1xzLO3NaP5Z-1&scaling=min-zoom&page-id=27%3A1&starting-point-node-id=154%3A176&show-proto-sidebar=1&mode=design 
+Video del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EWT25UDtuHRHo4B8xRQmgOYBgOJETFpBeSmzfQW32B8d3Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QvIxkz
+
+Prototipo: https://www.figma.com/proto/vrwbSYk9W1tMcE8bqqXL8V/PET-PAL-base-design?type=design&node-id=154-176&t=fb1Xf1xzLO3NaP5Z-1&scaling=min-zoom&page-id=27%3A1&starting-point-node-id=154%3A176&show-proto-sidebar=1&mode=design 
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/5b74057a-c1cf-41f3-a139-4f9838be6263)
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/0590e4c6-ea7c-4b8b-af9e-c2e21c03f2c0)
 
