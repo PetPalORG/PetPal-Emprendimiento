@@ -1146,7 +1146,7 @@ Para el proyecto PetPal, se ha optado por utilizar MySQL como motor de base de d
 **Miro:** Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo, y más. En este caso, utilizamos Miro para la     elaboración de As-Is y To-Be Scenarios Mapping.
 
 <p align="center">
-        <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/9fc60cda-5fa4-45da-b5d7-bd0aa47aee86" alt="image" width="150" height="150">
+        <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/9fc60cda-5fa4-45da-b5d7-bd0aa47aee86" alt="image">
     </p>
    
 **UXPressia:** Herramienta especializada en la creación de mapas de impacto de experiencia de usuario (UX). En este caso, utilizamos UXPressia para la elaboración del Impact Mapping para cada segmento objetivo.
