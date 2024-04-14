@@ -56,6 +56,9 @@ Producto: PetPal
 
 URL Project Report (Github): https://github.com/PetPalORG/PetPal-Informe
 
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/026b2d89-38ab-465a-b7ff-d2968e3dfa83)
+
+
 # **Tabla de Contenido**
 
 - [Registro de Versiones](#registro-de-versiones)
