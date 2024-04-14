@@ -156,7 +156,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 **1.1. Startup Profile** 
 
-Actualmente, las mascotas ya no son consideradas simplemente animales domésticos a los cuales mantenemos en casa, estos ahora son considerados miembros importantes de la familia en muchos hogares, y el desarrollo de tecnologías que faciliten y mejoren su cuidado está en aumento. El tamaño del mercado de cuidado de mascotas se estima en 20,02 mil millones de dólares en 2024 y se espera que alcance los 24,59 mil millones de dólares en 2029, creciendo a una tasa compuesta anual del 4,20% durante el período previsto (Mordor Intelligence).
+Actualmente, las mascotas ya no son consideradas simplemente animales domésticos a los cuales mantenemos en casa, estos ahora son considerados miembros importantes de la familia en muchos hogares, y el desarrollo de tecnologías que faciliten y mejoren su cuidado está en aumento.
 
 Según datos recientes, se tiene estimado que el 67% de los hogares en el país tienen como mínimo una mascota, y esta cifra no ha dejado de crecer con el pasar de los años. Sin embargo, a pesar de la importancia que le damos a nuestras mascotas, aún se tiene la necesidad de herramientas que gestionen de manera óptima el cuidado de los engreídos del hogar. 
 
@@ -176,7 +176,7 @@ PetPal es una aplicación dedicada al cuidado de nuestras mascotas diseñada par
 
 **1.2. Solution Profile**
 
-El cuidado de las mascotas es una preocupación latente en cada uno de los propietarios, pero una gran cantidad enfrenta dificultad para gestionar la información importante sobre nuestras mascotas, como la dieta o sus vacunas de manera eficiente. Por otro lado, encontrar consejos de personas expertas y recursos para el cuidado de nuestras mascotas puede ser un desafío en un mundo de información en las cuales se contradicen unas con otras. Según la Compañía Peruana de Estudios de Mercado y Opinión (CPI), se tiene estimado que el 67% de los hogares en el país tienen como mínimo una mascota, y esta cifra no ha dejado de crecer con el pasar de los años. De acuerdo con World Animal Protection, el 95% de personas ven a sus mascotas como hijos o partes de la familia, por ello es importante que las personas sepan brindarles amor y el cuidado que se merecen. 
+El cuidado de las mascotas es una preocupación latente en cada uno de los propietarios, pero una gran cantidad enfrenta dificultad para gestionar la información importante sobre nuestras mascotas, como la dieta o sus vacunas de manera eficiente. Por otro lado, encontrar consejos de personas expertas y recursos para el cuidado de nuestras mascotas puede ser un desafío en un mundo de información en las cuales se contradicen unas con otras. Según la Compañía Peruana de Estudios de Mercado y Opinión (CPI), se tiene estimado que el 67% de los hogares en el país tienen como mínimo una mascota, y esta cifra no ha dejado de crecer con el pasar de los años. De acuerdo con World Animal Protection, el 95% de personas ven a sus mascotas como hijos o partes de la familia, por ello es importante que las personas sepan brindarles amor y el cuidado que se merecen. El tamaño del mercado de cuidado de mascotas se estima en 20,02 mil millones de dólares en 2024 y se espera que alcance los 24,59 mil millones de dólares en 2029, creciendo a una tasa compuesta anual del 4,20% durante el período previsto (Mordor Intelligence).
 
 <p align="center">
   <img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/7eb06844-00d7-41b1-afff-506c6f352e53" alt="image">
