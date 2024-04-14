@@ -1425,6 +1425,12 @@ Tabla para poder identificarnos:
 | paolomv02 	| Paolo Del Carmen Martinez Villanueva           |
 | stxfxno | Michael Stefano Carmelino Dueñas    |
 
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/2c0f7de3-6889-4ef1-a402-ef7e31165e5c)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/6bd4a638-fc0c-4a32-b74a-12fc6d4f18d7)
+
+
 # **Conclusiones** 
 
 En la sociedad moderna, las mascotas ya no son simplemente animales domésticos; se han convertido en miembros queridos y valiosos de nuestras familias. Esta evolución en la percepción de las mascotas ha generado una creciente preocupación por su bienestar y cuidado. Sin embargo, a pesar de la importancia que se les otorga, muchos propietarios se enfrentan a desafíos para gestionar eficientemente la información crucial sobre sus compañeros peludos, desde la dieta hasta las citas veterinarias.
