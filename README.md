@@ -1275,6 +1275,27 @@ Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario c
 
 5\.2.1.3. Development Evidence for Sprint Review. 
 
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|paolomv02/<br>PetPalORG/<br>LandingPage|main|bc7dd7e|feat: create index.html|-|10/04/2024| 
+|Ank222001/<br>PetPalORG/<br>LandingPage|main|59eec0f|feat: add head|-|10/04/2024| 
+|Ank222001/<br>PetPalORG/<br>LandingPage|main|99b2fe9|feat: add section|-|10/04/2024| 
+|danieln3m0/<br>PetPalORG/<br>LandingPage|main|a1642d9|feat: section "Recursos"|-|10/04/2024| 
+|danieln3m0/<br>PetPalORG/<br>LandingPage|main|f41251e|feat: section|-|10/04/2024| 
+|danieln3m0/<br>PetPalORG/<br>LandingPage|main|9be56f3|feat: css styles|-|10/04/2024| 
+|IanMQ/<br>PetPalORG/<br>LandingPage|main|0284e2b|feat: update menu.js|-|10/04/2024|
+|IanMQ/<br>PetPalORG/<br>LandingPage|main|129331d|feat: update slider.js|-|10/04/2024| 
+|IanMQ/<br>PetPalORG/<br>LandingPage|main|5617169|feat: update questions.js|-|10/04/2024| 
+|paolovm02/<br>PetPalORG/<br>LandingPage|main|b75bc87|feat: add section "feedback"|-|10/04/2024| 
+|paolovm02/<br>PetPalORG/<br>LandingPage|main|e20e1fb|feat: add styles|-|10/04/2024| 
+|stxfxno/<br>PetPalORG/<br>LandingPage|main|61bb4b0|feat: update|-|10/04/2024|
+|stxfxno/<br>PetPalORG/<br>LandingPage|main|97575c9|Add files via upload|-|10/04/2024|
+|stxfxno/<br>PetPalORG/<br>FrontEnd|main|6347a2351d|feat: add styles|-|10/04/2024| 
+|stxfxno/<br>PetPalORG/<br>LandingPage|main|dfa6de1|fix: update html|-|10/04/2024|
+|paolovm02/<br>PetPalORG/<br>LandingPage|main|0aa2bd1|fix: update section|-|10/04/2024|
+|paolomv02/<br>PetPalORG/<br>LandingPage|main|ef91818|feat: add images|-|13/04/2024|
+|paolomv02/<br>PetPalORG/<br>LandingPage|main|2a70698|feat: add section "Testimonios"|-|13/04/2024|
+
 5\.2.1.4. Testing Suite Evidence for Sprint Review.
 
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
@@ -1287,7 +1308,6 @@ Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario c
 
 
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
-
 
 
 **1. Utilización de Live Server de Microsoft Visual Studio Code** 
