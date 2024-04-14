@@ -34,9 +34,9 @@ Producto: PetPal
 
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
-| 1.0       |  2024/03/23    |Francis Daniel Mamani Silva | Creación del documento de trabajo en formato markdown. | Completado  |
-| 1.1       |  2024/03/23   |Francis Daniel Mamani Silva | Agregar la plantilla del reporte en markdown | Completado  |
-| 1.2       |  2024/03/24    |Frank Junior Salazar Saldarriaga |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
+| 1.0       |  2024/03/24    |Francis Daniel Mamani Silva | Creación del documento de trabajo en formato markdown. | Completado  |
+| 1.1       |  2024/03/24   |Francis Daniel Mamani Silva | Agregar la plantilla del reporte en markdown | Completado  |
+| 1.2       |  2024/03/25    |Frank Junior Salazar Saldarriaga |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
 | 1.3       |  2024/03/27   |Francis Daniel Mamani Silva |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado |
 | 1.4       |  2024/03/27    |Francis Daniel Mamani Silva |Elaboración de user personas, user task matrix, user journey mapping, empathy mapping, as-is   | Completado |
 | 1.5       |  2024/03/29    |-Ian Macavilca Quispe<br>-Michael Stefano Carmelino Dueñas |Elaboración de to-be, impact mapping   | Completado |
