@@ -1295,7 +1295,7 @@ Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario c
 |paolovm02/<br>PetPalORG/<br>LandingPage|main|e20e1fb|feat: add styles|-|10/04/2024| 
 |stxfxno/<br>PetPalORG/<br>LandingPage|main|61bb4b0|feat: update|-|10/04/2024|
 |stxfxno/<br>PetPalORG/<br>LandingPage|main|97575c9|Add files via upload|-|10/04/2024|
-|stxfxno/<br>PetPalORG/<br>FrontEnd|main|6347a2351d|feat: add styles|-|10/04/2024| 
+|stxfxno/<br>PetPalORG/<br>LandingPage|main|6347a2351d|feat: add styles|-|10/04/2024| 
 |stxfxno/<br>PetPalORG/<br>LandingPage|main|dfa6de1|fix: update html|-|10/04/2024|
 |paolovm02/<br>PetPalORG/<br>LandingPage|main|0aa2bd1|fix: update section|-|10/04/2024|
 |paolomv02/<br>PetPalORG/<br>LandingPage|main|ef91818|feat: add images|-|13/04/2024|
@@ -1479,6 +1479,44 @@ Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarr
 |US17|Recordatorio de tratamientos|W-16|Ingreso de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** recibir recordatorios para la administración de medicamentos</p><p>**Para** asegurarme que mi mascota siga su tratamiento correctamente</p>|3 hours|**Frank Junior Salazar Saldarriaga**|In-Process|
 |US17|Historial médico|W-17|Historial médico|<p>**Como** usuario</p><p>**Quiero** ver el historial médico de mi mascota</p><p>**Para** tener un registro detallado de su salud</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
 |US05|Eliminar cuenta|W-18|Eliminación de cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p>|3 hours|**Michael Stefano Carmelino Dueñas**|In-Process|
+
+
+5\.2.2.3. Development Evidence for Sprint Review
+    
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|PetPalORG/<br>WebAppFront|main|44ddaa0|initial commit: create project|-|23/04/2024| 
+|PetPalORG/<br>WebAppFront|main|00ee5b2|feat: add components|-|24/04/2024| 
+|PetPalORG/<br>WebAppFront|main|54ef994|feat: domain-driven design|-|28/04/2024| 
+|PetPalORG/<br>WebAppFront|main|5fb2443|feat: create pet register component|-|28/04/2024| 
+|PetPalORG/<br>WebAppFront|main|751fae2|feat: create description component|-|28/04/2024| 
+|PetPalORG/<br>WebAppFront|main|2e44508|feat: toolbar component|-|28/04/2024| 
+|PetPalORG/<br>WebAppFront|main|7d9da1d|feat: create db.json|-|29/04/2024|
+|PetPalORG/<br>WebAppFront|main|7a45dd6|feat: create routes index.js|-|29/04/2024| 
+|PetPalORG/<br>WebAppFront|main|7495cb6|feat: install vue-router|-|29/04/2024| 
+|PetPalORG/<br>WebAppFront|main|88342a5|feat: create pet service|-|29/04/2024| 
+|PetPalORG/<br>WebAppFront|main|deb8112|feat: create profile component|-|29/04/2024| 
+|PetPalORG/<br>WebAppFront|main|e495ecc|feat: create pet-list component|-|29/04/2024|
+|PetPalORG/<br>WebAppFront|main|686066f|fix: update pet-register|-|29/04/2024|
+|PetPalORG/<br>WebAppFront|main|0ff0e82|feat: create pet-info component|-|29/04/2024| 
+|PetPalORG/<br>WebAppFront|main|5daa18d|feat: create pet model|-|29/04/2024|
+|PetPalORG/<br>WebAppFront|main|dccf4c9|feat: create action-toolbar component|-|29/04/2024|
+|PetPalORG/<br>WebAppFront|main|0094765|fix: update action-toolbar|-|29/04/2024|
+|PetPalORG/<br>WebAppFront|main|c2c1eff|feat: create medical history|-|30/04/2024|
+|PetPalORG/<br>WebAppFront|main|d5eab6c|feat: create diet|-|30/04/2024|
+|PetPalORG/<br>WebAppFront|main|40a377b|feat: create appointment|-|30/04/2024|
+|PetPalORG/<br>WebAppFront|main|cc904d9|feat: create treatment model|-|30/04/2024|
+|PetPalORG/<br>WebAppFront|main|7e31eab|feat: create meal model|-|30/04/2024|
+|PetPalORG/<br>WebAppFront|main|8891b3c|feat: create appointment model|-|30/04/2024|
+|PetPalORG/<br>WebAppFront|main|a19ce42|feat: create medical history|-|30/04/2024|
+|PetPalORG/<br>WebAppFront|main|fe00fb4|feat: add inputs and fix routes|-|01/05/2024|
+|PetPalORG/<br>WebAppFront|main|4ea66fb|feat: add images|-|02/05/2024|
+|PetPalORG/<br>WebAppFront|main|f7b2028|fix: update register component|-|02/05/2024|
+|PetPalORG/<br>WebAppFront|main|6a7c294|fix: update login component|-|02/05/2024|
+|PetPalORG/<br>WebAppFront|main|5618aee|feat: add articles logic|-|02/05/2024|
+|PetPalORG/<br>WebAppFront|main|dd21df5|fix: toolbar logic|-|02/05/2024|
+|PetPalORG/<br>WebAppFront|main|c2c1eff|feat: create medical history|-|02/05/2024|
+
 
 
 # **Conclusiones** 
