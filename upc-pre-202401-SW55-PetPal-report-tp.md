@@ -1525,6 +1525,60 @@ Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarr
 |PetPalORG/<br>WebAppFront|main|dd21df5|fix: toolbar logic|-|02/05/2024|
 |PetPalORG/<br>WebAppFront|main|c2c1eff|feat: create medical history|-|02/05/2024|
 
+5\.2.2.4. Testing Suite Evidence for Sprint Review
+
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|PetPalORG<br>/AcceptanceTest|main|47d82ff|feat: add US01.feature|-|02/05/2024| 
+|PetPalORG<br>/AcceptanceTest|main|ac91353|feat: add US02.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|2f93c51|feat: add US03.feature|-|02/05/2024| 
+|PetPalORG<br>/AcceptanceTest|main|8e18bbd|feat: add US04.feature|-|02/05/2024| 
+|PetPalORG<br>/AcceptanceTest|main|92a3d2d|feat: add US05.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|4f197ce|feat: add US06.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|d89b552|feat: add US07.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|1c34082|feat: add US08.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|5141833|feat: add US09.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|c53e471|feat: add US10.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|a8b089b|feat: add US11.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|0af4605|feat: add US12.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|ec2bcc0|feat: add US13.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|08d4f1f|feat: add US14.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|1d8efe0|feat: add US15.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|582c3ba|feat: add US16.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|d727adf|feat: add US17.feature|-|02/05/2024|
+|PetPalORG<br>/AcceptanceTest|main|877481f|feat: add US18.feature|-|02/05/2024|
+
+En el proceso de desarrollo del frontend, se usaron diferentes estrategias de prueba para garantizar que todo funcionara correctamente y que el diseño se adaptara bien a diversos entornos. Aquí están las herramientas y métodos que utilizamos:
+
+1. **Servidor Local en WebStorm**
+
+- **Propósito:** Facilitamos el desarrollo y la prueba del frontend en un entorno local.
+- **Descripción:** Empleamos un servidor en WebStorm para poder ver el frontend en el navegador y visualizar cambios en tiempo real sin tener que recargar la página manualmente. Esto nos permitió trabajar de forma más eficiente y detectar problemas rápidamente.
+
+2. **Firefox Developer para Pruebas Móviles**
+
+- **Propósito:** Verificar la compatibilidad del frontend y su diseño en dispositivos móviles.
+- **Descripción:** Utilizamos Firefox Developer para simular diferentes tamaños de pantalla y asegurarnos de que el diseño respondiera adecuadamente en dispositivos móviles. Esta herramienta nos permitió comprobar cómo se veía y funcionaba el frontend en distintas resoluciones.
+
+3. **Herramientas del Navegador para Diseño Responsivo**
+
+- **Propósito:** Usar las funciones del navegador para mejorar el diseño y la compatibilidad con CSS .
+- **Descripción:** Con las herramientas de inspección del navegador, ajustamos y optimizamos el diseño del frontend para trabajar con CSS. También usamos las herramientas de depuración para corregir problemas de diseño responsivo y mejorar la experiencia del usuario.
+
+  Estas estrategias de prueba nos ayudaron a garantizar que el frontend funcionara bien, se viera atractivo y fuera adaptable en diferentes dispositivos y navegadores, contribuyendo a una experiencia de usuario de alta calidad.
+
+4. **Pruebas de Interactividad y Funcionalidad**
+
+- **Propósito:**: Asegurar que todas las interacciones y funcionalidades del frontend funcionen correctamente.
+
+- **Descripción:** Realizamos pruebas manuales para verificar que los botones, enlaces, formularios y otras funciones interactivas del frontend respondieran de manera adecuada. Al probar diferentes casos de uso y flujos de usuario, pudimos identificar errores o comportamientos inesperados y corregirlos antes de que llegaran a producción.
+Esta estrategia nos permitió comprobar de forma directa cómo los usuarios interactúan con el frontend y nos ayudó a garantizar una experiencia de usuario sin problemas.
+
+
+
+
+
+
 
 
 # **Conclusiones** 
