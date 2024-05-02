@@ -1436,52 +1436,6 @@ Tabla para poder identificarnos:
 ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/6bd4a638-fc0c-4a32-b74a-12fc6d4f18d7)
 
 
-5\.2.2. Sprint 2
-
-5\.2.2.1. Sprint Planning 2
-      
-Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarrolla un conjunto de tareas o actividades específicas en un proyecto, asociado con metodologías ágiles como Scrum. El Sprint #2 tiene como fecha de inicio el 20/04/2024 y plantea elaborar la primera versión del FrontEnd de la aplicación web de PetPal que contenga las funcionalidades del proyecto.
-
-
-| **Sprint #** | **Sprint 2** |
-| :- | :- |
-| **Sprint Planning Background** | |
-| Date | 20/04/2024 |
-| Time | 9:00 PM - 3:00 AM |
-| Location | Discord |
-| **Prepared By** | Paolo Del Carmen Martinez Villanueva  |
-| Attendees | - Michael Stefano Carmelino Dueñas (u202212760)<br>- Frank Junior Salazar Saldarriaga (u20181h103)<br>- Francis Daniel Mamani Silva (u202219315)<br>- Ian Macavilca Quispe (u202121325)<br>- Paolo Del Carmen Martinez Villanueva (u202010039) |
-| **Sprint 2 Goal** | Elaborar, diseñar y desplegar la primera versión del FrontEnd de la aplicación web de PetPal. |
-| **Sprint 2 Velocity** | 40 |
-| **Sum of Story Points** | 40 |
-
-
-5\.2.2.2. Sprint Backlog 2
-
-|**Sprint #**|**Sprint 2**|||||||
-| :- | :- | :- | :- | :- | :- | :- | :- |
-|User Story|Work-Item / Task|||||||
-|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-|US01|Registro de usuario|W-01|Seccion Register|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en PetPal</p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|2 hours|**Michael Stefano Carmelino Dueñas**|Done|
-|US02|Inicio de sesión|W-02|Sección Sign In|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|2 hours|**Michael Stefano Carmelino Dueñas**|Done|
-|US03|Recuperación de contraseña|W-03|Opción Recuperar Contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|3 hours|**Francis Daniel Mamani Silva**|In progress|
-|US04|Cambiar dirección de correo electrónico|W-04|Opción Cambiar Correo|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|3 hours|**Francis Daniel Mamani Silva**|Done|
-|US06|Visualización de perfil de mascota|W-05|Perfil de mascotas|<p>**Como** usuario</p><p>**Quiero** poder ver el perfil completo de cada una de mis mascotas</p><p>**Para** acceder a su información detallada y necesidades individuales</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US07|Edición del perfil de mascota|W-06|Edición de perfil|<p>**Como** usuario</p><p>**Quiero** poder editar la información de mi mascota en su perfil</p><p>**Para** mantenerla actualizada</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US08|Eliminación del perfil de mascota|W-07|Eliminar perfil|<p>**Como** usuario</p><p>**Quiero** quiero poder eliminar un perfil de mascota</p><p>**Para** actualizar mis perfiles si es necesario</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US09|Registro de dieta diaria|W-08|Registro de dieta|<p>**Como** usuario</p><p>**Quiero** poder registrar la dieta diaria de mis mascotas</p><p>**Para** asegurarme que reciben la nutrición adecuada</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US10|Programación de cita veterinaria|W-09|Cita veterinaria|<p>**Como** usuario</p><p>**Quiero** programar una cita veterinaria para mi mascota</p><p>**Para** garantizar su salud y bienestar</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US11|Historial de citas veterinarias|W-10|Historial de citas veterinarias|<p>**Como** usuario</p><p>**Quiero** ver el historial completo de citas veterinarias de mis mascotas</p><p>**Para** tener un registro de su atención médica</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US12|Cancelación de cita veterinaria|W-11|Cancelar cita|<p>**Como** usuario</p><p>**Quiero** cancelar una cita veterinaria</p><p>**Para** actualizar si es necesario</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US13|Búsqueda de consejos|W-12|Buscar artículos de consejos|<p>**Como** usuario</p><p>**Quiero** buscar consejos específicos</p><p>**Para** encontrar información más rápidamente</p>|3 hours|**Ian Macavilca Quispe**|Done|
-|US14|Agregar foto de perfil a la mascota|W-13|Foto de mascota|<p>**Como** usuario</p><p>**Quiero** poder agregar una foto al perfil de mi mascota</p><p>**Para** personalizarlo y hacerlo más identificable</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|In-Process|
-|US15|Agregar descripción de mascota|W-14|Foto de mascota|<p>**Como** usuario</p><p>**Quiero** agregar una descripción de mi mascota</p><p>**Para** registrarla como información relevante de mi mascota</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US16|Registro de tratamientos|W-15|Registrar tratamientos|<p>**Como** usuario</p><p>**Quiero** registrar los tratamientos administrados a mi mascota</p><p>**Para** garantizar que recibe el cuidado necesario</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US17|Recordatorio de tratamientos|W-16|Ingreso de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** recibir recordatorios para la administración de medicamentos</p><p>**Para** asegurarme que mi mascota siga su tratamiento correctamente</p>|3 hours|**Frank Junior Salazar Saldarriaga**|In-Process|
-|US17|Historial médico|W-17|Historial médico|<p>**Como** usuario</p><p>**Quiero** ver el historial médico de mi mascota</p><p>**Para** tener un registro detallado de su salud</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US05|Eliminar cuenta|W-18|Eliminación de cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p>|3 hours|**Michael Stefano Carmelino Dueñas**|In-Process|
-
-
 # **Conclusiones** 
 
 En la sociedad moderna, las mascotas ya no son simplemente animales domésticos; se han convertido en miembros queridos y valiosos de nuestras familias. Esta evolución en la percepción de las mascotas ha generado una creciente preocupación por su bienestar y cuidado. Sin embargo, a pesar de la importancia que se les otorga, muchos propietarios se enfrentan a desafíos para gestionar eficientemente la información crucial sobre sus compañeros peludos, desde la dieta hasta las citas veterinarias.
