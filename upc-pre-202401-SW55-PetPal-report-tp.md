@@ -133,14 +133,22 @@ URL Project Report (Github): https://github.com/PetPalORG/PetPal-Informe
     - 5.1.3. Source Code Style Guide & Conventions
     - 5.1.4. Software Deployment Configuration
   - 5.2. Landing Page, Services & Applications Implementation
-    - 5.2.1. Sprint n
-      - 5.2.1.1. Sprint Planning n
+    - 5.2.1. Sprint 1
+      - 5.2.1.1. Sprint Planning 1
       - 5.2.1.3. Development Evidence for Sprint Review
       - 5.2.1.4. Testing Suite Evidence for Sprint Review
       - 5.2.1.5. Execution Evidence for Sprint Review
       - 5.2.1.6. Services Documentation Evidence for Sprint Review
       - 5.2.1.7. Software Deployment Evidence for Sprint Review
       - 5.2.1.8. Team Collaboration Insights during Sprint
+    - 5.2.2. Sprint 2
+      - 5.2.2.1. Sprint Planning 2
+      - 5.2.2.3. Development Evidence for Sprint Review
+      - 5.2.2.4. Testing Suite Evidence for Sprint Review
+      - 5.2.2.5. Execution Evidence for Sprint Review
+      - 5.2.2.6. Services Documentation Evidence for Sprint Review
+      - 5.2.2.7. Software Deployment Evidence for Sprint Review
+      - 5.2.2.8. Team Collaboration Insights during Sprint
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
