@@ -1738,6 +1738,7 @@ Mercado de cuidado de mascotas Insights. (n.d.). https://www.mordorintelligence.
 - Enlace para acceder a la landing page: [Ver enlace](https://petpalorg.github.io/LandingPage/)
 - Enlace para acceder al Web Application: [PetPal Web Application](https://petpal-384e5.web.app)
 - Enlace del video del prototipo de Web Applicacions: [Ver Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EWT25UDtuHRHo4B8xRQmgOYBgOJETFpBeSmzfQW32B8d3Q?e=BFQIml&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Enlace del video de exposición del TP: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EW6-p7TkI6dNq5J7B3Me8y8BwPiuLJtT9AdI4E_eSw1ymQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3ZGzPw)
 - Repositorio GitHub Informe: [Ver enlace](https://github.com/PetPalORG/PetPal-Informe)
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/PetPalORG/LandingPage)
 - Repositorio GitHub Frontend Application: [Ver enlace](https://github.com/PetPalORG/WebAppFront)
