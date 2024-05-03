@@ -53,6 +53,11 @@ Producto: PetPal
 | 2.4       |  2024/04/13    | Paolo Del Carmen Martinez Villanueva |Redacción de Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review | Completado |
 | 2.5       |  2024/04/13    | Paolo Del Carmen Martinez Villanueva |Redacción de Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint | Completado |
 | 2.6       |  2024/04/13    | -Francis Daniel Mamani Silva<br>-Frank Junior Salazar Saldarriaga |Redacción de conclusiones, bibliografía, anexos | Completado |
+| 2.7       |  2024/05/02    | Paolo Del Carmen Martinez Villanueva |Redacción de Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review| Completado |
+| 2.8       |  2024/05/02    | Ian Macavilca Quispe |Redacción de Execution Evidence for Sprint Review| Completado |
+| 2.9       |  2024/05/02    | Michael Stefano Carmelino Dueñas |Redacción de Team Collaboration Insights during Sprint | Completado |
+| 3.0       |  2024/05/02     | Francis Daniel Mamani Silva |Redacción de Testing Suite Evidence for Sprint Review | Completado |
+| 3.1       |  2024/05/02    | -Francis Daniel Mamani Silva<br>-Frank Junior Salazar Saldarriaga |Redacción de conclusiones | Completado |
 
 # **Project Report Collaboration Insights**
 
