@@ -1418,9 +1418,8 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 
 5\.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Para la entrega del Sprint N1, se desplego la primera versión de nuestra Web Application en Firebase, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug y error presentado en esta versión será adecuadamente corregido en futuras entregas.
-      ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/102f860a-7491-44f6-8486-b8c7be00125c)
-
+Para la entrega del Sprint N1, se desplego la primera versión de nuestra LandingPage en GitHub, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug y error presentado en esta landing será adecuadamente corregido en futuras entregas.
+      ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/4281f70b-8176-4275-911f-f9e39cd8ce14)
 
 5\.2.1.8. Team Collaboration Insights during Sprint.
   
