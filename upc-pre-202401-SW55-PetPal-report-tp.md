@@ -1426,7 +1426,7 @@ Para la entrega del Sprint N1, se desplego la primera versión de nuestra Landin
 | Paolo Del Carmen Martinez Villanueva 	| Implementación de la sección "Testimonios" |
 | Michael Stefano Carmelino Dueñas | Implementación de la sección "Nosotros" |
  
-Hemos desarrollado en conjunto un total de xxx commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
+Hemos desarrollado en conjunto un total de 190 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
  
 Tabla para poder identificarnos:
 
@@ -1484,7 +1484,7 @@ Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarr
 |US14|Agregar foto de perfil a la mascota|W-13|Foto de mascota|<p>**Como** usuario</p><p>**Quiero** poder agregar una foto al perfil de mi mascota</p><p>**Para** personalizarlo y hacerlo más identificable</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|In-Process|
 |US15|Agregar descripción de mascota|W-14|Foto de mascota|<p>**Como** usuario</p><p>**Quiero** agregar una descripción de mi mascota</p><p>**Para** registrarla como información relevante de mi mascota</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
 |US16|Registro de tratamientos|W-15|Registrar tratamientos|<p>**Como** usuario</p><p>**Quiero** registrar los tratamientos administrados a mi mascota</p><p>**Para** garantizar que recibe el cuidado necesario</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
-|US17|Recordatorio de tratamientos|W-16|Ingreso de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** recibir recordatorios para la administración de medicamentos</p><p>**Para** asegurarme que mi mascota siga su tratamiento correctamente</p>|3 hours|**Frank Junior Salazar Saldarriaga**|In-Process|
+|US17|Recordatorio de tratamientos|W-16|Recordario de tratamientos|<p>**Como** usuario</p><p>**Quiero** recibir recordatorios para la administración de medicamentos</p><p>**Para** asegurarme que mi mascota siga su tratamiento correctamente</p>|3 hours|**Frank Junior Salazar Saldarriaga**|In-Process|
 |US17|Historial médico|W-17|Historial médico|<p>**Como** usuario</p><p>**Quiero** ver el historial médico de mi mascota</p><p>**Para** tener un registro detallado de su salud</p>|3 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
 |US05|Eliminar cuenta|W-18|Eliminación de cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p>|3 hours|**Michael Stefano Carmelino Dueñas**|In-Process|
 
@@ -1651,6 +1651,41 @@ Secciones
    - Desarrollamos un apartado que muestre todos los detalles de los artículos buscados
    
      ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/dfc33962-3f1b-47ad-a0be-c9f28a1c789e)
+
+
+5\.2.2.6. Services Documentation Evidence for Sprint Review
+
+  5\.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint N1, se desplego la primera versión de nuestra Aplicación Web en netlify, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug y error presentando en esta entrega del FrontEnd será adecuadamente corregido en futuras entregas.
+
+
+
+- 5.2.2.8. Team Collaboration Insights during Sprint
+
+**Actividades por Alumno**
+
+| Alumno                              | Actividad                                                 |
+|-------------------------------------|-----------------------------------------------------------|
+| Francis Daniel Mamani Silva  | Implementación de las sección perfil de usuario |
+| Ian Macavilca Quispe | Implementación de la sección de artículos |
+| Frank Junior Salazar Saldarriaga | Implementación de la Landing Page |
+| Paolo Del Carmen Martinez Villanueva | Implementación de perfil de mascota, dieta, citas veterinarias, tratamientos e historial médico |
+| Michael Stefano Carmelino Dueñas | Implementación de registro e inicio de sesión |
+
+
+Se realizaron un total de xxx commits para el desarrollo del frontend de nuestra aplicación web PetPal.
+
+
+**Tabla para Identificación (Usuarios de Github)**
+
+| Username (Github) | Nombre                               |
+|-------------------|--------------------------------------|
+| danieln3m0        | Francis Daniel Mamani Silva          |
+| IanMQ             | Ian Macavilca Quispe                 |
+| Ank222001         | Frank Junior Salazar Saldarriaga     |
+| paolomv02 	      | Paolo Del Carmen Martinez Villanueva |
+| stxfxno           | Michael Stefano Carmelino Dueñas     |
 
 
 
