@@ -1578,7 +1578,6 @@ Esta estrategia nos permitió comprobar de forma directa cómo los usuarios inte
 
   **Sprint 2**
 
-    Progreso en el Desarrollo
   - Durante el Sprint 2, se realizaron las siguientes implementaciones en la página:
 
 1. **Landing Page**
