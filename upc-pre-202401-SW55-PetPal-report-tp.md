@@ -1682,7 +1682,10 @@ Para la entrega del Sprint N1, se desplego la primera versión de nuestra Web Ap
 | Michael Stefano Carmelino Dueñas | Implementación de registro e inicio de sesión |
 
 
-Se realizaron un total de xxx commits para el desarrollo del frontend de nuestra aplicación web PetPal.
+Se realizaron un total de 78 commits para el desarrollo del frontend de nuestra aplicación web PetPal.
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e92d90cd-879f-4de9-ad4b-4a48ac618dde)
+
 
 
 **Tabla para Identificación (Usuarios de Github)**
@@ -1733,6 +1736,7 @@ Mercado de cuidado de mascotas Insights. (n.d.). https://www.mordorintelligence.
 
 # **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://petpalorg.github.io/LandingPage/)
+- Enlace para acceder al Web Application: [PetPal Web Application](https://petpal-384e5.web.app)
 - Enlace del video del prototipo de Web Applicacions: [Ver Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EWT25UDtuHRHo4B8xRQmgOYBgOJETFpBeSmzfQW32B8d3Q?e=BFQIml&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Repositorio GitHub Informe: [Ver enlace](https://github.com/PetPalORG/PetPal-Informe)
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/PetPalORG/LandingPage)
