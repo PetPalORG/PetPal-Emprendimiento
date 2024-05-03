@@ -1740,7 +1740,6 @@ Mercado de cuidado de mascotas Insights. (n.d.). https://www.mordorintelligence.
 - Enlace del video del prototipo de Web Applicacions: [Ver Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EWT25UDtuHRHo4B8xRQmgOYBgOJETFpBeSmzfQW32B8d3Q?e=BFQIml&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Repositorio GitHub Informe: [Ver enlace](https://github.com/PetPalORG/PetPal-Informe)
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/PetPalORG/LandingPage)
-- Repositorio GitHub Frontend Application: [Ver enlace](https://github.com/PetPalORG/WebAppFront)
 - Figma: [Diseño en Figma](https://www.figma.com/file/vrwbSYk9W1tMcE8bqqXL8V/PET-PAL-base-design?type=design&node-id=27%3A1&mode=design&t=flDp1gAEf6ifHTXC-1)
 - Vertabelo: [Database Diagram](https://my.vertabelo.com/public-model-view/lvw8l43FtPK4CEWrIX6kDnL6XkXJErzaTKOFmJgAOLxccyWz0VqNTsJV1BrOe8rR?x=2402&y=2640&zoom=0.4028)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2701000)
