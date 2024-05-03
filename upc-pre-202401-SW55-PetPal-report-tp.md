@@ -1662,7 +1662,9 @@ Secciones
 
   5\.2.2.7. Software Deployment Evidence for Sprint Review
 
-Para la entrega del Sprint N1, se desplego la primera versión de nuestra Aplicación Web en netlify, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug y error presentando en esta entrega del FrontEnd será adecuadamente corregido en futuras entregas.
+Para la entrega del Sprint N1, se desplego la primera versión de nuestra Web Application en Firebase, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug y error presentado en esta versión será adecuadamente corregido en futuras entregas.
+
+  ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/102f860a-7491-44f6-8486-b8c7be00125c)
 
 
 
