@@ -1595,68 +1595,73 @@ Esta estrategia nos permitió comprobar de forma directa cómo los usuarios inte
 2. **Registro de usuario**
    - Implementamos una pantalla de registro de usuario
   
-     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/c914111a-0c2e-4333-98a6-0f3c7305f411)
+     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/ee2df1e3-8f13-47d9-a71b-968effebf7ce)
+
 
 3. **Inicio de sesión**
 
    - Implementamos una pantalla de inicio sesión
 
-    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/417e80a1-dc8c-4d1a-92c0-70cb0c3be1a1)
+    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/9f287946-410f-4196-aaff-a8aacd932adf)
+
 
 4. **Barra de Navegación (Navbar):**
    - Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página
    
      
-    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/aa1ef514-28d1-4a3b-aa51-f9339cec4d4c)
+    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/41e1e833-0adc-4e54-89b7-afcc1c3c8ba1)
+
 
 Secciones 
 
 5. **Sección de Perfiles:**
    - Se diseño e implementamos una sección de perfiles que muestra el perfil de cada mascota
      
-     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/b20b8795-9d75-48f8-b7dc-e77d7016b341)
+     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e3c683da-11db-4cb1-b9ec-55a5fdfb1d48)
 
 
 6. **Seccion de agregar mascota :**
    - Se implementó una sección para poder ingresar una nueva mascota
      
-    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/9f497124-48d8-460d-844f-1c921fc93227)
+    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/02a9f053-0c7a-44b2-a084-957cdb3d7cb9)
+
 
 
 7. **Seccion de dieta :**
    - Implementamos una sección para observar el registro de comidas de la mascota
      
-     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/29ae97dd-0b26-4fa2-8837-48a47b19a893)
+     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/7aa4b225-cc35-4563-b4ab-fa55addf5ff7)
+
 
 8. **Sección de citas veterinarias:**
    - Implementamos una sección para llevar el registro de citas veterinarias de la mascota
       
-     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/83490489-a342-481a-8391-c132496deca4)
+     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/8a3ec488-203e-458c-a6c3-07c391304ff3)
 
 
 9. **Sección de tratamientos :**
 
    - Implementamos una sección de tratamientos para llevar el registro de tratamientos de la mascota
 
-    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e15b34e6-f816-4f72-98d2-10c2cac2a16a)
+    ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/faf233e1-b1d4-41c3-a813-6d7bc92a2a70)
 
-  
+
 10. **Sección historial médico :**
 
    - Implementamos una sección de historial médico para guardar todas las citas y tratamientos pasados de nuestra mascota
      
-      ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/4f8442d7-9bd5-4abc-afaa-abfc8f3a3ee1)
+      ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/771e33ba-6997-439f-8fd8-bd8b718c2340)
 
 
 11. **Sección artículos :**
    - Implementamos una sección para buscar artículos relacionados a mascotas que sean útiles
           
-     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/232ae884-d2b4-4f8a-959e-2510f5ce574d)
+     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/2f1c0b66-c37e-456f-b5de-64310373084b)
 
 12. **Detalle del artículo:**
    - Desarrollamos un apartado que muestre todos los detalles de los artículos buscados
    
-     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/dfc33962-3f1b-47ad-a0be-c9f28a1c789e)
+     ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/9c31965c-b8bc-4a88-b809-03a52da15723)
 
 
 5\.2.2.6. Services Documentation Evidence for Sprint Review
@@ -1685,6 +1690,9 @@ Para la entrega del Sprint N1, se desplego la primera versión de nuestra Web Ap
 Se realizaron un total de 78 commits para el desarrollo del frontend de nuestra aplicación web PetPal.
 
 ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e92d90cd-879f-4de9-ad4b-4a48ac618dde)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/c08daeb4-5a07-4e3d-9bd2-0ac2c991ae11)
+
 
 
 
