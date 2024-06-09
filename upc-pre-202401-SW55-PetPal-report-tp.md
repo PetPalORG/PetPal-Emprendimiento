@@ -1773,9 +1773,53 @@ Tomamos los siguientes elementos en consideración para la realización de las e
   - ¿Es claro cómo añadir y gestionar las citas?
   - ¿El calendario es intuitivo y fácil de usar?
 
+5\.3.2. Registro de Entrevistas.
+
+| **Entrevistado 1** | Renzo Castañeda Loayza |
+| :- | :- |
+| **Edad:** | **21** |
+| **Distrito:** | San Juan de Lurigancho |
+| **Resumen:** | Durante la entrevista, se recopilaron respuestas que resaltan varios aspectos esenciales relacionados con el cuidado de mascotas, específicamente enfocados en un perro de raza Cocker Spaniel. Se observó que la frecuencia de búsqueda de información sobre el cuidado de mascotas es baja, con un enfoque principal en temas de salud. Además, se encontró que la gestión de citas veterinarias se lleva a cabo de manera virtual, preferiblemente a través de correo electrónico o WhatsApp. Se identificaron inquietudes particulares relacionadas con el cuidado del pelaje y las orejas del perro, así como un interés en registrar su dieta para abordar problemas de sobrepeso. El entrevistado mencionó tener dificultades para organizar la información relacionada con el cuidado de sus mascotas manualmente y expresó el deseo de contar con un sistema automático que incluya consejos integrados. Se resaltó la importancia de tener acceso rápido a consejos de cuidado de mascotas y se manifestó el deseo de recibir ayuda veterinaria en línea en situaciones de emergencia. En cuanto a la elección de una aplicación de cuidado de mascotas sobre otra, se indicó que se basaría en una interfaz simple y atractiva, con un acceso fácil y una comprensión clara. Los usuarios prefieren acceder a la aplicación principalmente desde dispositivos móviles, aunque consideran ideal que esté disponible en ambas plataformas (móvil y de escritorio). Se prefieren las notificaciones simples para comunicar el estado de salud y recordatorios, y se considera la posibilidad de compartir información sobre el cuidado de mascotas con otros usuarios si se proporciona un foro comunitario. |
+| **Duración:** | 12 minutos |
+| **URL:** | [Enlace](https://drive.google.com/drive/folders/1ryyu3-eLZoAS4Q-EqN32L3PsXPeFkEh6?usp=drive_link) |
+
+| **Entrevistado 2** | Marycielo Zeballos |
+| :- | :- |
+| **Edad:** | **28 años** |
+| **Distrito:** | San Martín De Porres |
+| **Resumen:** | Durante la entrevista, Marycielo demostró un fuerte interés en la aplicación, especialmente en su utilidad para el cuidado de su perro Labrador Retriever. Su búsqueda frecuente de información se centra principalmente en aspectos como el entrenamiento y la salud del perro. Destacó la claridad de la información en la página principal y el diseño atractivo y fácil de navegar, así como la rapidez y la intuitividad del proceso de registro e inicio de sesión. En cuanto al contenido de la aplicación, Marycielo encontró los artículos muy útiles y relevantes, especialmente aquellos relacionados con el entrenamiento y la salud de las mascotas. Valoró la organización y accesibilidad de los artículos, así como la fluidez de la navegación entre ellos. Además, la experiencia en la gestión de perfiles de mascotas fue positiva, con una estructura clara de la información sobre la dieta y una visión precisa en la sección de salud, junto con un calendario de citas veterinarias muy útil y fácil de usar. Marycielo describió la navegación dentro de la aplicación como fluida y sin complicaciones, apreciando la facilidad para encontrar y editar la información de su mascota. Consideró que toda la información necesaria está incluida y que la funcionalidad de búsqueda y filtrado de artículos es adecuada, con contenido relevante y bien presentado. Manifestó su preferencia por acceder a la aplicación desde dispositivos móviles y expresó interés en la posibilidad de compartir información sobre el cuidado de mascotas con otros usuarios a través de un foro comunitario. |
+| **Duración:** | 10 minutos |
+| **URL:** | [Enlace](https://drive.google.com/drive/folders/1ryyu3-eLZoAS4Q-EqN32L3PsXPeFkEh6?usp=drive_link) |
+
+| **Entrevistado 3** | Antonella Jauliz |
+| :- | :- |
+| **Edad:** | **24 años** |
+| **Distrito:** | Breña |
+| **Resumen:** | Antonella resaltó la claridad de la información en la página principal y el diseño atractivo y fácil de navegar, aunque sugirió la inclusión de un tutorial breve para nuevos usuarios. El proceso de registro e inicio de sesión fue considerado intuitivo, y ella encontró útiles los artículos relacionados con el cuidado del pelaje y la salud dental de los gatos, aunque propuso mejoras en el filtrado por temas específicos. En cuanto a los perfiles de mascotas, Antonella encontró sencillo ingresar y actualizar la información, pero sugirió campos adicionales para hábitos específicos y ejemplos de dietas balanceadas. La sección de salud proporcionaba una visión clara del estado de la mascota, y el calendario de citas veterinarias fue considerado muy útil. Antonella valoró la navegación fluida dentro de la aplicación, aunque sugirió más opciones de personalización en las rutinas diarias. Prefiere acceder a la aplicación desde dispositivos móviles y muestra interés en compartir información a través de un foro comunitario. |
+| **Duración:** | 6 minutos |
+| **URL:** | [Enlace](https://drive.google.com/drive/folders/1ryyu3-eLZoAS4Q-EqN32L3PsXPeFkEh6?usp=drive_link) |
+
+| **Entrevistado 4** | David Palti |
+| :- | :- |
+| **Edad:** | **21 años** |
+| **Distrito:** | San Juan de Miraflores |
+| **Resumen:** | Durante la entrevista, David Palti expresó su interés en la aplicación de cuidado de mascotas, aunque admitió algunas dificultades iniciales para comprender completamente su funcionamiento. Aunque encontró la información en la página principal clara y el diseño atractivo, sugirió una mayor claridad en el proceso de inicio de sesión para una experiencia más fluida. En relación con la sección de artículos, David valoró la utilidad de la información pero expresó su deseo de ver más variedad de temas y una función de búsqueda más avanzada para una experiencia más personalizada. Respecto a los perfiles de mascotas, encontró la entrada de información sencilla pero sugirió más opciones de personalización y detalles adicionales para una gestión más completa. A pesar de algunas sugerencias de mejora, David consideró que la navegación dentro de la aplicación era fluida en general, aunque destacó la necesidad de una mayor intuición en algunas áreas, especialmente en la gestión de citas veterinarias. En resumen, David demostró un interés genuino en la aplicación y proporcionó valiosos comentarios para mejorar la experiencia del usuario, especialmente enfocados en la claridad del proceso de inicio de sesión y la navegación más intuitiva. |
+| **Duración:** | 5 minutos |
+| **URL:** | [Enlace](https://drive.google.com/drive/folders/1ryyu3-eLZoAS4Q-EqN32L3PsXPeFkEh6?usp=drive_link) |
+
+| **Entrevistado 5** | Piero Alesandro |
+| :- | :- |
+| **Edad:** | **20 años** |
+| **Distrito:** | Chorrillos |
+| **Resumen:** | Piero encontró la información clara y la navegación sencilla en todas las secciones de la aplicación. No tuvo problemas con el proceso de registro o inicio de sesión y consideró que todas las funciones eran útiles y fáciles de usar. Valoró la utilidad y relevancia de los artículos, así como la facilidad para encontrar información sobre el cuidado de mascotas específico. También encontró útil la sección de perfiles de mascotas, especialmente para gestionar la dieta y las citas veterinarias de su mascota. En general, Piero consideró que la aplicación cumplía con sus expectativas y proporcionaba una experiencia satisfactoria para el cuidado de su mascota. |
+| **Duración:** | 5 minutos |
+| **URL:** | [Enlace](https://drive.google.com/drive/folders/1ryyu3-eLZoAS4Q-EqN32L3PsXPeFkEh6?usp=drive_link) |
 
 
 
+5\.3.3. Evaluaciones según heurísticas.
+
+5\.4. Video About-the-Product.
 
 # **Conclusiones** 
 
