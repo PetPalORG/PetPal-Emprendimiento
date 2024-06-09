@@ -2030,7 +2030,7 @@ Mercado de cuidado de mascotas Insights. (n.d.). https://www.mordorintelligence.
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/PetPalORG/LandingPage)
 - Repositorio GitHub Frontend Application: [Ver enlace](https://github.com/PetPalORG/WebAppFront)
 - Figma: [Diseño en Figma](https://www.figma.com/file/vrwbSYk9W1tMcE8bqqXL8V/PET-PAL-base-design?type=design&node-id=27%3A1&mode=design&t=flDp1gAEf6ifHTXC-1)
-- Vertabelo: [Database Diagram](https://my.vertabelo.com/public-model-view/lvw8l43FtPK4CEWrIX6kDnL6XkXJErzaTKOFmJgAOLxccyWz0VqNTsJV1BrOe8rR?x=2402&y=2640&zoom=0.4028)
+- Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/w0VNfkUCyZXXcqCW78X2FISRmYECUcSA)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2701000)
     
 </div>
