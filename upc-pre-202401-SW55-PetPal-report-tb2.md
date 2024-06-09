@@ -2072,13 +2072,16 @@ Mercado de cuidado de mascotas Insights. (n.d.). https://www.mordorintelligence.
 
 
 # **Anexos**
-- Enlace para acceder a la landing page: [Ver enlace](https://petpalorg.github.io/LandingPage/)
-- Enlace para acceder al Web Application: [PetPal Web Application](https://petpal-384e5.web.app)
+- Enlace para acceder a la Landing Page: [Ver enlace](https://petpalorg.github.io/LandingPage/)
+- Enlace para acceder al Web Application: [PetPal Web Application](https://petpalteamupc.web.app)
 - Enlace del video del prototipo de Web Applicacions: [Ver Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EWT25UDtuHRHo4B8xRQmgOYBgOJETFpBeSmzfQW32B8d3Q?e=BFQIml&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- Enlace del video de exposición del TP: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EW6-p7TkI6dNq5J7B3Me8y8BwPiuLJtT9AdI4E_eSw1ymQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3ZGzPw)
+- Enlace del video de exposición del TB2: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EWVDUtnn35xErzjxeOippDwBzmjicxPhqedEygDcoQpb6w?e=zFD1Bb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Enlace del video About-The-Product: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EceZOaGZgkJEq-VFg-3OqNQBRHgfm3_tuyYznnObpvAzBw?e=AOJI0z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Enlace del video About-The-Team: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EexvzE1OBnJBg16FGytb1IsBPYX8YdPlUUNZCHdIpGlsrA?e=vY8ofu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Repositorio GitHub Informe: [Ver enlace](https://github.com/PetPalORG/PetPal-Informe)
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/PetPalORG/LandingPage)
-- Repositorio GitHub Frontend Application: [Ver enlace](https://github.com/PetPalORG/WebAppFront)
+- Repositorio GitHub Frontend Application: [Ver enlace](https://github.com/PetPalORG/Frontend-PetPal)
+- Repositorio GitHub Backend: [Ver enlace](https://github.com/PetPalORG/petpal.API)
 - Figma: [Diseño en Figma](https://www.figma.com/file/vrwbSYk9W1tMcE8bqqXL8V/PET-PAL-base-design?type=design&node-id=27%3A1&mode=design&t=flDp1gAEf6ifHTXC-1)
 - Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/w0VNfkUCyZXXcqCW78X2FISRmYECUcSA)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2701000)
