@@ -1742,7 +1742,15 @@ Se realizaron un total de 78 commits para el desarrollo del frontend de nuestra 
 |TS07|Post Vet Appointment|W-06|Implementación de citas veterinarias|<p>**Como** usuario</p><p>**Quiero** poder registrar las citas veterinarias de mi mascota</p><p>**Para** tener un registro en la aplicación</p>|4 hours|**Paolo Del Carmen Martinez Villanueva**|In progress|
 |TS10|Post Treatment|W-07|Implementación de tratamientos|<p>**Como** usuario</p><p>**Quiero** quiero registrar los tratamientos de mi mascota</p><p>**Para** tener un registro ordenado en la aplicación</p>|4 hours|**Paolo Del Carmen Martinez Villanueva**|In progress|
 
+5\.2.3.3. Development Evidence for Sprint Review
 
+5\.2.3.4. Testing Suite Evidence for Sprint Review
+
+5\.2.3.5. Execution Evidence for Sprint Review
+
+5\.2.3.6. Services Documentation Evidence for Sprint Review
+
+5\.2.3.7. Software Deployment Evidence for Sprint Review
 
 5\.3. Validation Interviews.. 
 
