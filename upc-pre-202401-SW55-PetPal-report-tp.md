@@ -1822,33 +1822,35 @@ Tomamos los siguientes elementos en consideración para la realización de las e
 # UX Heuristics & Principles Evaluation
 **CARRERA**: Ingeniería de Software  
 **CURSO**: Aplicaciones Web  
-**SECCIÓN**: SW55  
-**PROFESORES**: Todos  
+**SECCIÓN**: SW55   
 **AUDITOR**: Grupo 2  
-**CLIENTE(S)**: Macavilca Quispe, Ian  
 
 ## SITE o APP A EVALUAR:
-PetPal  
+PetPal
+
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web PetPal.
+
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen
 
 ## TAREAS A EVALUAR:
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
 1. Registro de un usuario nuevo
-2. Publicación de un post
-3. Búsqueda de un paquete turístico
-4. Reserva de un viaje
-5. Cancelación de una reserva
-6. Agregar ítems a un pedido
-7. Pago de un paquete turístico
-8. Etc.
+2. Inicio de sesión
+3. Agregar una mascota
+4. Agregar dieta de mascota
+5. Agregar citas veterinarias de mascota
+6. Agregar tratamiento de mascota
+7. Visualizar historial médico de mascota
+8. Búsqueda de artículos
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
-1. Compartir reservas entre usuarios
-2. Presentar ofertas de último minuto
-3. Administrar puntos del programa de fidelización de viajes
-4. Guardar “alerta de paquetes”
-5. Etc.
+1. Cambio de contraseña de usuario
+2. Cambio de correo de usuario
+3. Notificaciones
+4. Soporte técnico
+5. Internacionalización
 
 ## ESCALA DE SEVERIDAD:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
@@ -1866,10 +1868,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 1   | Los usuarios se sienten confundidos al intentar agregar una nueva mascota a su perfil debido a la falta de claridad en las instrucciones o la falta de un flujo de registro intuitivo.                                                                | 3         | Usability: Libertad y control del usuario   |
 | 2   | Los campos en el formulario de registro de mascotas no están organizados de manera lógica, lo que dificulta la navegación y comprensión para los usuarios, especialmente en dispositivos móviles.                                                      | 2         | Usability: Consistencia y estándares        |
 | 3   | Las imágenes de las mascotas en los perfiles carecen de descripciones alternativas (atributo "alt"), lo que excluye a usuarios con discapacidades visuales y no cumple con los estándares de accesibilidad.                                               | 3         | Inclusive Design: Proporciona experiencias comparables |
-| 4   | Los usuarios intentan compartir perfiles de mascotas a través de un botón de "Compartir", pero la funcionalidad no está implementada o no es clara, lo que genera confusión y frustración en la experiencia del usuario.                                    | 2         | Usability: Feedback y estado del sistema    |
-| 5   | La información sobre las necesidades específicas de salud y cuidado de las mascotas no está fácilmente accesible en los perfiles, lo que dificulta a los usuarios proporcionar el cuidado adecuado a sus mascotas.                                    | 3         | Information Architecture: Is it usable?      |
-| 6   | Algunos usuarios se encuentran con problemas al intentar editar o eliminar información en los perfiles de mascotas debido a la falta de opciones claras de edición o eliminación.                                                                       | 2         | Usability: Control y libertad del usuario   |
-| 7   | La aplicación no ofrece orientación adecuada o tutoriales para los usuarios nuevos, lo que resulta en una curva de aprendizaje pronunciada y dificulta la adopción de la aplicación por parte de nuevos usuarios.                                      | 3         | Usability: Ayuda y documentación             |
+| 4   | La información sobre las necesidades específicas de salud y cuidado de las mascotas no está fácilmente accesible en los perfiles, lo que dificulta a los usuarios proporcionar el cuidado adecuado a sus mascotas.                                    | 3         | Information Architecture: Is it usable?      |
+| 5   | Algunos usuarios se encuentran con problemas al intentar editar o eliminar información en los perfiles de mascotas debido a la falta de opciones claras de edición o eliminación.                                                                       | 2         | Usability: Control y libertad del usuario   |
+| 6   | La aplicación no ofrece orientación adecuada o tutoriales para los usuarios nuevos, lo que resulta en una curva de aprendizaje pronunciada y dificulta la adopción de la aplicación por parte de nuevos usuarios.                                      | 3         | Usability: Ayuda y documentación             |
 
 ## DESCRIPCIÓN DE PROBLEMAS:
 ### PROBLEMA #1: Dificultad para Agregar una Nueva Mascota al Perfil
@@ -1899,16 +1900,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 - **Recomendación**:
   - Agregar descripciones alternativas a las imágenes de las mascotas para garantizar que los usuarios con discapacidades visuales puedan acceder a la misma información que los usuarios que pueden ver las imágenes.
 
-### PROBLEMA #4: Confusión en la Funcionalidad de Compartir Perfiles de Mascotas
-- **Severidad**: 2
-- **Heurística Violada**: Usability - Feedback y estado del sistema
-- **Problema**:
-  - Los usuarios intentan compartir perfiles de mascotas a través de un botón de "Compartir", pero la funcionalidad no está implementada o no es clara, generando confusión y frustración en la experiencia del usuario.
-  - La falta de feedback claro sobre la acción de compartir afecta la experiencia del usuario y su percepción sobre la efectividad de la aplicación.
-- **Recomendación**:
-  - Implementar claramente la funcionalidad de compartir perfiles de mascotas a través de un botón de "Compartir" y proporcionar feedback inmediato para confirmar la acción del usuario.
 
-### PROBLEMA #5: Falta de Información sobre Necesidades de Salud y Cuidado de Mascotas
+### PROBLEMA #4: Falta de Información sobre Necesidades de Salud y Cuidado de Mascotas
 - **Severidad**: 3
 - **Heurística Violada**: Information Architecture - Is it usable?
 - **Problema**:
@@ -1917,7 +1910,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 - **Recomendación**:
   - Incluir claramente información sobre las necesidades de salud y cuidado de las mascotas en los perfiles, asegurando que los usuarios puedan acceder fácilmente a esta información importante.
 
-### PROBLEMA #6: Dificultades para Editar o Eliminar Información en los Perfiles de Mascotas
+### PROBLEMA #5: Dificultades para Editar o Eliminar Información en los Perfiles de Mascotas
 - **Severidad**: 2
 - **Heurística Violada**: Usability - Control y libertad del usuario
 - **Problema**:
@@ -1926,7 +1919,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 - **Recomendación**:
   - Mejorar la funcionalidad de edición y eliminación en los perfiles de mascotas, proporcionando opciones claras y fáciles de usar para que los usuarios puedan gestionar la información de manera efectiva.
 
-### PROBLEMA #7: Ausencia de Orientación para Usuarios Nuevos
+### PROBLEMA #6: Ausencia de Orientación para Usuarios Nuevos
 - **Severidad**: 3
 - **Heurística Violada**: Usability - Ayuda y documentación
 - **Problema**:
