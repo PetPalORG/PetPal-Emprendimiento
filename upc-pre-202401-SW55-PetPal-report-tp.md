@@ -1707,6 +1707,75 @@ Se realizaron un total de 78 commits para el desarrollo del frontend de nuestra 
 | stxfxno           | Michael Stefano Carmelino Dueñas     |
 
 
+5\.3. Software Configuration Management. 
+
+5\.3.1. Diseño de Entrevistas.
+
+Tomamos los siguientes elementos en consideración para la realización de las entrevistas
+
+**1. Landing Page**
+    
+- **Objetivo:** Evaluar la primera impresión y claridad del propósito de la app.
+- **Preguntas de Validación:**
+  - ¿Es clara la información presentada en la página principal?
+  - ¿El diseño es atractivo y fácil de navegar?
+  - ¿Entiendes rápidamente de qué trata la app?
+
+**2. Registro e Inicio de Sesión**
+
+- **Objetivo:** El usuario se registra o inicia sesión.
+- **Preguntas de Validación:**
+  - ¿El proceso de registro/inicio de sesión es intuitivo y rápido?
+  - ¿Hay algún paso que te resulte confuso o innecesario?
+
+**3. App Web**
+
+**a. Sección de Artículos**
+
+- **Objetivo:** Evaluar la relevancia y accesibilidad de la información.
+- **Preguntas de Validación:**
+  - ¿La información es útil y relevante?
+  - ¿Los artículos están bien organizados y son fáciles de encontrar?
+  - ¿Es fácil navegar entre los artículos y encontrar lo que necesitas?
+
+**b. Perfiles de Mascotas**
+
+- **Objetivo:** Evaluar la funcionalidad y facilidad de uso de los perfiles de mascotas.
+- **Preguntas de Validación:**
+  - ¿Es fácil ingresar y actualizar la información de la mascota?
+  - ¿La información de la dieta está bien estructurada y es comprensible?
+  - ¿La sección de salud proporciona una visión clara del estado de la mascota?
+  - ¿Es útil y fácil de usar el calendario de citas veterinarias?
+
+**c. Navegación dentro de las secciones de la app**
+
+**Flow: El usuario navega por las diferentes secciones de la app.**
+
+- **Preguntas de Validación:**
+  - ¿Es fácil encontrar las diferentes secciones (artículos, perfiles, etc.)?
+  - ¿La navegación es fluida y sin complicaciones?
+
+**Flow: El usuario crea y actualiza el perfil de su mascota.**
+
+- **Preguntas de Validación:**
+  - ¿Es claro cómo añadir o editar la información de la mascota?
+  - ¿Hay alguna información que consideres que falta o sobra?
+
+**Flow: El usuario busca y lee artículos sobre el cuidado de mascotas.**
+
+- **Preguntas de Validación:**
+  - ¿Es fácil buscar y filtrar los artículos según tus intereses?
+  - ¿El contenido es relevante y bien presentado?
+
+**Flow: El usuario programa y gestiona las citas veterinarias.**
+
+- **Preguntas de Validación:**
+  - ¿Es claro cómo añadir y gestionar las citas?
+  - ¿El calendario es intuitivo y fácil de usar?
+
+
+
+
 
 # **Conclusiones** 
 
