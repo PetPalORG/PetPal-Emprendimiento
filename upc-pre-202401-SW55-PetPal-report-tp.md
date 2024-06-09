@@ -1707,6 +1707,43 @@ Se realizaron un total de 78 commits para el desarrollo del frontend de nuestra 
 | stxfxno           | Michael Stefano Carmelino Dueñas     |
 
 
+**5.2.3. Sprint 3**
+
+
+
+**5.2.3.1.Spring Planning 3.**
+
+| **Sprint #** | **Sprint 3** |
+| :- | :- |
+| **Sprint Planning Background** | |
+| Date | 20/05/2024 |
+| Time | 8:00 PM - 11:00 PM |
+| Location | Discord |
+| **Prepared By** | Paolo Del Carmen Martinez Villanueva  |
+| Attendees | - Michael Stefano Carmelino Dueñas (u202212760)<br>- Frank Junior Salazar Saldarriaga (u20181h103)<br>- Francis Daniel Mamani Silva (u202219315)<br>- Ian Macavilca Quispe (u202121325)<br>- Paolo Del Carmen Martinez Villanueva (u202010039) |
+| **Sprint 3 Review Summary** | En el sprint anterior, logramos desarrollar el frontend de nuestra aplicación. |
+| **Sprint 3 Retrospective Summary** | En el sprint anterior, se logró mejorar varios aspectos del proyecto. Además, se puede seguir mejorando  algunos componentes segun lo indicado. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Elaborar, diseñar la primera versión del BackEnd de la aplicación web de PetPal, incluyendo los cambios necesarios para mejorar la integración con el FrontEnd.  |
+| **Sprint 3 Velocity** | 40 |
+| **Sum of Story Points** | 40|
+
+5\.2.3.2. Sprint Backlog 3
+
+|**Sprint #**|**Sprint 3**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
+|TS01|Post User Registration|W-01|Implementación de registro de usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en PetPal</p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|3 hours|**Frank Junior Salazar Saldarriaga**|Done|
+|TS02|Get User|W-02|Implementación de obtención de Usuario|<p>**Como** usuario registrado</p><p>**Quiero** poder obtener mi información de usuario en TripMate</p><p>**Para** acceder fácilmente a mis datos personales en la aplicación</p>|2 hours|**Michael Stefano Carmelino Dueñas**|Done|
+|TS03|Post Pet|W-03|Implementación de creación de mascota|<p>**Como** usuario registrado</p><p>**Quiero** poder crear el perfil de mi mascota</p><p>**Para** poder registrarla en la aplicación</p>|3 hours|**Francis Daniel Mamani Silva**|In progress|
+|TS04|Get Pet|W-04|Implementación de obtención de mascota|<p>**Como** usuario</p><p>**Quiero** poder obtener los perfiles de mis mascotas</p><p>**Para** obtener la información cuando la necesite</p>|2 hours|**Ian Macavilca Quispe**|In progress|
+|TS05|Post Food|W-05|Implementación de dieta de mascota|<p>**Como** usuario</p><p>**Quiero** registrar la dieta de mi mascota</p><p>**Para** poder controlarla de manera eficiente en la aplicación</p>|4 hours|**Paolo Del Carmen Martinez Villanueva**|In progress|
+|TS07|Post Vet Appointment|W-06|Implementación de citas veterinarias|<p>**Como** usuario</p><p>**Quiero** poder registrar las citas veterinarias de mi mascota</p><p>**Para** tener un registro en la aplicación</p>|4 hours|**Paolo Del Carmen Martinez Villanueva**|In progress|
+|TS10|Post Treatment|W-07|Implementación de tratamientos|<p>**Como** usuario</p><p>**Quiero** quiero registrar los tratamientos de mi mascota</p><p>**Para** tener un registro ordenado en la aplicación</p>|4 hours|**Paolo Del Carmen Martinez Villanueva**|In progress|
+
+
+
 5\.3. Validation Interviews.. 
 
 5\.3.1. Diseño de Entrevistas.
