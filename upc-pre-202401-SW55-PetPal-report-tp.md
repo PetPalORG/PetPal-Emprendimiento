@@ -1707,7 +1707,7 @@ Se realizaron un total de 78 commits para el desarrollo del frontend de nuestra 
 | stxfxno           | Michael Stefano Carmelino Dueñas     |
 
 
-5\.3. Software Configuration Management. 
+5\.3. Validation Interviews.. 
 
 5\.3.1. Diseño de Entrevistas.
 
