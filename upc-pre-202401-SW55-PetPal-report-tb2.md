@@ -2191,6 +2191,12 @@ En la fase final del proyecto , dedicada al desarrollo del backend, la colaborac
 
 Durante el desarrollo del backend de PetPal, la comunicación escrita clara y objetiva fue esencial para documentar avances y asegurar la comprensión entre todos los interesados, desde desarrolladores hasta stakeholders de alto nivel. La elaboración de documentación detallada y bien estructurada facilitó la revisión de código, la implementación de funcionalidades y la integración de sistemas. Esta habilidad de comunicación permitió que las ideas y resultados fueran entendidos y valorados correctamente, evitando malentendidos y asegurando una alineación constante con los objetivos del proyecto. Este enfoque ha mejorado significativamente la eficiencia y eficacia de nuestro equipo, contribuyendo de manera crucial al éxito del proyecto.
 
+Por otro lado nuestra experiencia destacó la importancia crítica de la comunicación técnica clara y la colaboración en el desarrollo de sistemas backend complejos. La capacidad para documentar de manera detallada y estructurada facilitó no solo la revisión de código y la implementación de nuevas funcionalidades, sino también la gestión eficiente de riesgos y la planificación estratégica. Esto aseguró que las decisiones técnicas estuvieran fundamentadas en datos concretos y en una comprensión compartida de los requisitos del proyecto.
+
+Además, la comunicación efectiva en todos los niveles, desde desarrolladores hasta stakeholders de alto nivel, fue crucial para alinear constantemente nuestros esfuerzos con los objetivos del proyecto. Esta habilidad permitió que las ideas y resultados fueran entendidos y valorados correctamente, evitando malentendidos y asegurando una ejecución coherente y exitosa del proyecto.
+
+Teniendo asi claro que nuestra capacidad para comunicar claramente los avances técnicos y colaborar de manera efectiva ha fortalecido significativamente nuestras competencias técnicas y nuestro desempeño en un entorno multidisciplinario. Esta experiencia en PetPal no solo ha mejorado la eficiencia y eficacia de nuestro equipo, sino que también ha sentado las bases para futuros proyectos donde la comunicación técnica clara y la colaboración continuarán siendo pilares fundamentales para el éxito.
+
 
 
 # **Bibliografía** 
