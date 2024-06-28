@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/d671f7d3-fb77-47be-bfc4-c69adabeb835)<div align="center">
   
 ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/55b272a3-26f7-4c8b-9da7-39b023ceaeb5)
 
@@ -1882,6 +1882,51 @@ LOGIN
 
 5\.2.4.5. Execution Evidence for Sprint Review
 
+Registro de mascota
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e0b7e8bd-f0e9-4a2f-8d2c-717207572613)
+
+Perfiles de mascota
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/8e73c440-0960-47e2-ba47-13168c7fb0ce)
+
+Dieta de mascota
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/3cc0fedd-0082-47e3-b4cb-11ef9097bafb)
+
+Añadir comida
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/f52e7cbd-b520-42f8-bf66-706fff200760)
+
+Citas veterinarias de mascota
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e43e4706-2830-452b-8607-a6a088abfe18)
+
+Añadir cita veterinaria
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/33ceeba6-eff9-478d-9bab-93887e3e15a3)
+
+Añadir tratamiento
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/39219db2-b2b0-4a34-98a3-9d1194f36626)
+
+Tratamientos de mascota
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/865f3aad-f5a3-4e18-9526-e8f7b97c17fd)
+
+Añadir medicamento
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e85f12a3-748f-4c7a-af96-69d4cafe94cb)
+
+Artículos
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/003099e4-fb3f-43a0-aa84-09ede59f1106)
+
+Detalle de artículo
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/2181a5fc-d988-4091-aed8-7614f898b229)
+
+
 
 5\.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -1945,9 +1990,11 @@ AUTHENTICATION CONTROLLER (POST SIGN-IN, POST SIGN-UP)
 
 FRONTEND
 
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/83f05d55-2399-4299-9c8c-ec0ff3ec13a5)
 
 BACKEND
 
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/13e9bf21-e53f-4ed3-ab51-f0bb5162c88e)
 
 
 5\.3. Validation Interviews.. 
