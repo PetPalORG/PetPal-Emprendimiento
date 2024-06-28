@@ -1985,6 +1985,19 @@ AUTHENTICATION CONTROLLER (POST SIGN-IN, POST SIGN-UP)
 
 5\.2.4.7. Software Deployment Evidence for Sprint Review
 
+Para desployar nuestra aplicación web se utilizó el servicio de Firebase.
+
+
+
+Para desployar nuestros servicios web se utilizó Microsoft Azure 
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/fdf69a07-6e3e-463c-9804-b42dc93ab0ed)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/f1a037e9-53a1-4924-9707-6ebeea892da0)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/dc472663-02fe-4cdf-875f-7801f92f3dcb)
+
+
 
 5\.2.4.8. Team Collaboration Insights During Sprint
 
