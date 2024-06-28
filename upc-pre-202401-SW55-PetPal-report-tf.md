@@ -1742,8 +1742,8 @@ Se realizaron un total de 78 commits para el desarrollo del frontend de nuestra 
 | **Sprint 3 Retrospective Summary** | En el sprint anterior, se logró mejorar varios aspectos del proyecto. Además, se puede seguir mejorando  algunos componentes segun lo indicado. |
 | **Sprint Goal & User Stories** | |
 | **Sprint 3 Goal** | Elaborar, diseñar la primera versión del BackEnd de la aplicación web de PetPal, incluyendo los cambios necesarios para mejorar la integración con el FrontEnd.  |
-| **Sprint 3 Velocity** | 40 |
-| **Sum of Story Points** | 40|
+| **Sprint 3 Velocity** | 21 |
+| **Sum of Story Points** | 21|
 
 5\.2.3.2. Sprint Backlog 3
 
@@ -1844,8 +1844,8 @@ LOGIN
 | **Sprint 3 Retrospective Summary** | En el sprint anterior, se logró mejorar varios aspectos del proyecto e identificar errores pasados para ser corregidos. |
 | **Sprint Goal & User Stories** | |
 | **Sprint 4 Goal** | Elaborar, diseñar la versión final del BackEnd de la aplicación web de PetPal, incluyendo los cambios necesarios para mejorar la integración con el FrontEnd.  |
-| **Sprint 4 Velocity** | 40 |
-| **Sum of Story Points** | 40|
+| **Sprint 4 Velocity** | 27 |
+| **Sum of Story Points** | 27|
 
 
 5\.2.4.2. Sprint Backlog 4
