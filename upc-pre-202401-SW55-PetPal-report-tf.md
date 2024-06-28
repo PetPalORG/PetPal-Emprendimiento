@@ -1176,7 +1176,7 @@ Para el proyecto PetPal, se ha optado por utilizar MySQL como motor de base de d
 
 4\.8.1. Database Diagram.
 
-![image](https://github.com/PetPalORG/PetPal-Emprendimiento/assets/164519824/c42e5688-690f-47a9-8dbc-0ff49fb1a734)
+![PetPal-2024-06-28_16-15](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/a1e68359-8ba8-49b8-a00b-7994e0d8450f)
 
 
 # **Capítulo V: Product Implementation, Validation & Deployment.** 
