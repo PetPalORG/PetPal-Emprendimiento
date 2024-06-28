@@ -1811,6 +1811,145 @@ LOGIN
 ![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/f757b6d1-6151-47a8-b072-ed494d235f18)
 
 
+
+**5.2.4. Sprint 4**
+
+**5.2.4.1.Spring Planning 4.**
+
+| **Sprint #** | **Sprint 4** |
+| :- | :- |
+| **Sprint Planning Background** | |
+| Date | 10/06/2024 |
+| Time | 9:00 PM - 11:00 PM |
+| Location | Discord |
+| **Prepared By** | Paolo Del Carmen Martinez Villanueva  |
+| Attendees | - Michael Stefano Carmelino Dueñas (u202212760)<br>- Frank Junior Salazar Saldarriaga (u20181h103)<br>- Francis Daniel Mamani Silva (u202219315)<br>- Ian Macavilca Quispe (u202121325)<br>- Paolo Del Carmen Martinez Villanueva (u202010039) |
+| **Sprint 3 Review Summary** | En el sprint anterior, logramos realizar algunas technical stories referentes a nuestra API. |
+| **Sprint 3 Retrospective Summary** | En el sprint anterior, se logró mejorar varios aspectos del proyecto e identificar errores pasados para ser corregidos. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal** | Elaborar, diseñar la versión final del BackEnd de la aplicación web de PetPal, incluyendo los cambios necesarios para mejorar la integración con el FrontEnd.  |
+| **Sprint 4 Velocity** | 40 |
+| **Sum of Story Points** | 40|
+
+
+5\.2.4.2. Sprint Backlog 4
+
+|**Sprint #**|**Sprint 4**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
+|TS01|Post User|W-01|Implementación de registro de usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en PetPal</p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|3 hours|**Michael Stefano Carmelino Dueñas**|Done|
+|TS03|Post Pet|W-02|Implementación de registro de mascota|<p>**Como** usuario registrado</p><p>**Quiero** poder registrar mi mascota en PetPal</p><p>**Para** poder crearle un perfil en la aplicación y administrar su cuidado</p>|2 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
+|TS04|Get Pet|W-04|Implementación de obtención de mascota|<p>**Como** usuario</p><p>**Quiero** poder obtener los perfiles de mis mascotas</p><p>**Para** obtener la información cuando la necesite</p>|2 hours|**Ian Macavilca Quispe**|Done|
+|TS05|Post Food|W-05|Implementación de dieta de mascota|<p>**Como** usuario</p><p>**Quiero** registrar la dieta de mi mascota</p><p>**Para** poder controlarla de manera eficiente en la aplicación</p>|4 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
+|TS07|Post Vet Appointment|W-06|Implementación de citas veterinarias|<p>**Como** usuario</p><p>**Quiero** poder registrar las citas veterinarias de mi mascota</p><p>**Para** tener un registro en la aplicación</p>|4 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
+|TS07|Get Food By Pet|W-06|Implementación de obtención de comidas por mascota|<p>**Como** usuario</p><p>**Quiero** poder obtener las comidas registradas de mi mascota</p><p>**Para** llevar un registro de su alimentación</p>|4 hours|**Frank Junior Salazar Saldarriaga**|Done|
+|TS10|Post Treatment|W-07|Implementación de tratamientos|<p>**Como** usuario</p><p>**Quiero** quiero registrar los tratamientos de mi mascota</p><p>**Para** tener un registro ordenado en la aplicación</p>|4 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
+|TS10|Post Medication|W-07|Implementación de medicamentos|<p>**Como** usuario</p><p>**Quiero** quiero un medicamento al tratamiento de mi mascota</p><p>**Para** saber el medicamento que necesita mi mascota para su tratamiento</p>|4 hours|**Paolo Del Carmen Martinez Villanueva**|Done|
+|TS11|Get Article|W-07|Implementación de obtención de artículos|<p>**Como** usuario</p><p>**Quiero** poder obtener artículos de cuidado de mascota</p><p>**Para** aumentar mis conocimientos sobre el cuidado de mis mascotas</p>|1 hours|**Francis Daniel Mamani Silva**|Done|
+
+
+5\.2.4.3. Development Evidence for Sprint Review
+
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|PetPalORG/<br>petpal.API|bounded-context/pet-care|cd59f30|feat: create pet care bounded context|-|24/06/2024| 
+|PetPalORG/<br>petpal.API|bounded-context/pet-care|7774c54|feat: update pet care bounded context|-|25/05/2024| 
+|PetPalORG/<br>petpal.API|bounded-context/articles|648082b|feat: add articles bounded context|-|25/05/2024| 
+|PetPalORG/<br>petpal.API|bounded-context/articles|a0268e1|fix: update shared|-|25/06/2024| 
+|PetPalORG/<br>petpal.API|bounded-context/articles|83a088f|fix: update|-|25/06/2024| 
+|PetPalORG/<br>petpal.API|bounded-context/authentication|a625f05|feat: add authentication bounded context|-|25/06/2024| 
+|PetPalORG/<br>petpal.API|bounded-context/pet-care|af0ccff|fix: program.cs|-|25/06/2024|
+|PetPalORG/<br>petpal.API|bounded-context/authentication|2db8402|Merge branch 'develop' into bounded-context/authentication|-|25/06/2024| 
+|PetPalORG/<br>petpal.API|bounded-context/articles|656c6fa|Merge branch 'develop' into bounded-context/articles|-|25/05/2024| 
+|PetPalORG/<br>petpal.API|develop|9390bfe|feat: fix entities and add user relationship|-|26/06/2024| 
+|PetPalORG/<br>petpal.API|develop|9233f51|feat: swagger docs, cors, bearer|-|26/06/2024| 
+|PetPalORG/<br>petpal.API|develop|e6f41fc|feat: update|-|26/06/2024| 
+
+
+5\.2.4.4. Testing Suite Evidence for Sprint Review
+
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|PetPalORG<br>/AcceptanceTest|main|d9dd7c4|feat: add TS01|-|09/06/2024| 
+|PetPalORG<br>/AcceptanceTest|main|81f1d0d|feat: add TS02.feature|-|09/06/2024|
+|PetPalORG<br>/AcceptanceTest|main|89c4d49|feat: add TS03|-|09/06/2024| 
+|PetPalORG<br>/AcceptanceTest|main|ae44f9e|feat: add TS04|-|09/06/2024| 
+|PetPalORG<br>/AcceptanceTest|main|c091160|feat: add TS05|-|09/06/2024|
+|PetPalORG<br>/AcceptanceTest|main|3470997|feat: add TS07|-|09/06/2024|
+|PetPalORG<br>/AcceptanceTest|main||feat: add US10|-|09/06/2024|
+
+
+5\.2.4.5. Execution Evidence for Sprint Review
+
+
+5\.2.4.6. Services Documentation Evidence for Sprint Review
+
+APPOINTMENTS CONTROLLER (POST, GET, GET ALL, GET BY ID, DELETE)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e345717c-0414-470f-86cd-0aa6c441b933)
+
+APPOINTMENTS TREATMENT CONTROLLER (GET TREATMENT BY APPOINTMENT ID)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/51480fca-033a-48a9-9d73-9956432d74b2)
+
+ARTICLE CONTROLLER (POST, GET, GET BY ID)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/850e09d4-16ae-4463-baad-b75ce1984bf8)
+
+MEAL CONTROLLER (POST, GET BY ID, DELETE)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/79d5f4ad-a1f5-42e1-8d70-a91b61cdf803)
+
+MEDICATION CONTROLLER (POST, GET BY ID, DELETE)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/48b67eac-aeda-4272-9edf-a1bb1adc0578)
+
+PET MEALS CONTROLLER (GET MEALS BY PET ID)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/635a3736-862a-4f3c-ad62-c13657c9119d)
+
+PET CONTROLLER (POST, GET, GET BY ID, DELETE)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/656e2bd4-d879-4948-9263-eb6cce2a499e)
+
+PETS APPOINTMENTS CONTROLLER (GET APPOINTMENTS BY PET ID)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/478f171a-4b82-4a60-8cb6-a4466410c2a7)
+
+TREATMENTS CONTROLLER (POST, GET BY ID, DELETE)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/fb420423-dbec-43e6-8cb8-820023f80434)
+
+TREATMENTS MEDICATION CONTROLLER (GET MEDICATION BY TREATMENT ID)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/1eeecbd8-4cf3-4aed-ab3c-47d046a48d51)
+
+USER PETS CONTROLLER (GET PETS BY USER ID)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/476f7d1a-d57d-4f1d-94ed-5f7b0bcbd00a)
+
+USERS CONTROLLER (GET ALL, GET BY ID)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/c524e1fe-e8e3-4b35-a743-7dc01aec7800)
+
+AUTHENTICATION CONTROLLER (POST SIGN-IN, POST SIGN-UP)
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/e56e7d48-fb22-4dea-b7a2-1573344134e7)
+
+
+5\.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+5\.2.4.8. Team Collaboration Insights During Sprint
+
+FRONTEND
+
+
+BACKEND
+
+
+
 5\.3. Validation Interviews.. 
 
 5\.3.1. Diseño de Entrevistas.
